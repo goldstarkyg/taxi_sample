@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="no_sufficient_amount">You have no sufficient amount !1</string>
+	<string name="up_coming">On Going1</string>
+    <string name="app_buildversion">Version1</string>
+    <string name="english">English1</string>
+    <string name="russian">русский1</string>
+    <string name="arabic">العربية1</string>
+    <string name="turkey">Türk1</string>
+    <string name="frence">French1</string>
+    <string name="german">Deutsch1</string>
+    <string name="app_name">TaxiMobility1</string>
+    <string name="app_namemanifest">TaxiMobility Driver1</string>
+    <string name="connect_error">Network Connection Error!1</string>
+    <string name="c_tryagain"> Try again! 1</string>
+    <string name="please_wait">Please wait1</string>
+    <string name="back">Back1</string>
+    <string name="nodata">No data found1</string>
+    <string name="spanish">Español1</string>
+
+    <string name="facebook_app_name" translatable="false">TaxiMobility1</string>
+
+    <!-- Splash Act -->
+    <string name="check_net_connection">Check your Internet connection1</string>
+    <string name="gps_is_settings">GPS in settings1</string>
+    <string name="gps_is_not_enabled">GPS is not enabled. Do you want to go to Settings?1</string>
+    <string name="location_disable">Location Services Disabled1</string>
+    <string name="location_enable">Please enable location services.1</string>
+    <string name="enable">Enable1</string>
+    <string name="menu_settings">Settings1</string>
+    <string name="cancel"> Cancel 1</string>
+
+    <string name="please_check_internet">Please check your Internet connection1</string>
+
+    <!-- Login Act -->
+    <string name="phone"> Mobile Number 1</string>
+    <string name="password"> Password 2</string>
+    <string name="forgotpswd"> Forgot Password? 1</string>
+    <string name="done"> DONE 1</string>
+    <string name="signin">Sign In1</string>
+    <string name="enter_your_mobile_number">Please enter your mobile number1</string>
+    <string name="check_internet">Please Take New Ride1</string>
+    <string name="t_ok"> OK 1</string>
+    <string name="t_success"> SUCCESS 1</string>
+    <string name="login_success">You have successfully logged in to TaxiMobility.1</string>
+    <string name="enter_mobile_number">Please enter your mobile number1</string>
+    <string name="enter_the_password">Please enter your password1</string>
+    <string name="pwd_min">Password should be minimum 6 characters1</string>
+    <string name="confirmlogout">Are you sure you want to log out?1</string>
+    <string name="confirm_complete">Are you sure you want to complete the trip?1</string>
+
+    
+
+    <!-- My Status Act -->
+    <string name="my_status">My Location1</string>
+    <string name="you_are_here">You are here!1</string>
+    <string name="current_location">Current Location1</string>
+
+    <!-- JobsAct -->
+    <string name="trip_history">Trip History1</string>
+    <string name="trip_details">Trip Details1</string>
+    <string name="pending_booking">Pending Bookings1</string>
+    <string name="past_booking">Past Bookings1</string>
+    <string name="no_booking">There is no booking1</string>
+    <string name="accepter_txt">Accepted1</string>
+    <string name="time_txt">Time1</string>
+    <string name="book_time">Booking Date &amp; Time1</string>
+    <string name="drop_txt">Drop1</string>
+
+    <!-- Notification Act -->
+    <string name="name">Name1</string>
+    <string name="accept_time">30 SECONDS LEFT TO ACCEPT1</string>
+    <string name="min">Min1</string>
+    <string name="sec">Sec1</string>
+    <string name="minutestxt">Minute1</string>
+    <string name="mins">Min(s)1</string>
+    <string name="secondstxt">Seconds1</string>
+    <string name="accept"> ACCEPT 1</string>
+    <string name="decline"> DECLINE 1</string>
+    <string name="Trip_Request">Trip Request1</string>
+    <string name="seconds_to_left">LEFT TO ACCEPT1</string>
+
+    <!-- Ongoing Act -->
+    <string name="device_not_support_map">Device does not support map version!1</string>
+    <string name="you_dont_have_passenger">You don't have a passenger1</string>
+    <string name="invalid_mobile_number">Invalid mobile number1</string>
+    <string name="stop_waiting">Stop Waiting1</string>
+    <string name="start_waiting">Start Waiting1</string>
+    <string name="heading_ongoing">Waiting for Passenger1</string>
+    <string name="pass_onboard">Start Trip1</string>
+    <string name="ongoing_journey">Trip in Progress1</string>
+    <string name="waiting_time_txt">Start Waiting1</string>
+    <string name="arvd_destination">End Trip1</string>
+    <string name="pickup_passenger">Pick Up Passenger1</string>
+    <string name="ive_arrived">I've arrived1</string>
+    <string name="you_are_in_trip">You're already in a trip!1</string>
+    <string name="address_output_string">%1$s %2$s %3$s1</string>
+    <string name="pickuploc"> Pick up Location 1</string>
+    <string name="droploc"> Drop off Location 1</string>
+    <string name="picklocation"> Pick up Location 1</string>
+    <string name="notes">Landmark1</string>
+    <string name="you">You1</string>
+    <string name="waiting_time">Waiting Time :1</string>
+    <string name="total_km">Total KM 1</string>
+
+    <!-- Fare calculator -->
+    <string name="ent_valid_amt">Enter valid amount1</string>
+    <string name="actual_distance">Total Distance1</string>
+    <string name="waiting_cost"> Waiting Time Cost 1</string>
+    <string name="Tax"> Tax1</string>
+    <string name="tax"> Tax( 1</string>
+    <string name="tax_percent"> %) 1</string>
+    <string name="total_amount">Total1</string>
+    <string name="paymentby"> PAYMENT BY 1</string>
+    <string name="cash"> Cash 1</string>
+    <string name="card"> Card 1</string>
+    <string name="uncard"> New Card 1</string>
+    <string name="account"> ACCOUNT 1</string>
+    <string name="fare_calculator">Fare Calculator1</string>
+    <string name="wallet_amount">Wallet Amount Used1</string>
+    <string name="pay_amount">Amount to Pay1</string>
+
+
+    <!-- Job Done Act -->
+    <string name="trip_completed">Trip Completed1</string>
+
+    <string name="trip_id">Trip ID1</string>
+    <string name="p_congrats"> Payment Completed 1</string>
+    <string name="p_main"> Back To Home 1</string>
+
+    <!-- payuncard_lay -->
+    <string name="p_cardno"> Card Number **** **** **** 4610 1</string>
+    <string name="p_expiry"> Expiry MM/YY 1</string>
+    <string name="p_cvv"> CVV 3 digit 1</string>
+    <!-- add newly -->
+    <!-- invite friend -->
+    <string name="invite_sms">SMS1</string>
+    <string name="invite_email">Email1</string>
+    <string name="invite_fb">Facebook1</string>
+    <string name="invite_whatsapp">WhatsApp1</string>
+    <string name="invite_twitter">Twitter1</string>
+    <string name="invite_sharevia">Share Via1</string>
+    <string name="invite_frdrides">When a driver rides the trip with your code1</string>
+    <string name="invite_youearn">You Earn1</string>
+    <string name="invite_friend">Invite Friend1</string>
+
+    <string name="sendmail">Send mail1</string>
+    <string name="there_is_no_email_client_installed">There is no email client installed1</string>
+    <string name="add">Add1</string>
+    <!-- trip details -->
+    <string name="amount"> Amount 1</string>
+    <string name="payment"> Payment 1</string>
+    <string name="jobref"> Job Ref 1</string>
+    <string name="pickup_txt">Pickup1</string>
+    <string name="t_passname">Passenger Name1</string>
+    <string name="t_pickloc">Pick up Location1</string>
+    <string name="t_picktime">Pick up Time1</string>
+    <string name="t_droploc">Drop off Location1</string>
+    <string name="t_droptime">Drop off Time1</string>
+    <string name="t_distance">Distance1</string>
+    <string name="t_tripduration">Trip Duration1</string>
+    <string name="waiting_fare">Waiting Fare1</string>
+
+    <!-- pay uncard -->
+    <string name="heading_payuncard">Pay with unregistered card1</string>
+    <string name="ent_ccard_no">Please enter your credit card number1</string>
+    <string name="ent_chk_ccard">Kindly check your credit card number1</string>
+    <string name="ent_exp_date">Please enter expiry date1</string>
+    <string name="ent_exp_month_gt">Expiry month should be equal and greater than the current month1</string>
+    <string name="ent_exp_year_gt">Expiry year should be equal and greater than the current year1</string>
+    <string name="ent_cvv">Please enter your CVV number1</string>
+    <string name="ent_chk_cvv">Kindly check your CVV number1</string>
+    <string name="message"> Message 1</string>
+    <string name="ok">OK1</string>
+    <string name="select_language">Select Language1</string>
+    <string name="discount">Discount(1</string>
+    <string name="trip_fare">Trip Fare1</string>
+    <string name="enter_the_first_name">Please enter your first name1</string>
+    <string name="enter_the_last_name">Please enter your last name1</string>
+    <string name="enter_the_card_number">Please enter your card number1</string>
+    <string name="enter_the_valid_card_number">Please enter valid card number1</string>
+    <string name="enter_the_expiry_date">Please enter your expiry date1</string>
+    <string name="enter_the_valid_expiry_date">Enter valid expiry date1</string>
+    <string name="enter_the_email">Please enter your Email1</string>
+    <string name="enter_the_valid_email">Please enter valid Email1</string>
+
+    <!-- Ongoing Trip Act -->
+    <string name="yes">Yes1</string>
+    <string name="no">No1</string>
+    <string name="cancel_in_going_trip">Are you sure you want to cancel the trip?1</string>
+
+    <!-- If you cancel the trip, cancellation fee will be detected from your card ! -->
+
+
+    <!-- Dashboard Act -->
+    <string name="please_click_back_again_exit">Please click back again to exit1</string>
+    <string name="m_upcoming">Confirmed Trips1</string>
+    <string name="m_statistics"> Statistics 1</string>
+    <string name="m_assigned"> Assigned Taxi 1</string>
+    <string name="m_ongoing"> Ongoing Trip 1</string>
+
+    <!-- UpcomingtripAct -->
+
+    <string name="p_passname"> Passenger Name 1</string>
+    <string name="p_nopass"> No. of Passengers 1</string>
+    <string name="p_pickdate"> Pick up Date 1</string>
+    <string name="p_picktime"> Pick up Time 1</string>
+
+    <!-- AssignTaxi Act -->
+    <string name="taxi_no">Taxi Number1</string>
+    <string name="taxi_capacity">Taxi Capacity1</string>
+    <string name="taxi_speed">Taxi speed/Hr1</string>
+    <string name="taxi_luggage">Max luggage/Kg1</string>
+    <string name="upload_your_image"> Upload your File 1</string>
+    <string name="file_upload">Upload Files?1</string>
+    <string name="choose">Choose File1</string>
+    <string name="please_choose">Please choose your file1</string>
+    <string name="please_choosedate">Please choose correct date1</string>
+    <string name="call_passeneger">Call1</string>
+    <string name="taxi_details">Taxi Details1</string>
+
+    <string name="taxi_model">Taxi Model1</string>
+    <string name="taxi_number">Taxi Number1</string>
+    <string name="taxi_assigndate">Taxi Assigned Date1</string>
+    <string name="taxi_assignfrom">Taxi From Date1</string>
+    <string name="taxi_assignto">Taxi To Date1</string>
+    <!-- Cancel Trip Act -->
+
+
+    <!-- Statistics Act -->
+
+    <string name="help"> Help 1</string>
+
+    <!-- Below Strings are maximum unused -->
+
+    <string name="shift">Shift1</string>
+    <!-- signin -->
+    <string name="s_signin"> Sign In 1</string>
+    <string name="s_register"> Register 1</string>
+    <string name="s_pass_max">Password should be less than 32 characters1</string>
+    <string name="otherdiverlist">Other Drivers List1</string>
+    <string name="ent_remarks"> Enter remarks1</string>
+    <string name="remarks">Remarks1</string>
+
+    <!-- tell friend -->
+    <string name="t_sreferral"> Thank you for referral 1</string>
+
+    <!-- streetride_lay -->
+    <string name="r_drop"> Drop off Location 1</string>
+    <string name="r_distance"> Distance in KM 1</string>
+    <string name="r_fare"> Fare 1</string>
+    <string name="r_date"> Date 1</string>
+
+    <!-- salestarget_lay -->
+    <string name="s_settarget"> SET YOUR DAILY TARGET 1</string>
+    <string name="s_amount"> Please enter the amount 1</string>
+    <string name="s_recurring"> Recurring 1</string>
+    <string name="s_period"> Period 1</string>
+    <string name="s_fromdate"> from date 1</string>
+    <string name="s_todate"> to date 1</string>
+    <string name="s_viewtarget"> View target 1</string>
+    <string name="s_hypen"> - 1</string>
+
+    <string name="l_fromdate"> From date 1</string>
+    <string name="l_todate"> To date 1</string>
+
+    <!-- recordact_lay -->
+    <string name="a_enterexpense"> Please enter the expense here 1</string>
+    <string name="a_delete"> Delete 1</string>
+
+    <!-- paymentcash_popup -->
+    <string name="tripfare_pop">TRIP FARE1</string>
+    <string name="selectacc">Select Account1</string>
+    <string name="p_confirm"> Confirm 1</string>
+
+    <!-- forgot_popup -->
+    <string name="f_timetoreach"> Time to Reach 1</string>
+    <string name="f_forgotpwd"> Forgot Password? 1</string>
+    <string name="f_hello"> Hello :1</string>
+    <string name="f_sampledate"> Friday,11 April 2013 1</string>
+
+    <!-- changepass_lay -->
+    <string name="c_oldpwd"> Old Password 1</string>
+    <string name="c_newpwd"> New Password 1</string>
+    <string name="c_conpwd"> Confirm Password 1</string>
+    <string name="c_chnpwd"> Change Password 1</string>
+
+    <!-- menu -->
+    <string name="m_acc"> Account 1</string>
+    <string name="m_home"> Home 1</string>
+    <string name="m_payment"> Payment Option 1</string>
+    <string name="m_sales"> Manage Sales 1</string>
+    <string name="m_target"> Target 1</string>
+    <string name="m_tellfrd"> Tell a Friend 1</string>
+    <string name="m_about"> About 1</string>
+    <string name="m_help"> Help 1</string>
+    <string name="m_timer">00.00.001</string>
+
+    <!-- signup -->
+
+    <string name="OTP"> OTP (Sent Via SmS) 1</string>
+    <string name="resend">Didn't receive? Resend 1</string>
+    <string name="referal"> Refferal 1</string>
+    <string name="tdvlno"> TDVL NO 1</string>
+    <string name="plateno"> Plate No 1</string>
+    <string name="taxicompany"> Taxi Company 1</string>
+    <string name="taxitype"> Taxi Type 1</string>
+    <string name="bankmsg"> Your bank A/C No is needed to pay the commission you have earned via card. 1</string>
+    <string name="accountmsg"> We only use your email and mobile number to send the updates on the app and start a ride. 1</string>
+
+    <string name="referral"> Referal 1</string>
+    <string name="trip">Trip1</string>
+    <string name="trips1">Trips1</string>
+
+    <string name="Lasttrip">Last Trip1</string>
+    <string name="Last2trip">Last 2 Trips1</string>
+    <string name="Last3trip">Last 3 Trips1</string>
+
+    <string name="waitingpassenger">Waiting for Passenger1</string>
+    <string name="tripprogress">Trip in Progress1</string>
+    <string name="tripdetails">Trip Details1</string>
+
+
+    <!-- paymentoption lay -->
+    <string name="edit"> Edit 1</string>
+    <string name="addcard"> Add New Card 1</string>
+    <!-- about us lay -->
+    <string name="headtitle"> Tag from Anywhere  /n  Taxi Mobility Ride.com 1</string>
+    <string name="rateapp"> Rate us in App Store 1</string>
+    <string name="likefb"> Like us on Facebook 1</string>
+    <string name="followtw"> Follow us on Twitter 1</string>
+    <string name="legal"> Legal 1</string>
+    <string name="termcond"> Terms &amp; Condition 1</string>
+    <string name="policy"> Privacy Policy1</string>
+    <string name="link"> Link 1</string>
+    <string name="fblink"> facebook.com/Taxi Mobility Ride 1</string>
+    <string name="twlink"> twitter.com/Taxi Mobility Ride 1</string>
+
+    <!-- manage salaes lay -->
+    <string name="zero"> 0 1</string>
+
+    <!-- me lay -->
+    <string name="sendme"> Send me notification 1</string>
+    <string name="goal">    Goal      1</string>
+    <string name="amount_left"> Amount Left : 1</string>
+
+    <!-- notifiaction lay -->
+    <string name="Colon"> : 1</string>
+    <string name="seconds">001</string>
+
+    <!-- farecalculator lay -->
+    <string name="farecal"> Fare 1</string>
+    <string name="string_tips">Tips1</string>
+    <string name="round_trip"> Round Trip 1</string>
+    <string name="f_km"> Km 1</string>
+    <string name="f_float"> 0.0 1</string>
+    <string name="f_currsymbol"> $ 1</string>
+
+    <color name="block">#000000</color>
+
+    <string-array name="cardtype">
+        <item> Card Type Personal </item>
+        <item> Card Type Business </item>
+    </string-array>
+
+    <!-- Street Job -->
+    <string name="pickup"> Pick up Location 1</string>
+    <string name="tips"> Salik 1</string>
+    <string name="TravelDate"> Travel Date 1</string>
+
+    <!-- Latitude, longitude format -->
+    <string name="latitude_longitude">%1$.8f, %2$.8f1</string>
+
+    <!-- Labels -->
+    <string name="latlng">Lat/Long:1</string>
+    <string name="address">Address:1</string>
+
+    <!-- Messages -->
+
+    <string name="get_address">Get Address1</string>
+    <string name="get_location">Get Location1</string>
+    <string name="IO_Exception_getFromLocation">IO Exception in Geocoder. Get From Location()1</string>
+    <string name="start_updates">Start Updates1</string>
+    <string name="stop_updates">Stop Updates1</string>
+    <string name="unknown">--Unknown--1</string>
+    <string name="enter_the_old_password">Please enter your old password1</string>
+    <string name="enter_the_new_password">Please enter your new password1</string>
+    <string name="enter_the_confirmation_password">Please enter your confirmation password1</string>
+    <string name="password_min_character"> Password should be minimum 6 characters 1</string>
+    <string name="confirmation_password_mismatch_with_password">Password and Confirm password do not match1</string>
+    <string name="old_password_and_newpassword_are_same">Old password and new password are the same1</string>
+
+    <!-- version upadte -->
+    <string name="version_up_message">There is a new version of TaxiMobility available. This version is no longer supported.1</string>
+    <string name="version_up_title">Update1</string>
+    <string name="version_up_now">Update now1</string>
+    <string name="version_up_later">Later1</string>
+
+    <!-- add newly -->
+    <string name="hide">Hide1</string>
+    <string name="show">Show1</string>
+    <string name="ontxt">ON1</string>
+    <string name="offtxt">OFF1</string>
+    <string name="z_req_amount">Requested Amount1</string>
+    <string name="z_req_date">Requested Date1</string>
+    <string name="z_status">Status1</string>
+    <string name="z_history">Withdrawal History1</string>
+    <string name="z_view">View1</string>
+    <string name="z_datetime">Date &amp; Time1</string>
+
+
+    <string name="withdraw">Withdraw1</string>
+    <string name="withdrawu">Withdraw1</string>
+    <string name="with_draw">Are you sure you want to withdraw? 1</string>
+    <string name="invitefriends">Invite Friends1</string>
+    <string name="invitefriendsu"><u>Invite Friends</u>1</string>
+    <string name="save">Save1</string>
+    <string name="pickup1"> Pick up 1</string>
+    <string name="passenger_details">Passenger Details1</string>
+    <string name="facebook_app_id" translatable="false">15717128998252931</string>
+    <string name="enough_wallet">Sorry, Your wallet balance is too low1</string>
+    <string name="wallet_history">Withdrawal History1</string>
+    <string name="history">History1</string>
+    <string name="no_data">No data found1</string>
+    <string name="back_home">Back To Home1</string>
+    <string name="forgotpassw">Forgot Password?1</string>
+    <string name="enter_the_mobile_number">Please enter your mobile number1</string>
+    <string name="taxi_detailsu"><u>Taxi Details</u>1</string>
+    <string name="pickup_"> Pick up 1</string>
+
+
+    <!-- Referal Code -->
+    <string name="referal_code">Enter trip referral code1</string>
+    <string name="Hreferal"> Referral Code 1</string>
+    <string name="referal_amount">Referal Amount1</string>
+    <string name="trip_amount">Trip Amount1</string>
+    <string name="trip_Amount">Trip amount1</string>
+    <string name="payment_pending">Payment request in pending 1</string>
+
+
+    <!-- Withdraw view -->
+    <string name="withdraw_view">Withdrawal Request View1</string>
+    <string name="request_id">Request ID1</string>
+    <string name="brand_type">Brand Type1</string>
+    <string name="company_name">Company Name1</string>
+    <string name="withdraw_amount">Withdrawal Amount1</string>
+    <string name="waiting_tcost">Waiting Time Cost(1 hour)1</string>
+    <string name="status_details">Status Details1</string>
+    <string name="status">Status1</string>
+    <string name="payment_mode">Payment Mode1</string>
+    <string name="transaction_id">Transaction ID1</string>
+    <string name="Comments">Comments1</string>
+
+    <string name="Referalwithdraw_request">Referral Withdrawal Request1</string>
+    <string name="payment_availed">Payment Availed1</string>
+    <string name="payment_request">Payment request in pending 1</string>
+
+    <string name="track_now">Track Now1</string>
+    <string name="fare2">1231</string>
+    <string name="droplocnew">Drop off Location(Optional)1</string>
+
+    <string name="online">Online1</string>
+    <string name="offline">Offline1</string>
+
+
+    <string name="tripdetail">Trip Details1</string>
+    <string name="canceling_taxi">Canceling Request1</string>
+    <string name="dist_fare">Distance Fare1</string>
+    <string name="vehicle_dist">Vehicle Distance Fare1</string>
+
+    <string name="min_fare">Minute Fare1</string>
+    <string name="vehicle_min">Vehicle Mins Fare1</string>
+    <string name="waiting">Waiting1</string>
+    <string name="vehicle_wait">Vehicle Waiting Time1</string>
+    <string name="even_charge">Evening Charges1</string>
+    <string name="nit_fare">Night Charges1</string>
+    <string name="nit_fare_to">to1</string>
+    <string name="sub_total">Sub Total1</string>
+    <string name="promo_code_empty" translatable="false"> You did't apply any promo code1</string>
+    <string name="promo_code">Promo Code1</string>
+    <string name="paid_by">Paid By1</string>
+    <string name="wallet">Wallet1</string>
+    <string name="select_date_time">Select Date Time1</string>
+
+
+    <string name="Historystatus">Choose a status1</string>
+    <string-array name="Status">
+        <item>Not yet approved</item>
+        <item>Approved</item>
+        <item>Deny/Reject</item>
+    </string-array>
+
+    <string name="filter">Filter1</string>
+    <string name="hour">Hour1</string>
+
+
+    <!-- Referal Code -->
+
+    <string name="fare_details">Fare Details1</string>
+    <string name="home">Home1</string>
+    <string name="profile">Profile1</string>
+    <string name="street_pickup">Street Pickup1</string>
+    <string name="earnings">Earnings1</string>
+    <string name="fetching_address">Fetching Address1</string>
+    <string name="enter_dest">Enter Destination1</string>
+    <string name="enter_pickup">Enter Pickup1</string>
+    <string name="above">Above1</string>
+    <string name="below">Below1</string>
+    <string name="start_trip">Start Trip1</string>
+    <string name="end_trip">End Trip1</string>
+    <string name="trips">8 Trips1</string>
+    <string name="Estimated">Estimated Amount1</string>
+    <string name="Week">This week1</string>
+    <string name="confirm_call">Are you sure you want to call the passenger?1</string>
+    <string name="call">Call1</string>
+    <string name="insufficent_amout">Insufficient amount1</string>
+    <string name="minutes_travel">Minutes Travelled1</string>
+
+
+    <string name="domain_hint">Enter your subdomain1</string>
+    <string name="domain_validation">Domain name must contain atleast 3 characters1</string>
+    <string name="server_error">Server connection error1</string>
+
+
+<!-- Login Act -->
+    <string name="phone"> Mobile Number 3</string>
+    <string name="password"> Password 3</string>
+    <string name="forgotpswd"> Forgot Password? 3</string>
+    <string name="done"> DONE 3</string>
+    <string name="signin">Sign In3</string>
+    <string name="enter_your_mobile_number">Please enter your mobile number3</string>
+    <string name="check_internet">Please Take New Ride3</string>
+    <string name="t_ok"> OK 3</string>
+    <string name="t_success"> SUCCESS 3</string>
+    <string name="login_success">You have successfully logged in to TaxiMobility.3</string>
+    <string name="enter_mobile_number">Please enter your mobile number3</string>
+    <string name="enter_the_password">Please enter your password3</string>
+    <string name="pwd_min">Password should be minimum 6 characters3</string>
+    <string name="confirmlogout">Are you sure you want to log out?3</string>
+    <string name="confirm_complete">Are you sure you want to complete the trip?3</string>
+
+
+</resources>

@@ -1,0 +1,58 @@
+ <?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <!--Header background color -->
+        <color name="header_bgcolor">#f5f5f5</color>
+        <!--Header text color -->
+        <color name="header_text">#404041</color>
+        <!--UnderLine color -->
+        <color name="linebottom_light">#c2c2c2</color>
+        <color name="linebottom_dark">#646464</color>
+        <!--Text hint color -->
+        <color name="hintcolor">#666666</color>
+        <!--Pickup header text color -->
+        <color name="pickupheadertext">#48bf27</color>
+        <!--Past booking cash color -->
+        <color name="pastbookingcashtext">#48bf27</color>
+
+
+        <!--Success button  color -->
+        <color name="button_accept">#EE3324</color>
+        <!--Failure button color -->
+        <color name="button_reject">#8E1F16</color>
+
+
+        <!--Header background color -->
+        <color name="paymentcard">#00BFFF</color>
+        <!--Header background color -->
+        <color name="MatThemectrlActive">#ecbe2a</color>
+
+
+        <!--Cancel button text color -->
+        <color name="cancelbtntxtcolor">#fe0000</color>
+        <!--submit button text color -->
+        <color name="submitbtntxtcolor">#fe0000</color>
+        <!--Check box text color -->
+        <color name="checkboxtxtcolor">#fe0000</color>
+        <!--Text highlight color -->
+        <color name="highlighttxtcolor">#fe0000</color>
+
+        <!--Button normal theme color -->
+        <color name="buttonnormaltheme">#ff6666</color>
+        <!--Text color dark -->
+        <color name="textviewcolor_dark">#666666</color>
+        <!--Text color light-->
+        <color name="textviewcolor_light">#a2a2a2</color>
+
+        <!--Button text color -->
+        <color name="buttontextcolor">#ffffff</color>
+        <!--Text color Normal -->
+        <color name="edittextcolor">#00000F</color>
+
+        <!--Default color Normal -->
+        <color name="white">#FFFFFF</color>
+        <color name="black">#000000</color>
+        <color name="home_drawer_bg">#1C1C24</color>
+        <color name="home_drawer_head_bg">#333333</color>
+        <color name="transparent">#00000000</color>
+        <color name="semi_transparent">#66000000</color>
+    </resources>

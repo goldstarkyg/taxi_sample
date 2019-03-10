@@ -1,0 +1,61 @@
+  <?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <!--App background color -->
+        <color name="appbg">#f6f6f6</color>
+        <!--App background dark color -->
+        <color name="appbgdark">#6f6f6f</color>
+
+        <!--Header text color -->
+        <color name="header_text">#404041</color>
+        <!--Dialog header color -->
+        <color name="popup_heading">#47bf28</color>
+        <!--Past booking cash color -->
+        <color name="pastbookingcashtext">#47bf28</color>
+        <!--Past booking card color -->
+        <color name="pastbookingcard">#87cefa</color>
+        <!--Trip history text color -->
+        <color name="trip_history_text_grey">#5F5F5F</color>
+        <!--Shift on color -->
+        <color name="shiftoncolor">#5E9A04</color>
+        <!--Shift off color -->
+        <color name="shiftoffcolor">#9C9C9C</color>
+
+        <!--Highlight text color -->
+        <color name="highlightcolor">#FF0000</color>
+
+        <!--Text dark color -->
+        <color name="textviewcolor_dark">#666666</color>
+        <!--Text light color -->
+        <color name="textviewcolor_light">#a2a2a2</color>
+        <!--Underline color -->
+        <color name="linebottom_light">#a2a2a2</color>
+        <color name="linebottom_dark">#646464</color>
+        <!--Border color -->
+        <color name="bordercolor">#979797</color>
+        <!--Notification background color -->
+        <color name="notificationbg">#A6000000</color>
+        <!--Hint color -->
+        <color name="hintcolor">#666666</color>
+        <!--Success button  color -->
+        <color name="button_accept">#ee3324</color>
+        <color name="btnaccept">#87dc1f</color>
+        <!--Failure button color -->
+        <color name="button_reject">#8E1F16</color>
+
+
+        <!--Default color Normal -->
+
+        <color name="light_white">#BDBDBD</color>
+
+
+        <color name="colorPrimary">#3F51B5</color>
+        <color name="colorPrimaryDark">#303F9F</color>
+        <color name="colorAccent">#FF4081</color>
+        <color name="transparent">#00000000</color>
+        <color name="semitransparent">#88676767</color>
+
+        <color name="invite_gray">#a3a3a3</color>
+        <color name="black">#000000</color>
+        <color name="white">#ffffff</color>
+
+    </resources>

@@ -1,0 +1,279 @@
+/* 
+  Localizable.strings
+  Taximobility Driver
+ 
+  Created by Mahesh on 2/23/16.
+  Copyright © 2016 Ndot. All rights reserved.
+*/
+
+"APP TITLE" = "Message1";
+"Language Settings" = "Ajustes de idioma1";
+"STATISTICS" = "Estadística1";
+"Profile" = "Perfil1";
+"Total completed jobs" = "Total de trabajos terminados1";
+"Cancelled" = "Cancelado1";
+"Rejected"="Rechazado1";
+"Time Driven"="Tiempo impulsado1";
+"Today Earning"="Hoy ganando1";
+"Total earning" = "Ganancia total1";
+"Total trip" = "Total de viajes1";
+"MY LOCATION" = "Mi ubicacion1";
+"Taxi Details" = "Taxi Detalles1";
+
+"First Name" = "Nombre de pila1";
+"Last Name" = "Apellido1";
+"Email" = "Email1";
+"Confirm Password" = "Confirmar contraseña1";
+"Bank" = "Banco1";
+"Bank A/C no" = "Banco A / C no1";
+"Mobile Number" = "Número de teléfono móvil1";
+"Password" = "Contraseña1";
+"ERROR" = "ERROR1";
+"Take Photo" = "Tomar foto1";
+"Choose from Library" = "Elige de la biblioteca1";
+"This device doesn't have a camera." = "Este dispositivo no tiene una cámara.1";
+"This device doesn't support photo libraries." = "Este dispositivo no admite bibliotecas de fotos.1";
+"CANCEL" = "Cancelar1";
+
+"Show" = "Espectáculo1";
+"Hide" = "Esconder1";
+"Are you sure you want to logout?" = "¿Seguro que quieres cerrar la sesión?1";
+"YES" = "Sí1";
+"No Data Found" = "Datos no encontrados1";
+"Trip History" = "Historia del viaje1";
+"Past Bookings" = "Pasadas reservas1";
+"PICKUP LOCATION" = "Lugar de recogida1";
+"NEW PICKUP LOCATION" = "Nueva ubicación de recogida1";
+"DROP LOCATION" = "Ubicación de la gota1";
+"Driver Location" = "Ubicación del controlador1";
+"Distance" = "Distancia1";
+"Amount" = "Cantidad1";
+"TRIP REQUEST" = "Solicitud de viaje1";
+
+"Landmark" = "Punto de referencia1";
+"I'VE ARRIVED" = "He llegado1";
+"START TRIP" = "Iniciar viaje1";
+"END TRIP" = "Fin de viaje1";
+"SECONDS LEFT TO ACCEPT" = "Segundos dejados para aceptar1";
+"Min" = "Min1";
+
+"Pickup passenger" = "Recoger pasajeros1";
+"Trip in progress" = "Viaje en progreso1";
+"Waiting For Passenger" = "Esperando Pasajeros1";
+"UNREGISTERED CARD" = "Tarjeta no registrada1";
+"CVV" = "Cvv1";
+"Card No" = "Tarjeta no1";
+"3 Digit" = "3 dígitos1";
+"Done" = "Hecho1";
+"Enter valid credit card number" = "Ingrese el número de tarjeta de crédito válido1";
+"Enter valid expiry date" = "Introducir fecha de caducidad válida1";
+"Enter valid CVV number" = "Introduzca el número de CVV válido1";
+
+
+
+"Waiting Time" = "Tiempo de espera1";
+"Are you sure you want to complete this trip?" = "¿Estás seguro de que quieres completar este viaje?1";
+"Trip cancel" = "Cancelar viaje1";
+"Are you sure you want to cancel this trip?" = "¿Seguro que quieres cancelar este viaje?1";
+"Enter your mobile number" = "Ingrese su numero celular1";
+"Forgot Password" = "Se te olvidó tu contraseña1";
+"Speed" = "Velocidad1";
+"Total %@" = "Total %@1";
+"TURN ON" = "Accede a Configuración y activa el servicio de ubicación para esta aplicación.1";
+"Enable Gps" = "Habilitar Gps1";
+"Request From Passenger" = "Solicitud del pasajero1";
+
+"Home" = "Casa1";
+"Earnings" = "Ganancias1";
+"Street Pickup" = "Recogida en la calle1";
+"Trip History" = "Historia del viaje1";
+
+"Online" = "En línea1";
+"Offline" = "Desconectado1";
+"Today" = "Hoy1";
+"Referal" = "Remisión1";
+"Trip" = "Viaje1";
+"Date" = "Fecha1";
+"View" = "Ver1";
+"Payment request in Pending" = "Solicitud de pago en Pendiente1";
+"No tracking available!" = "No hay seguimiento disponible!1";
+"Trip Withdraw Request" = "Solicitud de retirada de viaje1";
+"Payment Availed" = "Pago disponible1";
+"Payment Request in Pending" = "Solicitud de pago en Pendiente1";
+"Withdraw Requesting Amount" = "Retirar la cantidad solicitada1";
+"Referal Withdraw Request" = "Solicitud de retiro de referencia1";
+"Submit" = "Enviar1";
+"Cancel" = "Cancelar1";
+"Pending" = "Pendiente1";
+"Reject" = "Rechazar1";
+"Approved" = "Aprobado1";
+"Last" = "Último1";
+"Distance Fare" = "Tarifa de la distancia1";
+"Vehicle Distance Fare" = "Distancia del vehículo1";
+"Waiting" = "Esperando1";
+"Vehicle Waiting Time" = "Tiempo de espera del vehículo1";
+"Sub Total" = "Sub Total1";
+"Promo Code" = "Código promocional1";
+"Paid By" = "Pagado por1";
+"Tax" = "Impuesto1";
+"Completed" = "Terminado1";
+"Cancelled" = "Cancelado1";
+"You have no sufficient amount!" = "¡No tienes suficiente cantidad!1";
+"Withdraw Request View" = "Vista de solicitud de retiro1";
+"Status Details" = "Detalles del estado1";
+"Filter" = "Filtrar1";
+"From Date:" = "Partir de la fecha:1";
+"To Date:" = "Hasta la fecha:1";
+"Status Type:" = "Tipo de estado:1";
+"Please Select Your Date" = "Seleccione su fecha1";
+"Select" = "Seleccionar1";
+"Select Status Type" = "Seleccione Tipo de estado1";
+"Cancel" = "Cancelar1";
+"Start Trip" = "Iniciar viaje1";
+"Fare Details" = "Detalles de tarifas1";
+"Fare" = "Tarifa1";
+"Vehicle Min's Fare" = "Tarifa del Min del vehículo1";
+"Min Fare" = "Tarifa min1";
+"Min(s)" = "Min(s)1";
+"Card" = "Tarjeta1";
+"Fetching Address..." = "Obtener dirección ...1";
+"Mins" = "Mins1";
+"Withdraw History" = "Retirar Historia1";
+"No sim card installed" = "No hay tarjeta SIM instalada1";
+
+"On Going" = "En marcha1";
+"Payment Completed" = "Pago completado1";
+"Trip Id : %@" = "ID de viaje:% @1";
+"Back To Home" = "De vuelta a casa1";
+"Fare Calculator" = "Calculadora de tarifas1";
+"Total Distance" = "Distancia total1";
+"Trip Fare" = "Tarifa de viaje1";
+"Waiting Time Cost" = "Tiempo de espera1";
+"Total" = "Total1";
+"Tax %@%@" = "Impuesto1";
+"Wallet Amount Used" = "Cantidad de monedero utilizado1";
+"Amount to Pay" = "Monto a pagar1";
+"PAYMENT BY" = "PAGO POR1";
+"Cash" = "Efectivo1";
+"Wallet" = "Billetera1";
+"Credit Card" = "Tarjeta de crédito1";
+"New Card" = "Nueva tarjeta1";
+"CALL PASSENGER" = "LLAMAR PASAJERO1";
+"Waiting Time" = "Tiempo de espera1";
+
+//Missed Keys
+"Select Language" = "Seleccione el idioma1";
+"Taxi Model" = "Taxi Model1";
+"Taxi number" = "Número de taxi1";
+"Taxi from date" = "Taxi a partir de la fecha1";
+"Taxi to date" = "Taxi hasta la fecha1";
+"No changes has been made" = "No se realizaron cambios.1";
+"ACCEPT" = "Aceptar1";
+"DECLINE" = "Disminución1";
+"Expiry" = "Expiración1";
+"OK" = "De acuerdo1";
+"Enter CVV number" = "Ingrese el número de CVV1";
+"Trip Details" = "Detalles del viaje1";
+
+
+
+"Log Out" = "Cerrar sesión1";
+"Save" = "Salvar1";
+"Invite Friends" = "Invitar a amigos1";
+"Sign In" = "Registrarse1";
+"When a driver join with your code" = "Cuando un controlador se une con su código1";
+"When a driver rides the trip with your code" = "Cuando un conductor monta el viaje con su código1";
+"you Earn" = "usted gana1";
+//Missed
+"Drop Location is not specified" = "No se especifica la ubicación de la gota1";
+"Please wait till the location update gets completed" = "Espere hasta que se complete la actualización de ubicación1";
+"Wallet History" = "Historial de Wallet1";
+"History" = "Historia1";
+"Skip" = "Omitir1";
+"Withdraw" = "Retirar1";
+"Wallet History" = "Historial de Wallet1";
+"Disapproved" = "Rechazado1";
+"Pending" = "Pendiente1";
+"Approved" = "Aprobado1";
+"Requested Amount" = "Monto requerido1";
+"Requested Date" = "Fecha solicitada1";
+"Status" = "Estado1";
+"Share Via" = "Compartir via1";
+"Facebook" = "Facebook1";
+"Twitter" = "Twitter1";
+"Email" = "Email1";
+"Whats App" = "WhatsApp1";
+"SMS" = "SMS1";
+"Your device has no WhatsApp installed." = "Su dispositivo no tiene WhatsApp instalado.1";
+"Your device doesn't support SMS!" = "¡Su dispositivo no es compatible con SMS!1";
+//Referral
+"Enter the referral Code" = "Ingrese el código de referencia1";
+//Missed
+"Call" = "Llamada1";
+//Validation
+"Please enter your first name" = "Por favor, introduzca su nombre de pila1";
+"Please enter your last name" = "Por favor ingrese su apellido1";
+"Please enter your email" = "Por favor introduzca su correo electrónico1";
+"Please enter your mobile number" = "Por favor, introduce tu número de teléfono1";
+"Please enter the password" = "Por favor introduzca la contraseña1";
+"Please enter the confirm password" = "Introduzca la contraseña de confirmación1";
+"Please enter valid email address" = "Por favor ingrese una dirección de correo electrónico válida1";
+"Please enter valid mobile number" = "Introduce un número de móvil válido1";
+"Password should be minimum 6 characters" = "La contraseña debe tener un mínimo de 6 caracteres.1";
+"Password does not match" = "Contraseña y Confirmar contraseña no coinciden1";
+"First name must contain atleast 4 characters" = "El nombre debe contener al menos 4 caracteres1";
+//Missed
+"Please enter your old password" = "Introduzca su contraseña antigua1";
+"Please enter your new password" = "Ingrese su nueva contraseña1";
+//Wallet
+"Do you want to withdraw" = "¿Quieres retirar1";
+"Sorry,Your wallet balance is too low" = "Lo sentimos, el saldo de su cartera es demasiado bajo1";
+"Trip Completed" = "Viaje completado1";
+"First name must contain atleast 4 characters" = "El nombre debe contener al menos 4 caracteres1";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@.%@" = "Disculpe mi brevedad, regístrese con el código de referencia% @ y gane% @.% @1";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@" = "Disculpe mi brevedad, regístrese con el código de referencia% @ y gane% @1";
+"Taximobility - Invite a Friend" = "Taximobility - Invitar a un amigo1";
+"KM" = "KM1";
+"MILES" = "Milésimas1";
+//Withdraw
+"Withdraw" = "Retirar1";
+"Referal Amount" = "Cantidad de Referencia1";
+"Trip Amount" = "Cantidad del Viaje1";
+"Payment request in Pending" = "Solicitud de pago en Pendiente1";
+"Withdraw Amount" = "Retirar la cantidad1";
+"Referal Withdraw Request" = "Solicitud de retiro de referencia1";
+// Trip details
+"Waiting Fare" = "Tarifa de espera1";
+"Track Now" = "Seguir ahora1";
+//Api Download
+"Unable to proceed your request,Please try again" = "No se puede continuar con la solicitud. Inténtalo de nuevo.1";
+"Search Location" = "Localización de búsqueda1";
+"Minimum Fare" = "Tarifa mínima1";
+"Below" = "Abajo1";
+"Above" = "Encima1";
+"Estimated Amount" = "Cantidad estimada1";
+"Trips" = "Excursiones1";
+"This Week" = "Esta semana1";
+"Tap the trip history link to see your ongoing and past trip details" = "Toque en el enlace de historial de viaje para ver los detalles de su viaje en curso y pasados1";
+"Submit" = "Enviar1";
+"Enter your subdomain" = "Introduzca su subdominio1";
+"Domain name must contain atleast 3 characters" = "El nombre de dominio debe contener al menos 3 caracteres1";
+
+"Minutes Traveled" = "Minutos recorridos1";
+"Minute Fare" = "Tarifa por minuto1";
+"Vehicle Minute Fare" = "Vehículo tarifa de minuto1";
+"Trip Id"="Id de viaje1";
+"Trip ID"="ID de viaje1";
+"Select Language" = "Seleccione el idioma1";
+
+"Drop Location(Optional)" = "Ubicación de la gota (opcional)1";
+"Back To Home" = "De vuelta a casa1";
+"Total Distance" = "Distancia total1";
+"Trip Fare" = "Tarifa de viaje1";
+"Waiting Time Cost" = "Tiempo de espera1";
+"Tax" = "Impuesto1";
+"PAYMENT BY" = "PAGO POR1";
+"Total" = "Total1";
+"Discount" = "Descuento1";
+"Your device date and time is seems to be incorrect.Please set the correct time in order to continue" = "La fecha y hora del dispositivo parece ser incorrecta.Por favor, establezca la hora correcta para continuar1";
+"Okay" = "Bueno1";

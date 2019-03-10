@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="waiting_fare_">Bekleme ücreti1</string>
+	<string name="promo" translatable="false">Promo1</string>
+	<string name="skip_favourite" translatable="false">Favoriyi Atla1</string>
+	<string name="skip_popular" translatable="false">Popüler Git1</string>
+	<string name="capacity">Kapasite1</string>
+	<string name="droploc_c">Bırak yerini?1</string>
+	<string name="tap_to_edit">Pikap veya bırak konumunu düzenlemek için hafifçe dokunun1</string>
+	<string name="move_map_to">Pikap ayarlamak için haritayı taşı1</string>
+	<string name="confirm_pickup_to">Adresinden ulaştığını onayla1</string>
+	<string name="confirm_pickup">Alma teyidini onayla1</string>
+	<string name="skip_fav_on">Favoriyi Atla seçeneği etkin1</string>
+	<string name="skip_fav_off">Favori Atla seçeneği devre dışı1</string>
+	<string name="skip_fav">Favoriyi Atla1</string>
+	<string name="skip_drop_location">Damla Yerini Atla1</string>
+	<string name="date_change">Telefon tarihiniz yanlış! Saatinizi ayarlayın ve tekrar deneyin.1</string>
+	
+	<string name="waiting_fare">Saatte bekleme ücreti1</string>
+	<string name="fav_driver_on">Favori sürücü seçeneği etkin1</string>
+	<string name="fav_driver_off">Favori sürücü seçeneği devre dışı1</string>
+	<string name="split_with">Ile bölmek1</string>
+	<string name="message_alert_back">Kaydınız henüz tamamlanmadı, Geri giderseniz kayıt işlemini tamamlamak için tekrar giriş yapmanız gerekiyor. Geri dönmek ister misiniz?1</string>
+	<string name="zerorating">Sürücüyü sıfır derece ile derecelendirmek istiyor musunuz?1</string>
+    <string name="russian">русский1</string>
+    <string name="arabic">العربية1</string>
+    <string name="turkey">Türk1</string>
+    <string name="german">Deutsch1</string>
+
+
+    <string name="vehicle_min">Az Araç Fare1</string>
+
+    <string name="vehicle_wait">Araç Bekleme Süresi1</string>
+
+    <string name="domain_hint">Alt alanınızı girin1</string>
+    <string name="domain_validation">Alan adı en az 3 karakter içermelidir1</string>
+    <string name="server_error">Sunucu bağlantısı hatası1</string>
+
+    <string name="waiting">bekliyor1</string>
+    <string name="waiting_time">Bekleme Süresi Maliyeti1</string>
+    <string name="track_now">Şimdi izle1</string>
+    <string name="cash">Nakit1</string>
+    <string name="completed">tamamlandı1</string>
+    <string name="trip_id">Seyahat kimliği1</string>
+    <string name="trip_fare">Seyahat Ücreti1</string>
+    <string name="help">yardım et1</string>
+    <string name="dist_fare">Mesafeli Ücret1</string>
+    <string name="vehicle_dist">Araç Mesafesi Ücreti1</string>
+    <string name="sub_total">sub Toplam1</string>
+    <string name="Tax">Vergi1</string>
+    <string name="total">Genel Toplam1</string>
+    <string name="paid_by">Ödenen1</string>
+
+    <string name="excuse_me_brevity"> Benim kısalık Affedersiniz sevk koduyla kaydol1</string>
+    <string name="and_earn"> ve kazanmak 1</string>
+    <string name="download_from">Uygulamayı gelen .Download :1</string>
+
+    <string name="Select_friend">Arkadaşınızı seçiniz1</string>
+    <string name="Select_percent">yüzdesini seçiniz1</string>
+    <string name="percentTotal">Toplam yüzde 100 olmalıdır1</string>
+    <string name="est">"2008 2009 (TAHMİNİ) "1</string>
+    <string name="confirm_booking">"Daha sonra rezervasyon onaylıyor musunuz?"1</string>
+    <string name="select_the_drop_location">"damla konumunu seçiniz"1</string>
+    <string name="app_buildversion">"Versiyon"1</string>
+    <string name="location_disable">"Konum Hizmetleri Engelli"1</string>
+    <string name="location_enable">"Konum hizmetlerini etkinleştirin."1</string>
+    <string name="enable">"Etkinleştir"1</string>
+
+    <string name="old_password_mismatch_with_password">"Eski şifre yanlis!
+    "1</string>
+
+    <string name="no_thanks">"Hayır, Teşekkürler"1</string>
+
+    <string name="payment_cash">Nakit1</string>
+    <string name="payment_card">Kredi kartı1</string>
+    <string name="picklocation_header">RESİM YERİ1</string>
+
+    <string name="no_info">"Hiçbir bilgi güncellemek için"1</string>
+
+
+    <string name="no_data">Veri bulunamadı1</string>
+    <string name="cancelled">"İptal edildi"1</string>
+    <string name="permission_not_granted">"izinler verilmiş değildi çünkü seçilen eylemi gerçekleştirmek için açılamıyor.
+    "1</string>
+    <string name="success">"Başarılı"1</string>
+    <string name="successfully_posted_post">"Başarıyla 'yayınlanmıştır %1$s . \ NPost Kimliği': %2$s"1</string>
+    <string name="error">"Hata"1</string>
+    <!-- Below strings maximum unused -->
+
+    <string name="site_name">"Taximobility.com"1</string>
+
+
+    <!-- menu -->
+
+    <!-- activity main -->
+    <string name="connection_error">"Bağlantı hatası"1</string>
+
+    <!-- signup -->
+    <string name="OTP">"OTP"1</string>
+    <string name="resend">"AL İN? RESEND"1</string>
+    <string name="defaultcard">"Varsayılan olarak ayarla"1</string>
+    <string name="keyincode">"KOD ANAHTAR SİZE anılacaktır OLMUŞTUR EĞER"1</string>
+
+    <!-- edit favourite -->
+
+    <string name="comment">"Yorumlar"1</string>
+    <!-- flgger lay -->
+
+    <string name="picklocationcabs">"ALMAK"1</string>
+    <string name="now">"şimdi"1</string>
+    <string name="after">"488 227 gelece"1</string>
+
+    <!-- about us lay -->
+    <string name="headtitle_below">"Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir
+    "1</string>
+    <string name="fblink">"facebook.com/Taximobility"1</string>
+    <string name="twlink">"twitter.com/Taximobility"1</string>
+
+
+
+
+    <!-- <color name="opaque_back">#474541</color> -->
+    <string-array name="cardtype">
+        <item>"Kart Tipi Kişisel"</item>
+        <item>"Kart Türü İş"</item>
+    </string-array>
+
+    <!-- upcoming lay -->
+    <string name="approxifare">"yaklaşık ücret"1</string>
+    <string name="approxifareex">"58. "1</string>
+    <!-- forgotpassword -->
+
+    <string name="action_settings">"Ayarlar"1</string>
+    <string name="pass_app_link">"https://play.google.com/store/apps/details?id=com.Taximobility
+    "1</string>
+    <string name="driver_app_link">"
+        https://play.google.com/store/apps/details?id=com.Taximobility.driver
+    "1</string>
+    <!-- version upadte -->
+    <string name="version_up_message">"Mevcut Taximobility yeni bir sürümü var, bu sürümü artık desteklenmiyor.
+    "1</string>
+    <string name="version_up_title">"Güncelle"1</string>
+    <string name="version_up_now">"Şimdi güncelle"1</string>
+    <string name="version_up_later">"Daha sonra"1</string>
+
+    <string name="reg_expmonth">"Son kullanma ay seçiniz"1</string>
+    <string name="reg_expyear">"Son kullanma yıl seçiniz"1</string>
+
+    <string name="reg_referal">"ücretsiz binmek coupons.Note kazanmak için buraya sevk kodunu girin: Sevk şeması önce TaxiMobility rezervasyonu hiç kullanıcılar için geçerlidir.
+    "1</string>
+
+
+
+
+    <string name="nagaaa">"fssds "1</string>
+
+    <string name="split_status">"Bölünmüş Ücret Durumu"1</string>
+    <string name="split_">"bölünmüş Fare "1</string>
+    <string name="favoritedriver_">"Favori Sürücü "1</string>
+
+    <string name="default_card_cant">"Varsayılan kartını silinemiyor"1</string>
+    <!--End-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="english">English1</string>
+    <string name="france">France1</string>
+
+
+    <string name="try_again">Tekrar dene1</string>
+    <string name="hide">gizlemek1</string>
+    <string name="show">gösteri1</string>
+
+    <string name="forgotpassw">Parolanızı mı unuttunuz1</string>
+    <string name="settings">Ayarlar1</string>
+    <string name="cancel">İptal1</string>
+    <string name="fblogin">FACEBOOK\'la Bağlan1</string>
+    <string name="mobileno">Cep tel numarası1</string>
+    <string name="password">Şifre1</string>
+    <string name="done">Tamam1</string>
+    <string name="signin">Giriş1</string>
+    <string name="signins">Giriş1</string>
+    <string name="enter_the_mobile_number">Telefon numarası gir1</string>
+    <string name="enter_the_password">Şifreyi gir1</string>
+    <string name="password_min_character">Şifrenin en az 6 karakter olması gerekir1</string>
+    <string name="password_max_character">Şifrenin 32 karakterden az olması gerekir1</string>
+    <string name="check_internet_connection"> İnternet bağlantınızı kontrol edin1</string>
+    <string name="confirmlogout">Eger ikis yapmak istediğinizden emin misiniz?1</string>
+    <string name="profilecmp">Profil tamamlanmadı1</string>
+    <string name="userphno">Kullanıcı tel. numarası1</string>
+    <string name="forgotpswd">Şifremi unuttum1</string>
+    <string name="create_account">Hesap oluştur1</string>
+    <string name="plzselect">Lütfen seçiniz1</string>
+    <string name="profile_image">Profil resmi1</string>
+    <string name="choose_an_image">Bir fotoğraf seçin1</string>
+    <string name="gallery">Galeri 1</string>
+    <string name="camera">Kamera1</string>
+    <string name="no_changes">Hiçbir Değişiklik yapılan1</string>
+    <string name="please_select_your_salutation">Selamlamanızı seçiniz1</string>
+    <string name="enter_the_first_name">İsim gir1</string>
+    <string name="enter_the_last_name">Soyad gir1</string>
+    <string name="enter_the_card_number">Kart numarasını gir1</string>
+    <string name="enter_the_expiry_date">Geçerlilik tarihini gir1</string>
+    <string name="enter_the_cvv">Cvv (güvenlik kodu) girin1</string>
+    <string name="enter_the_valid_CVV">Geçerli CVV girin1</string>
+    <string name="enter_the_email">Email gir1</string>
+    <string name="enter_the_valid_email">Geçerli mail adresi gir1</string>
+    <string name="enter_the_confirmation_password">Onay şifresini gir1</string>
+    <string name="confirmation_password_mismatch_with_password">Confirmation password does not match with Password1</string>
+    <string name="please_select_image_from_valid_path">Lütfen geçerli dosyadan (Geleri)bir resim seçin 1</string>
+    <string name="please_complete_registration">Kayıt işlemi henüz tamamlanmadı1</string>
+    <string name="salutation">Salutation1</string>
+    <string name="first">İsim 1</string>
+    <string name="last">Soyad  1</string>
+    <string name="email">e-posta1</string>
+    <string name="confimpswd">Şifreyi onayla1</string>
+    <string name="promo_code_empty" translatable="false">Promosyon kodunu hiç kullanmıyorsun
+    1</string>
+    <string name="pressBack">Çıkmak için lütfen GERİ düğmesini tekrar tıklayın.1</string>
+    <string name="searching">Aramak...1</string>
+    <string name="acctxt">Sürüş bildirimi ve makbuzlar için sadece tel. numaranızı ve eposta adresinizi kullanırız.1</string>
+    <string name="cardnumber">KART NUMARASI1</string>
+    <string name="expiry">Geçerlilik  1</string>
+    <string name="cvv">CVV (güvenlik kodu)1</string>
+    <string name="securecard">Kart bilgisi kaydedildi yalnızca ücret ödemek için kullanılacak1</string>
+    <string name="readterms"><u>Ben okuyun ve Kullanım Şartları anlama var</u>1</string>
+    <string name="payby_cash">Nakit öde?1</string>
+    <string name="skip">Şimdilik atla1</string>
+    <string name="go_to_pin">Go To Pin1</string>
+    <string name="device_not_support_map">Cihaz harita versiyonunu desteklemiyor1</string>
+    <string name="app_name">Taximobility Yolcu1</string>
+    <string name="taxiname">Taximobility1</string>
+    <string name="select_the_pickup_location">Alış konumunu seç1</string>
+    <string name="enter_the_pickup_location">Enter the pickup location1</string>
+    <string name="book_taxi">Taksi çağır1</string>
+    <string name="bookedtaxi">Taksi çağırdınız1</string>
+    <string name="avaiable_car">Mevcut1</string>
+    <string name="min">Dk1</string>
+    <string name="requesttaxi">Taksi Çağır1</string>
+    <string name="nodrivers">Hiç Araç Mevcut Değil1</string>
+    <string name="droplocnew">Bırakılacak Konum(opsiyonel)1</string>
+    <string name="dropoffcabs">DROP OFF1</string>
+    <string name="book_now">Kitap Şimdi1</string>
+    <string name="book_later">Sonra kitap1</string>
+    <string name="promo_code">Promosyon Kodu (İsteğe bağlı)1</string>
+    <string name="fetching_address">Getiriliyor adresi ...1</string>
+    <string name="location">Konum1</string>
+    <string name="choose_place">Yer türünü seçin1</string>
+    <string name="back">Geri1</string>
+    <string name="Trip_in_progress">Devam eden seyahat1</string>
+    <string name="intransit">Devam eden seyahat1</string>
+    <string name="Confirmation">Onay1</string>
+    <string name="estimated_arrival">Tahmin edilen Varış:1</string>
+    <string name="mins">Dk.lar1</string>
+    <string name="ok">TAMAM1</string>
+    <string name="driver_location">Sürücü Konumu1</string>
+    <string name="droplocation">Bırakılacak Konum1</string>
+    <string name="picklocation">Alış Konum1</string>
+    <string name="book_time">Kitap Zamanı1</string>
+    <string name="defaultcard1">Varsayılan Kart1</string>
+    <string name="confirmdelete">Ooo ooo Sura adamlar kart DELET mısınız?1</string>
+    <string name="delete_card">Delet kartı1</string>
+    <string name="canceled_from">Bankamatik gelen:1</string>
+    <string name="canceled_amount">İptal tutar:1</string>
+
+    <string name="referal"> Sevk kod1</string>
+    <string name="zerofee">Ücetsiz kart üzerinden ücreti öde1</string>
+    <string name="edit">Düzenle1</string>
+    <string name="select_card_type">Kart tipini seç1</string>
+    <string name="enter_the_valid_card_number">Geçerli kart numarasını gir1</string>
+    <string name="mobile">Mobil1</string>
+    <string name="phnnum">Telefon numarası1</string>
+    <string name="enter_the_old_password">Eski şifre gir1</string>
+    <string name="enter_the_new_password">Yeni şifre gir1</string>
+    <string name="sendmail">Mail gönder1</string>
+    <string name="there_is_no_email_client_installed">Yüklü hiçbir e-posta istemcisi yok1</string>
+    <string name="successfully_completed">Seyahatim başarıyla tamamlandı1</string>
+    <string name="payment_complete">Seyehat tamamlandı1</string>
+    <string name="thanksforflag">Taximobility kullandığınız için teşekkür ederiz Sonraki yolculuk daha keyifli olun1</string>
+    <string name="ratedriver">Sizin Sürücü Oranı1</string>
+    <string name="shareride">Paylaş1</string>
+    <string name="message">Mesaj1</string>
+    <string name="delete_fdrivers">Eğer emin misin favori listesinden sürücüyü silmek istiyor musunuz?1</string>
+    <string name="today">Bu gün1</string>
+    <string name="month">Ay1</string>
+    <string name="summary">Özet1</string>
+    <string name="menu_trip_history">Seyehat geçmişi1</string>
+    <string name="edit_favourites"> Düzenle Favoriler 1</string>
+    <string name="add_favourites"> Ekle Favoriler 1</string>
+    <string name="date_greater_current_date">Tarih Güncel Tarih büyüktür1</string>
+    <string name="date_greater_current_month">Tarih Cari Ay büyüktür1</string>
+    <string name="register">Kayıt1</string>
+    <string name="registers">Kayıt1</string>
+    <string name="submit">Onay1</string>
+    <string name="agree_the_terms_and_condition">Koşul ve Şartları Kabul Ediyorum1</string>
+    <string name="details">Detaylar1</string>
+    <string name="fare_txt">Ücret1</string>
+    <string name="base_fare">baz Ücreti1</string>
+    <string name="min_fare">dak Ücreti1</string>
+    <string name="below">aşağıda1</string>
+    <string name="above">yukarıda1</string>
+    <string name="nit_fare">Gece Ücretleri1</string>
+    <string name="nit_fare_to">için1</string>
+    <string name="menu">menü1</string>
+    <string name="menu_gettaxi">Benim Taksi izle1</string>
+    <string name="getfare_estimate">Ücret Tahmini alın1</string>
+    <string name="menu_mybooking">Benim Rezervasyon1</string>
+    <string name="menu_payment">Ödeme seçeneği1</string>
+    <string name="paymentoptions">Ödeme seçeneği1</string>
+    <string name="menu_profile">Profil1</string>
+    <string name="menu_favourites">Favoriler1</string>
+    <string name="menu_fare">Ücreti1</string>
+    <string name="menu_about">Hakkında1</string>
+    <string name="menu_about_us">Hakkında1</string>
+    <string name="book_a_taxi">Taxi çağır1</string>
+    <string name="menu_logout">Çıkış1</string>
+    <string name="pickup">Alış1</string>
+    <string name="drop">Bırak1</string>
+    <string name="time">Zaman1</string>
+    <string name="no_pending_trip">Hiçbir rezervasyon yok1</string>
+    <string name="place">Yer1</string>
+    <string name="amount">Miktar1</string>
+    <string name="payment">Ödeme1</string>
+    <string name="jobref">Seyehat ID1</string>
+    <string name="t_passname">sürücü Adı1</string>
+    <string name="t_pickloc">pikap Yer1</string>
+    <string name="t_picktime">pikap Zaman1</string>
+    <string name="t_book">Kitap zaman1</string>
+    <string name="t_droploc">Bırak Yeri1</string>
+    <string name="t_droptime">Bırak Zaman1</string>
+    <string name="t_distance">mesafe1</string>
+    <string name="t_tripduration">Seyahat Süresi1</string>
+    <string name="rateapp">Play Store\'da bize oy ver1</string>
+    <string name="likefb">Facebook\'ta bizi beğen1</string>
+    <string name="followtw">Bizi Twitter\'da takip edin1</string>
+    <string name="legal">Yasal1</string>
+    <string name="termcond">Koşul &amp; Şartlar1</string>
+    <string name="policy">Gizlilik Politikası1</string>
+    <string name="link">Link1</string>
+    <string name="menu_settings">Ayarlar1</string>
+    <string name="save"> Kaydet 1</string>
+    <string name="requestingtaxi"> Taksi Çağırma 1</string>
+    <string name="landmark">işaret1</string>
+    <string name="chpwd">Şifre değiştir1</string>
+    <string name="conpwd">Şifreyi onayla1</string>
+    <string name="oldpwd">Eski şifre1</string>
+    <string name="newpwd">Yeni şifre1</string>
+    <string name="addcard"> Yeni Kart Ekle 1</string>
+    <string name="personalcard">Kişisel Kart1</string>
+    <string name="businesscard">Business Kart1</string>
+    <string name="call">çağrı1</string>
+    <string name="droploc">Varış adresi1</string>
+    <string name="picktime">Alış zamanı1</string>
+    <string name="home">Ana sayfa1</string>
+    <string name="office">ofis1</string>
+    <string name="airport">havaalanı1</string>
+    <string name="others">Diğerleri1</string>
+    <string name="reason_title">İptal Nedeni1</string>
+    <!--<string name="reason1">Seyahat planı değiştirme1</string>
+    <string name="reason2">Hata yer Rezervasyon1</string>
+    <string name="reason3">Kabin gecikmesi / sorunlar1</string>-->
+
+
+    <string name="reason1">1.Kabin gecikme1</string>
+    <string name="reason2">2.Sürücü cevap vermedi1</string>
+    <string name="reason3">3.Yanlış adres gösterilmiştir1</string>
+    <string name="reason4">4.seyahat planı değiştirildi1</string>
+    <string name="reason5">5.Hata yer Rezervasyon1</string>
+    <string name="reason6">6.Diğer1</string>
+
+    <string name="menu_account">Hesap1</string>
+    <string name="you">Siz1</string>
+    <string name="card">Kart1</string>
+    <string name="cancel_in_going_trip">Emin gezisi iptal etmek istiyor musunuz.1</string>
+    <string name="cancel_registration">Emin Kaydı iptal etmek istiyor musunuz?1</string>
+    <string name="yes">evet1</string>
+    <string name="no">hayır1</string>
+    <string name="no_taxi">Seçilen model için şu anda mevcut değil Taksi1</string>
+    <string name="no_going_trip">Hiçbir rezervasyon yok1</string>
+    <string name="book_again">Kitap Yine1</string>
+    <string name="tripdetail">Seyahat Detayları1</string>
+    <string name="canceling_taxi"> iptal Talebi 1</string>
+    <string name="add">Ekle1</string>
+    <string name="fav_pick_location">Favori Alış Yer1</string>
+    <string name="fav_drop_location">Favori Bırak Yer1</string>
+    <string name="enter_other_details">Başka bir yerde ayrıntılarını girin1</string>
+    <string name="select_date_time">Seçin Tarih Saat1</string>
+    <string name="eta">ETA1</string>
+    <string name="minutes">\n dakika1</string>
+    <string name="minimum_fare">Asgari\nÜcret1</string>
+    <string name="minimum_size">Minimum\nBoyut 1</string>
+    <string name="ppl"> PPL1</string>
+    <string name="mph">MPH\n1</string>
+    <string name="fare_min">/MIN1</string>
+    <string name="mile">/MILE1</string>
+    <string name="hour_must_greater_than">Pikap Zaman artık en az bir saat sonra olduğundan emin olun1</string>
+    <string name="on_going">Devam1</string>
+    <string name="up_coming">geliyor1</string>
+    <string name="past_booking">geçmiş Rezervasyon1</string>
+
+    <string name="ontxt">üzer1</string>
+    <string name="offtxt">kapalı1</string>
+
+
+    <!-- V5.0-->
+    <string name="fare_estimate">ücret Tahmini1</string>
+    <string name="cash_card">Banka kartı1</string>
+    <string name="request_taxi">Talep Taksi1</string>
+    <string name="ride_now">Şimdi Ride1</string>
+    <string name="ride_later">Sonra Ride1</string>
+    <string name="pick_up_aprox_text">süresi yaklaşık pick up1</string>
+    <string name="minutes_"> dakika 1</string>
+    <string name="apply">uygulamak1</string>
+    <string name="or">Veya1</string>
+    <string name="taxi__empty">Veya1</string>
+    <string name="Language">Dil1</string>
+    <string name="split_with_friends">Arkadaş ile Fare bölünmüş1</string>
+    <string name="total_aprox_fare">Toplam Yaklaşık Ücret : 1</string>
+    <string name="ur_approx_fare">Yaklaşık Ücret :1</string>
+    <string name="Mins">dk1</string>
+    <string name="card_reg">kart Kayıt1</string>
+    <string name="verify_email">Doğrulama kodu1</string>
+    <string name="enter_dest">hedef girin1</string>
+    <string name="enter_pickup">pikap girin1</string>
+    <string name="enter_promo_code">Promosyon kodunu girin1</string>
+    <string name="may_vary">Bu bir tahmindir. Gerçek ücretler biraz trafik ya da indirimler göre değişebilir1</string>
+    <string name="type_your_comment">Yorumlarınızı yazın1</string>
+    <string name="contact_number">İletişim numarası1</string>
+    <string name="accept">Kabul etmek1</string>
+    <string name="z_split_fare_with">ile Fare bölünmüş1</string>
+    <string name="z_split_charged">Sizin Ücreti tahsil edilecektir1</string>
+    <string name="fbsignup">Facebook ile kayıt ol1</string>
+    <string name="cancel_fare">Fare İptal1</string>
+    <string name="even_charge">akşam Ücretleri1</string>
+    <string name="waiting_fare">bekleyen Ücret1</string>
+    <string name="estimate_fare">tahmini Ücret1</string>
+    <string name="e_receipt">E - Makbuz1</string>
+    <string name="mybookings">benim Rezervasyonları1</string>
+    <string name="add_card">Kart ekle1</string>
+    <string name="edit_card">Düzenleme Kart1</string>
+    <string name="nocard">Sen kredi kartı bilgilerini yok1</string>
+    <string name="about_sub_title">Her binmek \n TaxiMobility1</string>
+    <string name="invite_friend">Arkadaşları davet etmek1</string>
+    <string name="inprogress">Yanıtlanmadı1</string>
+    <string name="accepted">Kabul edilmiş1</string>
+    <string name="rejected">reddedilen1</string>
+    <string name="select_payment">ödeme türünü seçiniz1</string>
+    <string name="wallet_amt">Cüzdan Miktarı1</string>
+    <string name="paid_amt">Ödenen miktar1</string>
+    <string name="payment_type">Ödeme türü1</string>
+    <!-- invite friend -->
+    <string name="invite_sms">SMS ile davet1</string>
+    <string name="invite_email">E-posta ile davet et1</string>
+    <string name="invite_fb">Facebook1</string>
+    <string name="invite_whatsapp">Whatsapp1</string>
+    <string name="invite_twitter">heyecan1</string>
+    <string name="invite_sharevia">Hisse Via1</string>
+    <string name="invite_frdrides">Bir arkadaşınız koduyla sürmek zaman1</string>
+    <string name="invite_youearn">Kazanırsın1</string>
+    <!-- card registration -->
+    <string name="reg_creditcard">Kredi kartı1</string>
+    <string name="reg_cash">Nakit1</string>
+    <string name="reg_promocode">Promosyon kodu1</string>
+    <string name="reg_cardnumber">Kart numarası1</string>
+    <string name="reg_month">MM1</string>
+    <string name="reg_year">YY1</string>
+    <string name="reg_cc">CVV1</string>
+    <string name="reg_cardname">Kartın Adı1</string>
+    <string name="reg_entercardname">Kartınızın adını girin1</string>
+    <string name="reg_savecard">Kaydet Kart Detayları1</string>
+    <string name="reg_terms"><u>Şartlar ve koşullar</u>1</string>
+    <string name="reg_enterprcode">Promosyon kodunuzu giriniz1</string>
+    <string name="reg_enter_referral">Referans kodu girin1</string>
+    <!-- wallet -->
+    <string name="wallet">portföy1</string>
+    <string name="walletmsg">Gezi ödeme yapmak için cüzdan miktarda kullanın1</string>
+
+    <!-- verify mobile -->
+    <string name="verify_mobile">Mobil doğrulayın1</string>
+    <string name="verify_enter_code">Adresine dört haneli bir kimlik doğrulama kodu gönderildi.1</string>
+    <string name="verify_valid_code">Geçerli doğrulama kodunu girin1</string>
+    <string name="verify_code_sent">Bu gönderildi1</string>
+    <string name="verify_resend">RESEND1</string>
+    <!-- add money -->
+    <string name="addmoney">Para ekle1</string>
+    <string name="addmoney_paypal">Paypal1</string>
+    <string name="addmoney_braintree">beyin ağacı1</string>
+    <string name="recharge_money">Kontör Para1</string>
+    <string name="amount_between">Arasındaki tutarı girin1</string>
+    <string name="enter_amount">Geçerli tutarı girin1</string>
+    <string name="have_promocode"><u>PROMOSYON KODUNUZ VAR MI?</u>1</string>
+
+    <string-array name="monthary">
+        <item>Ocak</item>
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+        <item>Mayıs</item>
+        <item>Haziran</item>
+        <item>Temmuz</item>
+        <item>Ağustos</item>
+        <item>Eylül</item>
+        <item>Ekim</item>
+        <item>Kasım</item>
+        <item>Aralık</item>
+    </string-array>
+
+
+    <string-array name="sal_type">
+        <item>Mr</item>
+        <item>Mrs</item>
+        <item>Miss</item>
+    </string-array>
+    <!-- year list -->
+    <string-array name="yearary">
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+        <item>2031</item>
+    </string-array>
+    <!-- month list -->
+    <string-array name="monthlistary">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="percent_type">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+    </string-array>
+    <string-array name="percent_type_u">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="country_code">
+        <item>+93     &amp; Afghanistan</item>
+        <item>+355    &amp; Albania</item>
+        <item>+213    &amp; Algeria</item>
+        <item>+1(684) &amp; American Samoa</item>
+        <item>+376    &amp; Andorra</item>
+        <item>+244    &amp; Angola</item>
+        <item>+1(264) &amp; Anguilla</item>
+        <item>+672    &amp; Antarctica</item>
+        <item>+1(268) &amp; Antigua and Barbuda</item>
+        <item>+54     &amp; Argentina</item>
+        <item>+374    &amp; Armenia</item>
+        <item>+297    &amp; Aruba</item>
+        <item>+61     &amp; Australia</item>
+        <item>+43     &amp; Austria</item>
+        <item>+994    &amp; Azerbaijan</item>
+        <item>+1(242) &amp; Bahamas</item>
+        <item>+973    &amp; Bahrain</item>
+        <item>+880    &amp; Bangladesh</item>
+        <item>+1(246) &amp; Barbados</item>
+        <item>+375    &amp; Belarus</item>
+        <item>+32     &amp; Belgium</item>
+        <item>+501    &amp; Belize</item>
+        <item>+229    &amp; Benin</item>
+        <item>+1(441) &amp; Bermuda</item>
+        <item>+975    &amp; Bhutan</item>
+        <item>+591    &amp; Bolivia</item>
+        <item>+387    &amp; Bosnia and Herzegovina</item>
+        <item>+267    &amp; Botswana</item>
+        <item>+55     &amp; Brazil</item>
+        <item>+1(284) &amp; British Virgin Islands</item>
+        <item>+673    &amp; Brunei</item>
+        <item>+359    &amp; Bulgaria</item>
+        <item>+226    &amp; Burkina Faso</item>
+        <item>+95     &amp; Burma (Myanmar)</item>
+        <item>+257    &amp; Burundi</item>
+        <item>+855    &amp; Cambodia</item>
+        <item>+237    &amp; Cameroon</item>
+        <item>+1(403) &amp; Canada</item>
+        <item>+238    &amp; Cape Verde</item>
+        <item>+1(345) &amp; Cayman Islands</item>
+        <item>+236    &amp; Central African Republic</item>
+        <item>+235    &amp; Chad</item>
+        <item>+56     &amp; Chile</item>
+        <item>+86     &amp; China</item>
+        <item>+61     &amp; Christmas Island</item>
+        <item>+61     &amp; Cocos (Keeling) Islands</item>
+        <item>+57     &amp; Colombia</item>
+        <item>+269    &amp; Comoros</item>
+        <item>+682    &amp; Cook Islands</item>
+        <item>+506    &amp; Costa Rica</item>
+        <item>+385    &amp; Croatia</item>
+        <item>+53     &amp; Cuba</item>
+        <item>+357    &amp; Cyprus</item>
+        <item>+420    &amp; Czech Republic</item>
+        <item>+243    &amp; Democratic Republic of the Congo</item>
+        <item>+45     &amp; Denmark</item>
+        <item>+253    &amp; Djibouti</item>
+        <item>+1(767) &amp; Dominica</item>
+        <item>+1(809) &amp; Dominican Republic</item>
+        <item>+593    &amp; Ecuador</item>
+        <item>+20     &amp; Egypt</item>
+        <item>+503    &amp; El Salvador</item>
+        <item>+240    &amp; Equatorial Guinea</item>
+        <item>+291    &amp; Eritrea</item>
+        <item>+372    &amp; Estonia</item>
+        <item>+251    &amp; Ethiopia</item>
+        <item>+500    &amp; Falkland Islands</item>
+        <item>+298    &amp; Faroe Islands</item>
+        <item>+679    &amp; Fiji</item>
+        <item>+358    &amp; Finland</item>
+        <item>+33     &amp; France</item>
+        <item>+689    &amp; French Polynesia</item>
+        <item>+241    &amp; Gabon</item>
+        <item>+220    &amp; Gambia</item>
+        <item>+970    &amp; Gaza Strip</item>
+        <item>+995    &amp; Georgia</item>
+        <item>+49     &amp; Germany</item>
+        <item>+233    &amp; Ghana</item>
+        <item>+350    &amp; Gibraltar</item>
+        <item>+30     &amp; Greece</item>
+        <item>+299    &amp; Greenland</item>
+        <item>+1(473) &amp; Grenada</item>
+        <item>+1(671) &amp; Guam</item>
+        <item>+502    &amp; Guatemala</item>
+        <item>+224    &amp; Guinea</item>
+        <item>+245    &amp; Guinea-Bissau</item>
+        <item>+592    &amp; Guyana</item>
+        <item>+509    &amp; Haiti</item>
+        <item>+39     &amp; Holy See (Vatican City)</item>
+        <item>+504    &amp; Honduras</item>
+        <item>+852    &amp; Hong Kong</item>
+        <item>+36     &amp; Hungary</item>
+        <item>+354    &amp; Iceland</item>
+        <item>+91     &amp; India</item>
+        <item>+62     &amp; Indonesia</item>
+        <item>+98     &amp; Iran</item>
+        <item>+964    &amp; Iraq</item>
+        <item>+353    &amp; Ireland</item>
+        <item>+44     &amp; Isle of Man</item>
+        <item>+972    &amp; Israel</item>
+        <item>+39     &amp; Italy</item>
+        <item>+225    &amp; Ivory Coast</item>
+        <item>+1(876) &amp; Jamaica</item>
+        <item>+81     &amp; Japan</item>
+        <item>+962    &amp; Jordan</item>
+        <item>+7(317) &amp; Kazakhstan</item>
+        <item>+254    &amp; Kenya</item>
+        <item>+686    &amp; Kiribati</item>
+        <item>+381    &amp; Kosovo</item>
+        <item>+965    &amp; Kuwait</item>
+        <item>+996    &amp; Kyrgyzstan</item>
+        <item>+856    &amp; Laos</item>
+        <item>+371    &amp; Latvia</item>
+        <item>+961    &amp; Lebanon</item>
+        <item>+266    &amp; Lesotho</item>
+        <item>+231    &amp; Liberia</item>
+        <item>+218    &amp; Libya</item>
+        <item>+423    &amp; Liechtenstein</item>
+        <item>+370    &amp; Lithuania</item>
+        <item>+352    &amp; Luxembourg</item>
+        <item>+853    &amp; Macau</item>
+        <item>+389    &amp; Macedonia</item>
+        <item>+261    &amp; Madagascar</item>
+        <item>+265    &amp; Malawi</item>
+        <item>+60     &amp; Malaysia</item>
+        <item>+960    &amp; Maldives</item>
+        <item>+223    &amp; Mali</item>
+        <item>+356    &amp; Malta</item>
+        <item>+692    &amp; Marshall Islands</item>
+        <item>+222    &amp; Mauritania</item>
+        <item>+230    &amp; Mauritius</item>
+        <item>+262    &amp; Mayotte</item>
+        <item>+52     &amp; Mexico</item>
+        <item>+691    &amp; Micronesia</item>
+        <item>+373    &amp; Moldova</item>
+        <item>+377    &amp; Monaco</item>
+        <item>+976    &amp; Mongolia</item>
+        <item>+382    &amp; Montenegro</item>
+        <item>+1(664) &amp; Montserrat</item>
+        <item>+212    &amp; Morocco</item>
+        <item>+258    &amp; Mozambique</item>
+        <item>+264    &amp; Namibia</item>
+        <item>+674    &amp; Nauru</item>
+        <item>+977    &amp; Nepal</item>
+        <item>+31     &amp; Netherlands</item>
+        <item>+599    &amp; Netherlands Antilles</item>
+        <item>+687    &amp; New Caledonia</item>
+        <item>+64     &amp; New Zealand</item>
+        <item>+505    &amp; Nicaragua</item>
+        <item>+227    &amp; Niger</item>
+        <item>+234    &amp; Nigeria</item>
+        <item>+683    &amp; Niue</item>
+        <item>+672    &amp; Norfolk Island</item>
+        <item>+850    &amp; North Korea</item>
+        <item>+1(670) &amp; Northern Mariana Islands</item>
+        <item>+47     &amp; Norway</item>
+        <item>+968    &amp; Oman</item>
+        <item>+92     &amp; Pakistan</item>
+        <item>+680    &amp; Palau</item>
+        <item>+507    &amp; Panama</item>
+        <item>+675    &amp; Papua New Guinea</item>
+        <item>+595    &amp; Paraguay</item>
+        <item>+51     &amp; Peru</item>
+        <item>+63     &amp; Philippines</item>
+        <item>+870    &amp; Pitcairn Islands</item>
+        <item>+48     &amp; Poland</item>
+        <item>+351    &amp; Portugal</item>
+        <item>+974    &amp; Qatar</item>
+        <item>+242    &amp; Republic of the Congo</item>
+        <item>+40     &amp; Romania</item>
+        <item>+7      &amp; Russia</item>
+        <item>+250    &amp; Rwanda</item>
+        <item>+590    &amp; Saint Barthelemy</item>
+        <item>+290    &amp; Saint Helena</item>
+        <item>+1(869) &amp; Saint Kitts and Nevis</item>
+        <item>+1(758) &amp; Saint Lucia</item>
+        <item>+1(599) &amp; Saint Martin</item>
+        <item>+508    &amp; Saint Pierre and Miquelon</item>
+        <item>+1(784) &amp; Saint Vincent and the Grenadines</item>
+        <item>+685    &amp; Samoa</item>
+        <item>+378    &amp; San Marino</item>
+        <item>+239    &amp; Sao Tome and Principe</item>
+        <item>+966    &amp; Saudi Arabia</item>
+        <item>+221    &amp; Senegal</item>
+        <item>+381    &amp; Serbia</item>
+        <item>+248    &amp; Seychelles</item>
+        <item>+232    &amp; Sierra Leone</item>
+        <item>+65     &amp; Singapore</item>
+        <item>+421    &amp; Slovakia</item>
+        <item>+386    &amp; Slovenia</item>
+        <item>+677    &amp; Solomon Islands</item>
+        <item>+252    &amp;  Somalia</item>
+        <item>+27     &amp; South Africa</item>
+        <item>+82     &amp; South Korea</item>
+        <item>+34     &amp; Spain</item>
+        <item>+94     &amp; Sri Lanka</item>
+        <item>+249    &amp; Sudan</item>
+        <item>+597    &amp; Suriname</item>
+        <item>+268    &amp; Swaziland</item>
+        <item>+46     &amp; Sweden</item>
+        <item>+41     &amp; Switzerland</item>
+        <item>+963    &amp; Syria</item>
+        <item>+886    &amp; Taiwan</item>
+        <item>+992    &amp; Tajikistan</item>
+        <item>+255    &amp; Tanzania</item>
+        <item>+66     &amp; Thailand</item>
+        <item>+670    &amp; Timor-Leste</item>
+        <item>+228    &amp; Togo</item>
+        <item>+690    &amp; Tokelau</item>
+        <item>+676    &amp; Tonga</item>
+        <item>+1(868) &amp; Trinidad and Tobago</item>
+        <item>+216    &amp; Tunisia</item>
+        <item>+90     &amp; Turkey</item>
+        <item>+993    &amp; Turkmenistan</item>
+        <item>+1(649) &amp; Turks and Caicos Islands</item>
+        <item>+688    &amp; Tuvalu</item>
+        <item>+256    &amp; Uganda</item>
+        <item>+380    &amp; Ukraine</item>
+        <item>+971    &amp; United Arab Emirates</item>
+        <item>+44     &amp; United Kingdom</item>
+        <item>+1(325) &amp; United States</item>
+        <item>+598    &amp; Uruguay</item>
+        <item>+1(340) &amp; US Virgin Islands</item>
+        <item>+998    &amp; Uzbekistan</item>
+        <item>+678    &amp; Vanuatu</item>
+        <item>+58     &amp; Venezuela</item>
+        <item>+84     &amp; Vietnam</item>
+        <item>+681    &amp; Wallis and Futuna</item>
+        <item>+970    &amp; West Bank</item>
+        <item>+967    &amp; Yemen</item>
+        <item>+260    &amp; Zambia</item>
+        <item>+263    &amp; Zimbabwe</item>
+    </string-array>
+</resources>

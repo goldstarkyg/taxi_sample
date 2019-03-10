@@ -1,0 +1,442 @@
+/* 
+  Localizable.strings
+  Taximobility
+
+  Created by ndot on 25/06/16.
+  Copyright © 2016 Ndot. All rights reserved.
+*/
+//Home View Controller
+
+"APP TITLE" = "TaxiMobility1";
+"Please turn on location service to use this app" = "Please turn on location services to use this app.1";
+"Sign Up" = "Sign Up1";
+"Sign In" = "Sign In1";
+"Ride Now" = "Ride Now1";
+"Ride Later" = "Ride Later1";
+"Drop Location(Optional)" = "Drop off Location(Optional)1";
+"Go To Pin..." = "Fetching Address...1";
+"Available" = "Available1";
+"Currently no cars are available" = "Currently no cars are available1";
+"Min" = "Min1";
+"Pickup time is approximately" = "Pickup time is approximately1";
+"Minutes" = "Minutes1";
+"Confirm later booking?" = "Confirm later booking?1";
+"OK" = "OK1";
+"CANCEL" = "Cancel1";
+"Enter pickup Location" = "Enter pickup Location1";
+"Enter drop location" = "Enter drop off location1";
+"Favourites" = "Favourites1";
+"Home" = "Home1";
+"Office" = "Office1";
+"Airport" = "Airport1";
+"Others" = "Others1";
+"You have already selected this contact" = "You have already selected this contact.1";
+"Total Approximate Fare:" = "Total Approximate Fare:1";
+
+"Fare Estimate" = "Fare Estimate1";
+"Cash/Card" = "Cash/Card1";
+"Promo Code" = "Promo Code1";
+"Request Taxi" = "Request Taxi1";
+"Cancel" = "Cancel1";
+"Yes" = "Yes1";
+"YES" = "Yes1";
+"No" = "No1";
+"ETA" = "ETA1";
+"Get Fare Estimate" = "Get Fare Estimate1";
+"Minimum Fare" = "Minimum Fare1";
+"Maximum Size" = "Maximum Size1";
+"Estimated Fare" = "Estimated Fare1";
+"Approximate Fare" = "Approximate Fare1";
+"This is an estimate. Actual fare may vary slightly based on traffic or discounts." = "This is an estimate. Actual fare may vary slightly based on traffic or discounts.1";
+"Split a Fare with Friends" = "Split Fare with Friends1";
+"Approximate Fare:" = "Approximate Fare:1";
+"Select a Friend" = "Select a Friend1";
+"Submit" = "Submit1";
+"This app requires access to your device's Contacts.Please enable Contacts access for this app in Settings / Privacy / Contacts" = "This app requires access to your contacts in the device. Please enable Contacts access for this app in Settings / Privacy / Contacts.1";
+"Please select the friend" = "Please select the friend1";
+"Total Split fare percentage should be 100" = "Total split fare percentage should be 1001";
+"Book A Taxi" = "Book a Taxi1";
+"Book Now" = "Book Now1";
+"Requesting Taxi" = "Requesting Taxi1";
+"Please select the split fare percentage for" = "Please select the split fare percentage for1";
+"PPL" = "PPL1";
+//SignUp View Controller
+
+"First Name" = "First Name1";
+"Last Name" = "Last Name1";
+"Email" = "Email1";
+"Mobile Number" = "Mobile Number1";
+"Password" = "Password1";
+"Confirm Password" = "Confirm Password1";
+"Referral Code" = "Referral Code1";
+"Show" = "Show1";
+"Hide" = "Hide1";
+"Country Code" = "Country Code1";
+"Facebook" = "Facebook1";
+"Enter your email id" = "Enter your email id1";
+"Enter your mobile number" = "Enter your mobile number1";
+"Try another number?" = "Try another number?1";
+"Please enter your first name" = "Please enter your first name1";
+"Please enter your last name" = "Please enter your last name1";
+"Please enter your mobile number" = "Please enter your mobile number1";
+"Please enter the password" = "Please enter the password1";
+"Please enter the confirm password" = "Please enter the confirm password1";
+"Please enter valid email address" = "Please enter valid email address1";
+"Please enter valid mobile number" = "Please enter valid mobile number1";
+"Password should be minimum 6 characters" = "Password should be minimum 6 characters1";
+"Password does not match" = "Password does not match1";
+"First name must contain atleast 4 characters" = "First name must contain atleast 4 characters1";
+
+//MenuSliderViewController
+
+"Book a Taxi" = "Book a Taxi1";
+"Track my Taxi" = "Track my Taxi1";
+"My Booking" = "My Bookings1";
+"Payment Options" = "Payment Options1";
+"Wallet" = "Wallet1";
+"Fare" = "Fare1";
+"Invite Friends" = "Invite Friends1";
+"Settings" = "Settings1";
+"About" = "About1";
+"Log Out" = "Log out1";
+
+//LoginViewController
+//"Or" = "Or1";
+"Mobile Number" = "Mobile Number1";
+"Done" = "Done1";
+"Forgot Password?" = "Forgot Password?1";
+"NO" = "No1";
+
+//PaymentCardViewController
+
+"Payment" = "Payment1";
+"Add New Card" = "Add New Card1";
+
+//AddEditCardViewController
+"Add Cards" = "Add Card1";
+"Edit Card" = "Edit Card1";
+"Personal Card" = "Personal Card1";
+"Card" = "Card1";
+"CVV" = "CVV1";
+"Expiry" = "Expiry1";
+"Delete Card" = "Delete Card1";
+"Business Card" = "Business Card1";
+"Save" = "Save1";
+"Are you sure you want to delete card?" = "Are you sure you want to delete card?1";
+"Select" = "Select1";
+"Enter valid expiry date" = "Enter valid expiry date1";
+"Please enter valid credit card number" = "Please enter valid credit card number1";
+"MM/YY" = "MM/YY1";
+"Enter valid CVV" = "Enter valid CVV1";
+
+//WalletViewController
+"Wallet" = "Wallet1";
+"Recharge Money" = "Recharge Money1";
+"Cash Less, Hassle free rides with Taximobility wallet" = "Cashless, hassle-free rides with TaxiMobility wallet.1";
+"HAVE A PROMOCODE?" = "HAVE A PROMO CODE?1";
+"Add Money" = "Add Money1";
+"Enter the Promo Code" = "Enter Promo Code1";
+"Enter amount between" = "Enter amount between1";
+
+
+//AddWalletMoneyViewController
+"Paypal" = "Paypal1";
+"Brain Tree" = "Braintree1";
+"Default Card" = "Default Card1";
+"Amount" = "Amount1";
+"Card Number" = "Card Number1";
+"MM" = "MM1";
+"YYYY" = "YYYY1";
+"Name on the card" = "Name on the card1";
+"Terms and Conditions" = "Terms and Conditions1";
+"Terms And Conditions" = "Terms and Conditions1";
+"Select month" = "Select month1";
+"Select year" = "Select year1";
+"All fields are mandatory" = "All fields are mandatory1";
+"Please agree to the Terms & Conditions" = "Please agree with the Terms & Conditions1";
+
+//AddEditFavouritesViewController
+"Edit Favourites" = "Edit Favourites1";
+"Add Favourites" = "Add Favourite1";
+"Select Type" = "Select Type1";
+"Pickup Location" = "Pickup Location1";
+"Please select your favourite type" = "Please select your favourite type1";
+"Please Select Pick Up Location" = "Please Select Pick Up Location1";
+
+//BookingDetailsViewController
+"Trip Details" = "Trip Details1";
+"Distance" = "Distance1";
+"Pickup Time" = "Pickup Time1";
+"Booking Time" = "Booking Time1";
+"Drop Time" = "Drop off Time1";
+"Trip Duration" = "Trip Duration1";
+"Used Wallet" = "Wallet usage1";
+"Trip Id" = "Trip ID1";
+"Split Fare Status" = "Split Fare Status1";
+"Accepted" = "Accepted1";
+"Rejected" = "Rejected1";
+"Pending" = "Pending1";
+"Paid By" =  "Paid By1";
+
+//MyBookingsViewController
+
+"My Bookings" = "My Bookings1";
+"On Going" = "On Going1";
+"Up Coming" = "Upcoming1";
+"Past Bookings" = "Past Bookings1";
+"No data available!" = "No data available!1";
+"Drop Location is not specified" = "Drop off Location is not specified1";
+"Loading..." = "Loading...1";
+"No more data to load" = "No more data to load1";
+"Trip cancel" = "Cancel Trip1";
+
+//HelpViewController
+
+"Help" = "Help1";
+"I lost an item" = "I lost an item.1";
+"I had issue with my fare" = "I had issue with my fare.1";
+"My driver was unprofessional" = "My driver was unprofessional.1";
+"My vehicle was't what I expected" = "My vehicle was't what I expected.1";
+"I has a issue with my receipt or payment" = "I have an issue with my receipt or payment.1";
+"I was involved in accident" = "I was involved in an accident.1";
+"Cash Trips" = "Trips by cash1";
+"Enter your comments" = "Enter your comments1";
+"Please enter your comments" = "Please enter your comments1";
+
+
+//DriverConfirmationViewController
+"Reason for Cancel" = "Reason for Cancellation1";
+"Confirmation" = "Confirmation1";
+"Please Let Us know the reason for cancellation" = "Please let us know the reason for cancellation.1";
+"Change the Travel Plan" = "Change the Travel Plan1";
+"Booking Placed in error" = "Booking placed in error1";
+"Cab delay/issues" = "Cab delay/issues1";
+"EST :" = "ETA :1";
+"Mins" = "Mins1";
+"Call" = "Call1";
+"No sim card installed" = "No SIM card installed1";
+"Call facility is not available on your device" = "Call facility is not available in your device.1";
+"Enter CVV number" = "Enter CVV number1";
+"Please enter a valid cvv" = "Please enter a valid CVV1";
+
+//  TripInProgressViewController
+
+"Trip In Progress" = "Trip in Progress1";
+
+//  E-RecieptViewController
+
+"Card" = "Card1";
+"Credit Card" = "Credit Card1";
+"Cash" = "Cash1";
+"Error" = "Error1";
+"E-Receipt" = "E-Receipt1";
+"Trip Completed" = "Trip Completed1";
+"Thank you for using Taximobility! Make your next trip even more enjoyable!" = "Thank you for using TaxiMobility! Make your next trip even more enjoyable!1";
+"Rate Your Driver" = "Rate Your Driver1";
+"Type your Comments" = "Type your Comments1";
+"Share it" = "Share it1";
+"Your device doesn't support SMS!" = "Your device doesn't support SMS!1";
+"Taximobility - Invite a Friend" = "TaxiMobility - Invite a Friend1";
+"Wallet Amount" = "Wallet Amount1";
+"Paid Amount" = "Paid Amount1";
+"Payment type" = "Payment type1";
+//  splitFareRequestViewController
+
+"Split a Fare with" = "Split fare with1";
+"Your Fare will be charged" = "Your ride will be charged1";
+
+//  CardRegisterViewController
+
+"Card Register" = "Card Register1";
+"Enter the Referral Code" = "Enter the Referral Code1";
+"Save Card Details" = "Save Card Details1";
+"Pay by Credit Card" = "Pay by Credit Card1";
+"Pay by Cash" = "Pay by Cash1";
+"Pay using Referral Code" = "Pay using Referral Code1";
+
+//  OtpViewController
+
+"Verify Email" = "Verify Code1";
+"A four digit authentication code has been sent to" = "A four digit authentication code has been sent to1";
+"Resent OTP" = "Resend OTP1";
+"and" = "and1";
+//  Extension
+
+"Please check your Internet Connection" = "Please check your Internet Connection1";
+"Check Your Network Connection" = "Check Your Network Connection1";
+
+//About
+
+"Taximobility a ready-made taxi booking dispatch system for existing taxi companies or start ups. Perform online, real time taxi booking over mobile apps and webs" = "Taximobility a ready-made taxi booking dispatch system for existing taxi companies or start ups. Perform online, real time taxi booking over mobile apps and webs1";
+"Ride from Anywhere \nTaxiMobility.com" = "Ride from anywhere \nTaxiMobility.com1";
+"Legal" = "Legal1";
+"Links" = "Links1";
+"Rate us App Store" = "Rate us in App Store1";
+"Like us on Facebook" = "Like us on Facebook1";
+"Follow us on Twitter" = "Follow us on Twitter1";
+"Terms & Condition" = "Terms & Conditions1";
+"Privacy Policy" = "Privacy Policy1";
+
+//InviteFriends
+
+"When a friend rides with your code" = "When a friend rides with your code1";
+"you Earn" = "you Earn1";
+"Twitter" = "Twitter1";
+"Whats App" = "WhatsApp1";
+"SMS" = "SMS1";
+"Share Via" = "Share via1";
+"Your device has no WhatsApp installed." = "Your device has no WhatsApp installed.1";
+
+//FareViewController
+"Min Fare" = "Min Fare1";
+"Taxi" = "Taxi1";
+"Fare Details" = "Fare Details1";
+"Base Fare" = "Base Fare1";
+"Values" = "Values1";
+"Below" = "Below1";
+"Above" = "Above1";
+"Cancel Fare" = "Cancellation Fare1";
+"Night Charges" = "Night Charges1";
+"Evening Charges" = "Evening Charges1";
+
+//settingViewcontroller
+
+"Language" = "Language1";
+"Split Fare" = "Split Fare1";
+
+//RRPickerView
+
+"January" = "January1";
+"February" = "February1";
+"March" = "March1";
+"April" = "April1";
+"May" = "May1";
+"June" = "June1";
+"July" = "July1";
+"August" = "August1";
+"September" = "September1";
+"October" = "October1";
+"November" = "November1";
+"December" = "December1";
+"Please select Month,Year and press 'Select' or 'Cancel'." = "Please select Month, Year and press 'Select' or 'Cancel'.1";
+
+//ProfileViewController
+
+"Profile" = "Profile1";
+"Salutation" = "Salutation1";
+"Change Password" = "Change Password1";
+"Mr" = "Mr1";
+"Miss" = "Miss1";
+"Mrs" = "Mrs1";
+"Take Photo" = "Take Photo1";
+"ERROR" = "ERROR1";
+"This device doesn't have a camera." = "This device doesn't have a camera.1";
+"Choose from Library" = "Choose from Library1";
+"This device doesn't support photo libraries." = "This device doesn't support photo libraries.1";
+"No changes has been made" = "No changes made1";
+"Are you sure you want to logout?" = "Are you sure you want to logout?1";
+"Old Password" = "Old Password1";
+"New Password" = "New Password1";
+"Please enter your old password" = "Please enter your old password1";
+"Please enter your new password" = "Please enter your new password1";
+"Password and confirm password do not match" = "Password and confirm password do not match1";
+"Old Password does not match" = "Old Password does not match1";
+
+//Missed
+"Apply" = "Apply1";
+"Please wait for location update" = "Please wait for location update1";
+"Not Available" = "Not Available1";
+"Are you sure you want to cancel this trip?" = "Are you sure you want to cancel this trip?1";
+"Please enter the drop location" = "Please enter the drop off location1";
+"Favourite Driver Booking" = "Favourite Drivers1";
+"Drop Location" = "Drop Location ?1";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@.%@" = "Sign up with the referral code %@ and earn %@.%@1";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@" = "Sign up with the referral code %@ and earn %@1";
+"No tracking available!" = "Currently no tracking available!1";
+"Are you sure ,Do you want to delete the driver from favourite list ?" = "Do you want to delete the driver from Favourites?1";
+"Cash" = "Cash1";
+"Card" = "Card1";
+"Waiting Fare" = "Waiting Fare1";
+"Waiting fare per Hour" = "Waiting fare per hour1";
+//6.0
+"No favourite driver found" = "No favourite driver found1";
+"You can't change the payment type when the split fare facility enabled" = "You can't change the payment type when the split fare facility is enabled.1";
+
+"Please enter the valid Referral Code" = "Please enter the valid Referral Code1";
+"Favourite Drivers" = "Favourite Drivers1";
+"Completed" = "Completed1";
+"Cancelled" = "Cancelled1";
+"Min(s)" = "Min(s)1";
+"Vehicle Min's Fare" = "Vehicle Mins Fare1";
+"Waiting" = "Waiting1";
+"Waiting Time Cost" = "Waiting Time Cost1";
+"Vehicle Waiting Time" = "Vehicle Waiting Time1";
+"Evening Fare" = "Evening Fare1";
+"Night Fare" = "Night Fare1";
+"Sub Total" = "Sub Total1";
+"Tax" = "Tax1";
+"Promo Code" = "Promo Code1";
+"Total" = "Total1";
+"Split Fare Status" = "Split Fare Status1";
+"1.Cab delay" = "1.Cab delay1";
+"2.Driver not responded" = "2.Driver did not respond1";
+"3.Wrong address shown" = "3.Wrong address shown1";
+"4.Changed the travel plan" = "4.Changed the travel plan1";
+"5.Booking placed in error" = "5.Booking placed in error1";
+"6.Other" = "6.Others1";
+"Please enter valid expiry date" = "Please enter valid expiry date1";
+
+"Vehicle Distance Fare" = "Vehicle Distance Fare1";
+"Trip Fare" = "Trip Fare1";
+"Distance Fare" = "Distance Fare1";
+"MILES" = "MILES1";
+"(1MILES)" = "(1MILES)1";
+"Minutes Fare" = "Minutes Fare1";
+"Enter your sub domain" = "Enter your subdomain1";
+"Domain name must contain atleast 3 characters" = "Domain name must contain atleast 3 characters1";
+"Minutes Traveled" = "Minutes Travelled1";
+"Minute Fare" = "Minute Fare1";
+"Vehicle Minute Fare" = "Vehicle Minute Fare1";
+"Do you want to rate the driver with zero rating?" = "Do you want to post the feedback without rating?1";
+"Your registration is not yet completed. If you click back, you must login again to complete the registration. Do you want to move back?" = "Your registration is not yet completed, If you move back, then you have to login again to complete the registration. Do you want to move back?1";
+"Split fare with" = "Split fare with1";
+"Not Responded" = "Not Responded1";
+"Track Now" = "Track Now1";
+"Sign Up with Facebook" = "Sign Up with Facebook1";
+"Login With Facebook" = "Sign In with Facebook1";
+"Favourite driver option is disabled" = "Favourite driver option is disabled1";
+"Favourite driver option is enabled" = "Favourite driver option is enabled1";
+"Trip ID" = "Trip ID1";
+
+
+//New Design
+"Skip Favourite" = "Skip Popular1";
+"Cars Available" = "Cars Available1";
+"Promo" = "Promo1";
+"My Location" = "My Location1";
+"Tap to edit your Pickup or Drop location" = "Tap to edit your Pickup or Drop location1";
+"Request Taxi" = "Request Taxi1";
+"Estimate Time of Arrival" = "Estimate Time of Arrival1";
+"Capacity" = "Capacity1";
+"Confirm Pickup" = "Confirm Pickup1";
+"Confirm your Pickup at" = "Confirm your Pickup at1";
+"Schedule a Ride" = "Schedule a Ride1";
+"Set Pickup Date" = "Set Pickup Date1";
+"move map to adjust pickup" = "Move map to adjust pickup1";
+
+"Skip Favourite Places" = "Skip Favourite Places1";
+"Favourite place option is disabled" = "Skip favourite option is disabled1";
+"Favourite place option is enabled" = "Skip favourite option is enabled1";
+"Skip" = "Skip1";
+
+//Correction
+"Please enter valid amount" = "Please enter valid amount1";
+"Please enter your card number" = "Please enter your card number1";
+"Please select expiry month" = "Please select expiry month1";
+"Please select expiry year" = "Please select expiry year1";
+"Please enter valid cvv" = "Please enter valid cvv1";
+"Please enter the Valid PromoCode" = "You did't apply any promo code.1";
+"Please select the payment option" = "Please select the payment type1";
+"Taxi's are not currently available" = "Taxi is not available for the selected model at the moment1";
+"Your device date and time is seems to be incorrect.Please set the correct time in order to continue" = "Your device date and time is seems to be incorrect.Please set the correct time in order to continue1";
+"Skip Favourites" = "Skip Favourite1";
