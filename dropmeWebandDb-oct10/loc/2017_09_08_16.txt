@@ -1,0 +1,885 @@
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.83993,79.9758483|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:00:02
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8397583,79.9763917|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:00:11
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.83912,79.9780417|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:00:23
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8393517,79.977545|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:00:23
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8389033,79.9785483|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:00:30
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8388167,79.9789967|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:00:38
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8386667,79.97996|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:00:49
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.838515,79.9805733|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:00:51
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8384683,79.9811267|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:00:58
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8387467,79.9815383|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:01:06
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8393333,79.9815683|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:01:14
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.84,79.98142|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:01:19
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8400833,79.9814217|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:01:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8402833,79.9814667|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:01:33
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8409567,79.981665|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:01:42
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8412633,79.9814233|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:01:47
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8413483,79.9810567|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:01:54
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8413183,79.980655|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:02:01
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.841235,79.9802333|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:02:08
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.84081,79.9793367|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:02:15
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8402533,79.9793633|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:02:22
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.84,79.9798533|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:02:29
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.84031,79.9802133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:02:36
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8410917,79.98014|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:02:43
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8423583,79.97984|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:02:50
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.843015,79.9796833|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:02:57
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8437367,79.9794983|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:03:06
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.84455,79.97931|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:03:11
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8454667,79.9791617|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:03:18
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8464083,79.979015|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:03:25
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8482017,79.9788333|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:03:32
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.8491333,79.9787417|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 16:03:40
+
+
+Method driver_location_history
+{"driver_id":"12","trip_id":"261","locations":"6.9385506,79.8632272|","status":"F","travel_status":"9","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"78"}
+Time is 2017-09-08 16:03:45
+
+
+Method driver_location_history
+{"driver_id":"12","trip_id":"261","locations":"6.9385506,79.8632272|","status":"F","travel_status":"9","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"78"}
+Time is 2017-09-08 16:03:45
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318474,77.0185279|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:10:34
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318474,77.0185279|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:10:41
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318474,77.0185279|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:10:48
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318474,77.0185279|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:10:55
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318474,77.0185279|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:11:02
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318474,77.0185279|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:11:09
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318474,77.0185279|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:11:16
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318474,77.0185279|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:11:23
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318474,77.0185279|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:11:30
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318474,77.0185279|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:11:53
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318474,77.0185279|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:12:00
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318474,77.0185279|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:12:07
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.031847,77.0185284|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:12:14
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.031847,77.0185284|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:12:21
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.031847,77.0185283|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:12:28
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318467,77.0185287|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:12:42
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318467,77.0185286|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:12:49
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318467,77.0185286|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:12:56
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318468,77.0185286|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:13:03
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318468,77.0185286|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:13:10
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318468,77.0185285|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:13:17
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318468,77.0185285|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:13:24
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318469,77.0185285|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:13:31
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318469,77.0185285|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:13:38
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318469,77.0185284|","status":"F","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:13:45
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318469,77.0185284|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:13:52
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"262","locations":"11.0318469,77.0185284,10.0,9:43:52 p.m.,0.0,0.0|11.0318469,77.0185284,10.0,9:43:57 p.m.,0.0,0.0|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:13:59
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318472,77.0185281|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:18:00
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318472,77.0185281|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:18:07
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318473,77.0185281|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:18:14
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318473,77.0185281|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:18:21
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318467,77.0185287|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:18:28
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318467,77.0185286|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:18:35
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318463,77.0185291|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:18:42
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318463,77.018529|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:18:49
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318464,77.018529|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:18:56
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318456,77.0185298|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:19:03
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0318453,77.0185302|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:19:10
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0318456,77.0185299|","status":"B","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:19:26
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0318456,77.0185298|","status":"B","travel_status":"9","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:19:33
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0318456,77.0185298,10.0,9:49:35 p.m.,0.0,0.0|11.0318456,77.0185298,10.0,9:49:39 p.m.,0.0,0.0|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:19:40
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.03075,77.01904,48.133,9:49:43 p.m.,50.0,0.0|11.0307588,77.0191539,49.936,9:49:44 p.m.,50.0,0.13398564|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:19:47
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0307824,77.0193989,47.926,9:49:46 p.m.,50.0,0.14645873|11.0307977,77.0195212,44.127,9:49:47 p.m.,50.0,0.17333421|11.0308116,77.0196442,45.427,9:49:48 p.m.,50.0,0.18679388|11.0308301,77.0197655,42.05,9:49:49 p.m.,50.0,0.20031066|11.0308571,77.0198869,41.963,9:49:50 p.m.,50.0,0.21371207|11.030897,77.0200017,40.518,9:49:51 p.m.,50.0,0.22730145|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:19:54
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0309753,77.0202307,30.436,9:49:53 p.m.,50.0,0.24059686|11.0310203,77.0203432,39.688,9:49:54 p.m.,50.0,0.2670706|11.0310693,77.0204535,35.422,9:49:55 p.m.,50.0,0.2803331|11.0311173,77.0205662,43.656,9:49:56 p.m.,50.0,0.29355064|11.031163,77.0206799,32.078,9:49:57 p.m.,50.0,0.30696264|11.0311977,77.0207957,33.498,9:49:58 p.m.,50.0,0.32037586|11.031234,77.0209119,39.03,9:49:59 p.m.,50.0,0.3335939|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:20:01
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0312692,77.0210297,42.793,9:50:00 p.m.,50.0,0.34690663|11.0313156,77.0212668,49.739,9:50:02 p.m.,50.0,0.36034974|11.031404,77.0213336,48.732,9:50:03 p.m.,50.0,0.38674372|11.0314695,77.0214285,32.099,9:50:04 p.m.,50.0,0.39898542|11.0313633,77.0216367,32.63,9:50:06 p.m.,50.0,0.41165084|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:20:08
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0313491,77.0217485,41.752,9:50:07 p.m.,50.0,0.43726638|11.031367,77.0218665,34.392,9:50:08 p.m.,50.0,0.4495735|11.0313896,77.0219856,44.018,9:50:09 p.m.,50.0,0.46260864|11.0314111,77.0221053,48.983,9:50:10 p.m.,50.0,0.47585168|11.0314316,77.0222262,48.44,9:50:11 p.m.,50.0,0.4891365|11.0314519,77.0223461,39.74,9:50:12 p.m.,50.0,0.50253075|11.0314721,77.0224655,43.529,9:50:13 p.m.,50.0,0.5158137|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:20:15
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0314923,77.0225846,43.266,9:50:14 p.m.,50.0,0.52904093|11.0315125,77.0227039,43.998,9:50:15 p.m.,50.0,0.5422359|11.0315324,77.0228211,49.118,9:50:16 p.m.,50.0,0.5554524|11.0315531,77.0229432,34.369,9:50:17 p.m.,50.0,0.5684373|11.0315736,77.0230644,34.03,9:50:18 p.m.,50.0,0.58196443|11.0315944,77.0231871,32.92,9:50:19 p.m.,50.0,0.595391|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:20:22
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0316357,77.023428,41.952,9:50:21 p.m.,50.0,0.6089846|11.0316562,77.023548,43.959,9:50:22 p.m.,50.0,0.63568205|11.0316043,77.0236524,40.703,9:50:24 p.m.,50.0,0.64897954|11.0315664,77.02354,37.431,9:50:25 p.m.,50.0,0.6617555|11.0315455,77.0234219,42.556,9:50:26 p.m.,50.0,0.67473024|11.0315267,77.023303,43.926,9:50:27 p.m.,50.0,0.6878312|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:20:29
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0315077,77.0231838,31.198,9:50:28 p.m.,50.0,0.700979|11.0314886,77.0230635,36.997,9:50:29 p.m.,50.0,0.71416265|11.0314695,77.0229427,47.737,9:50:30 p.m.,50.0,0.72746664|11.0314278,77.0227016,45.09,9:50:32 p.m.,50.0,0.7408245|11.031405,77.0225801,34.001,9:50:33 p.m.,50.0,0.7675512|11.031382,77.0224575,49.406,9:50:34 p.m.,50.0,0.78105575|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:20:36
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0313599,77.0223392,48.501,9:50:35 p.m.,50.0,0.79468244|11.0313373,77.0222191,39.61,9:50:36 p.m.,50.0,0.80782926|11.0313171,77.0220996,33.737,9:50:37 p.m.,50.0,0.8211795|11.031298,77.0219801,32.423,9:50:38 p.m.,50.0,0.8344175|11.0312787,77.0218595,43.981,9:50:39 p.m.,50.0,0.8476353|11.0312595,77.0217394,32.369,9:50:40 p.m.,50.0,0.8609752|11.0312422,77.0216177,34.586,9:50:41 p.m.,50.0,0.8742595|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:20:43
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0312132,77.0213769,49.556,9:50:43 p.m.,50.0,0.8876842|11.031188,77.0212576,32.469,9:50:44 p.m.,50.0,0.9141698|11.0311597,77.0211386,45.655,9:50:45 p.m.,50.0,0.9274921|11.0311354,77.0210175,36.932,9:50:46 p.m.,50.0,0.9408594|11.0310939,77.0209041,45.765,9:50:47 p.m.,50.0,0.95435345|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:20:50
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0310056,77.0206746,45.682,9:50:49 p.m.,50.0,0.967566|11.0309644,77.0205591,41.259,9:50:50 p.m.,50.0,0.994477|11.0309235,77.0204431,38.86,9:50:51 p.m.,50.0,1.0078931|11.0308394,77.0202118,31.785,9:50:53 p.m.,50.0,1.0213493|11.0307953,77.0200959,38.31,9:50:54 p.m.,50.0,1.0482775|11.0307568,77.0199815,30.095,9:50:55 p.m.,50.0,1.0618479|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:20:57
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0307269,77.0198632,44.165,9:50:56 p.m.,50.0,1.0750508|11.0307039,77.019744,30.827,9:50:57 p.m.,50.0,1.0883871|11.0306873,77.019623,41.753,9:50:58 p.m.,50.0,1.1016494|11.0306681,77.0195012,44.542,9:50:59 p.m.,50.0,1.1149876|11.0306528,77.0193809,34.503,9:51:00 p.m.,50.0,1.128455|11.0306403,77.0192609,37.473,9:51:01 p.m.,50.0,1.1416981|11.0306275,77.0191384,36.771,9:51:02 p.m.,50.0,1.1548723|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:21:04
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0306146,77.0190152,33.181,9:51:03 p.m.,50.0,1.1683214|11.0306019,77.0188929,37.325,9:51:04 p.m.,50.0,1.1818476|11.0305893,77.0187727,48.094,9:51:05 p.m.,50.0,1.1952738|11.0305641,77.0185309,44.116,9:51:07 p.m.,50.0,1.2084708|11.0305514,77.0184092,47.934,9:51:08 p.m.,50.0,1.2350168|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:21:11
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0305261,77.0181678,41.507,9:51:10 p.m.,50.0,1.2483779|11.030494,77.0179262,44.804,9:51:12 p.m.,50.0,1.2748817|11.0304686,77.0178068,33.258,9:51:13 p.m.,50.0,1.301498|11.0304148,77.0176981,44.144,9:51:14 p.m.,50.0,1.3148358|11.0303405,77.0176037,33.562,9:51:15 p.m.,50.0,1.3281261|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:21:18
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0301129,77.0175634,31.067,9:51:17 p.m.,50.0,1.3413361|11.0299995,77.0176029,48.768,9:51:18 p.m.,50.0,1.3670307|11.0299035,77.017678,44.624,9:51:19 p.m.,50.0,1.3803606|11.0298076,77.0177533,42.953,9:51:20 p.m.,50.0,1.3938229|11.02964,77.017925,37.437,9:51:22 p.m.,50.0,1.4072897|11.0295683,77.0180223,43.228,9:51:23 p.m.,50.0,1.433726|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:21:25
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0294967,77.0181194,45.349,9:51:24 p.m.,50.0,1.4470088|11.0294248,77.018217,48.922,9:51:25 p.m.,50.0,1.4602677|11.0293526,77.0183151,35.514,9:51:26 p.m.,50.0,1.4735901|11.0292803,77.0184131,31.211,9:51:27 p.m.,50.0,1.4869763|11.0292077,77.0185111,42.484,9:51:28 p.m.,50.0,1.5003604|11.0291362,77.0186077,34.961,9:51:29 p.m.,50.0,1.5137645|11.0290633,77.0187044,38.59,9:51:30 p.m.,50.0,1.526973|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:21:32
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.028914,77.018897,38.788,9:51:32 p.m.,50.0,1.5402845|11.0288383,77.0189946,42.322,9:51:33 p.m.,50.0,1.5670778|11.0287635,77.019091,36.885,9:51:34 p.m.,50.0,1.5806582|11.0286147,77.0192822,44.236,9:51:36 p.m.,50.0,1.5940738|11.0285402,77.0193778,33.148,9:51:37 p.m.,50.0,1.6207126|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:21:39
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0284646,77.0194747,35.161,9:51:38 p.m.,50.0,1.634039|11.0283892,77.0195715,33.121,9:51:39 p.m.,50.0,1.6475526|11.0283137,77.0196683,32.699,9:51:40 p.m.,50.0,1.6610438|11.0282377,77.0197629,39.064,9:51:41 p.m.,50.0,1.674542|11.028161,77.0198566,33.8,9:51:42 p.m.,50.0,1.687888|11.0280861,77.0199502,30.799,9:51:43 p.m.,50.0,1.701208|11.0280102,77.0200454,48.815,9:51:44 p.m.,50.0,1.7143922|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:21:46
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.027935,77.0201398,42.553,9:51:45 p.m.,50.0,1.727782|11.0278595,77.0202345,40.471,9:51:46 p.m.,50.0,1.741055|11.0277825,77.0203312,45.459,9:51:47 p.m.,50.0,1.7543744|11.0277055,77.0204278,36.221,9:51:48 p.m.,50.0,1.7679684|11.0276287,77.0205242,32.502,9:51:49 p.m.,50.0,1.781554|11.0274781,77.0207132,44.495,9:51:51 p.m.,50.0,1.7951087|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:21:53
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0274024,77.0208082,45.73,9:51:52 p.m.,50.0,1.8216856|11.027327,77.0209028,45.837,9:51:53 p.m.,50.0,1.8350444|11.0272514,77.0209977,44.508,9:51:54 p.m.,50.0,1.8483484|11.027176,77.0210923,49.913,9:51:55 p.m.,50.0,1.8616917|11.0271089,77.0211917,33.136,9:51:56 p.m.,50.0,1.8749957|11.0270811,77.0213068,42.718,9:51:57 p.m.,50.0,1.8881662|11.0271115,77.0214236,47.675,9:51:58 p.m.,50.0,1.9011068|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:22:00
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0271583,77.0215336,49.742,9:51:59 p.m.,50.0,1.9142989|11.027206,77.0216459,30.9,9:52:00 p.m.,50.0,1.9273875|11.0272533,77.0217572,41.533,9:52:01 p.m.,50.0,1.9407463|11.0273008,77.0218691,41.999,9:52:02 p.m.,50.0,1.9539872|11.0273486,77.0219815,49.939,9:52:03 p.m.,50.0,1.9672972|11.0273963,77.0220939,40.868,9:52:04 p.m.,50.0,1.9806705|11.0274448,77.0222081,33.553,9:52:05 p.m.,50.0,1.9940393|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:22:07
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0274925,77.0223204,38.967,9:52:06 p.m.,50.0,2.007624|11.0275399,77.0224318,38.915,9:52:07 p.m.,50.0,2.0209827|11.0275872,77.0225431,42.714,9:52:08 p.m.,50.0,2.034238|11.0276342,77.0226539,37.416,9:52:09 p.m.,50.0,2.0474792|11.0276811,77.0227642,49.316,9:52:10 p.m.,50.0,2.0606568|11.0277762,77.0229881,37.931,9:52:12 p.m.,50.0,2.0737798|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:22:14
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0278235,77.0230992,37.868,9:52:13 p.m.,50.0,2.100414|11.0278711,77.0232114,39.795,9:52:14 p.m.,50.0,2.113635|11.0279188,77.0233235,36.786,9:52:15 p.m.,50.0,2.1269794|11.0279194,77.0234404,46.332,9:52:16 p.m.,50.0,2.1403182|11.0278133,77.0235019,48.887,9:52:17 p.m.,50.0,2.1530807|11.0277011,77.0235496,36.49,9:52:18 p.m.,50.0,2.1666582|11.0275881,77.023599,47.241,9:52:19 p.m.,50.0,2.1801808|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:22:21
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0275114,77.0235579,42.246,9:52:20 p.m.,50.0,2.1938577|11.0274614,77.0234492,31.294,9:52:21 p.m.,50.0,2.2034967|11.0273606,77.02323,40.966,9:52:23 p.m.,50.0,2.2166023|11.02731,77.0231201,33.498,9:52:24 p.m.,50.0,2.243029|11.02726,77.0230093,42.352,9:52:25 p.m.,50.0,2.2562816|11.02721,77.0228988,38.374,9:52:26 p.m.,50.0,2.2695951|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:22:28
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0271599,77.0227879,32.332,9:52:27 p.m.,50.0,2.2828789|11.0271099,77.0226774,36.976,9:52:28 p.m.,50.0,2.296207|11.0270602,77.0225674,48.135,9:52:29 p.m.,50.0,2.3094907|11.0269586,77.0223472,43.756,9:52:31 p.m.,50.0,2.322711|11.0269035,77.0222371,40.866,9:52:32 p.m.,50.0,2.3492744|11.0268488,77.0221276,47.382,9:52:33 p.m.,50.0,2.3627665|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:22:35
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0267936,77.0220173,49.867,9:52:34 p.m.,50.0,2.3761802|11.0267399,77.0219098,31.193,9:52:35 p.m.,50.0,2.3896968|11.0266856,77.0218012,42.766,9:52:36 p.m.,50.0,2.4028654|11.0265765,77.021583,43.026,9:52:38 p.m.,50.0,2.4161713|11.0264783,77.0213613,43.666,9:52:40 p.m.,50.0,2.4429054|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:22:42
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0263916,77.0211347,34.117,9:52:42 p.m.,50.0,2.4694595|11.026375,77.0210147,43.188,9:52:43 p.m.,50.0,2.4960113|11.0263584,77.0208953,45.705,9:52:44 p.m.,50.0,2.5092416|11.026345,77.0207746,40.069,9:52:45 p.m.,50.0,2.522407|11.0263251,77.0206554,34.77,9:52:46 p.m.,50.0,2.5356684|11.0263024,77.0205332,31.764,9:52:47 p.m.,50.0,2.5488687|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:22:49
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0262773,77.0204117,33.553,9:52:48 p.m.,50.0,2.5624464|11.0262518,77.0202906,41.019,9:52:49 p.m.,50.0,2.5760014|11.0262272,77.0201734,39.764,9:52:50 p.m.,50.0,2.589523|11.0262023,77.0200546,48.467,9:52:51 p.m.,50.0,2.6026075|11.0261771,77.0199349,48.869,9:52:52 p.m.,50.0,2.6158698|11.0261522,77.0198164,44.507,9:52:53 p.m.,50.0,2.629235|11.0261272,77.0196972,33.953,9:52:54 p.m.,50.0,2.642465|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:22:56
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0260772,77.0194596,39.525,9:52:56 p.m.,50.0,2.6557722|11.026052,77.01934,41.075,9:52:57 p.m.,50.0,2.6823013|11.026027,77.0192216,33.499,9:52:58 p.m.,50.0,2.6956558|11.0260019,77.0191027,39.81,9:52:59 p.m.,50.0,2.7088776|11.0259767,77.0189834,41.94,9:53:00 p.m.,50.0,2.722155|11.0259518,77.0188654,41.952,9:53:01 p.m.,50.0,2.7354777|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:23:03
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0259008,77.0186237,40.636,9:53:03 p.m.,50.0,2.7486544|11.0258746,77.0185039,39.072,9:53:04 p.m.,50.0,2.7756443|11.0258487,77.0183857,36.095,9:53:05 p.m.,50.0,2.789044|11.0258228,77.0182671,47.648,9:53:06 p.m.,50.0,2.802266|11.0257968,77.0181484,41.161,9:53:07 p.m.,50.0,2.8155305|11.0257706,77.0180286,38.212,9:53:08 p.m.,50.0,2.828808|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:23:10
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0257448,77.0179106,49.257,9:53:09 p.m.,50.0,2.8422077|11.0257186,77.0177908,46.222,9:53:10 p.m.,50.0,2.8554058|11.0256929,77.0176732,34.275,9:53:11 p.m.,50.0,2.8688054|11.02569,77.0175524,33.022,9:53:12 p.m.,50.0,2.8819585|11.0256757,77.0174308,41.569,9:53:13 p.m.,50.0,2.8951507|11.025661,77.0173086,38.946,9:53:14 p.m.,50.0,2.9085212|11.0256457,77.0171866,31.699,9:53:15 p.m.,50.0,2.921962|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:23:17
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0256271,77.0170641,31.179,9:53:16 p.m.,50.0,2.9353895|11.0256084,77.0169415,42.345,9:53:17 p.m.,50.0,2.9489224|11.0255898,77.0168197,33.004,9:53:18 p.m.,50.0,2.9624677|11.0255712,77.0166976,32.884,9:53:19 p.m.,50.0,2.975925|11.0255534,77.0165774,42.05,9:53:20 p.m.,50.0,2.9894147|11.0255178,77.0163361,34.324,9:53:22 p.m.,50.0,3.0026858|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:23:24
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0255001,77.0162165,43.794,9:53:23 p.m.,50.0,3.0293252|11.0254822,77.0160946,33.941,9:53:24 p.m.,50.0,3.04253|11.0254687,77.0159736,42.13,9:53:25 p.m.,50.0,3.0559864|11.0254559,77.015853,49.219,9:53:26 p.m.,50.0,3.0692813|11.025443,77.0157315,45.533,9:53:27 p.m.,50.0,3.0825243|11.0254173,77.0154891,44.689,9:53:29 p.m.,50.0,3.0958662|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:23:31
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0254099,77.0153675,42.274,9:53:30 p.m.,50.0,3.1224837|11.0254074,77.0152457,33.408,9:53:31 p.m.,50.0,3.1357846|11.0254048,77.0151235,43.848,9:53:32 p.m.,50.0,3.1490848|11.0253986,77.0148779,49.016,9:53:34 p.m.,50.0,3.1624289|11.0253829,77.0146359,43.123,9:53:36 p.m.,50.0,3.1892507|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:23:38
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0253749,77.014514,33.442,9:53:37 p.m.,50.0,3.2157283|11.0253671,77.0143929,34.234,9:53:38 p.m.,50.0,3.2290661|11.0253591,77.0142707,32.279,9:53:39 p.m.,50.0,3.2423155|11.0253513,77.01415,42.043,9:53:40 p.m.,50.0,3.255686|11.0253353,77.0139079,34.41,9:53:42 p.m.,50.0,3.2688918|11.0253274,77.0137883,42.082,9:53:43 p.m.,50.0,3.2953825|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:23:45
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0253194,77.0136667,41.875,9:53:44 p.m.,50.0,3.308469|11.0253114,77.0135454,39.134,9:53:45 p.m.,50.0,3.3217742|11.0253034,77.0134247,49.458,9:53:46 p.m.,50.0,3.3350468|11.0252952,77.0133008,42.663,9:53:47 p.m.,50.0,3.348254|11.0252871,77.0131774,33.022,9:53:48 p.m.,50.0,3.3618112|11.0252732,77.0129345,38.018,9:53:50 p.m.,50.0,3.3753133|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:23:52
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0252688,77.0128147,32.199,9:53:51 p.m.,50.0,3.4018764|11.0252662,77.0126949,41.508,9:53:52 p.m.,50.0,3.4149647|11.0252609,77.0124525,48.926,9:53:54 p.m.,50.0,3.428047|11.0252526,77.0123316,47.459,9:53:55 p.m.,50.0,3.4545171|11.0252411,77.0122101,32.822,9:53:56 p.m.,50.0,3.4677484|11.0252297,77.0120891,44.363,9:53:57 p.m.,50.0,3.4810746|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:23:59
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0252183,77.0119679,45.507,9:53:58 p.m.,50.0,3.4943452|11.0252065,77.0118471,48.527,9:53:59 p.m.,50.0,3.5076377|11.0251935,77.0117259,34.52,9:54:00 p.m.,50.0,3.520891|11.0251674,77.0114828,39.154,9:54:02 p.m.,50.0,3.5342016|11.0251544,77.0113606,41.21,9:54:03 p.m.,50.0,3.5609|11.0251388,77.0112385,46.143,9:54:04 p.m.,50.0,3.5743191|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:24:06
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0251221,77.0111177,46.266,9:54:05 p.m.,50.0,3.5877616|11.025102,77.0109978,33.633,9:54:06 p.m.,50.0,3.60108|11.0250827,77.0108777,38.575,9:54:07 p.m.,50.0,3.6143594|11.025063,77.0107582,43.85,9:54:08 p.m.,50.0,3.6276457|11.025043,77.0106377,46.638,9:54:09 p.m.,50.0,3.6408746|11.025017,77.0105181,45.093,9:54:10 p.m.,50.0,3.6542168|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:24:13
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.024976,77.0102797,32.48,9:54:12 p.m.,50.0,3.6675904|11.0249598,77.010159,33.224,9:54:13 p.m.,50.0,3.6940138|11.0249301,77.0100406,47.201,9:54:14 p.m.,50.0,3.7073138|11.0249007,77.0099227,40.483,9:54:15 p.m.,50.0,3.7206554|11.0248712,77.0098049,35.77,9:54:16 p.m.,50.0,3.7339358|11.0248446,77.0096839,43.507,9:54:17 p.m.,50.0,3.7472084|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:24:20
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0247942,77.0094426,48.467,9:54:19 p.m.,50.0,3.7607455|11.0247758,77.0093244,49.236,9:54:20 p.m.,50.0,3.787679|11.0247571,77.009205,34.417,9:54:21 p.m.,50.0,3.8007445|11.0247383,77.0090843,38.829,9:54:22 p.m.,50.0,3.8139448|11.0247196,77.0089642,47.929,9:54:23 p.m.,50.0,3.827287|11.0247007,77.0088431,34.111,9:54:24 p.m.,50.0,3.8405626|11.0246819,77.0087223,49.373,9:54:25 p.m.,50.0,3.8539495|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:24:27
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.024663,77.008601,47.568,9:54:26 p.m.,50.0,3.8673024|11.024644,77.0084791,34.713,9:54:27 p.m.,50.0,3.880711|11.024625,77.0083569,35.856,9:54:28 p.m.,50.0,3.894186|11.0246062,77.0082368,48.974,9:54:29 p.m.,50.0,3.9076934|11.0245876,77.008117,49.104,9:54:30 p.m.,50.0,3.920971|11.024569,77.0079975,43.232,9:54:31 p.m.,50.0,3.9342124|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:24:34
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0245357,77.0077517,38.397,9:54:33 p.m.,50.0,3.9474218|11.0245198,77.0076289,39.556,9:54:34 p.m.,50.0,3.9745111|11.0245003,77.0075093,43.056,9:54:35 p.m.,50.0,3.9880338|11.0244774,77.0073899,47.154,9:54:36 p.m.,50.0,4.00127|11.0244546,77.0072705,41.354,9:54:37 p.m.,50.0,4.0145516|11.0244318,77.0071516,31.52,9:54:38 p.m.,50.0,4.0278316|11.0244119,77.0070312,47.663,9:54:39 p.m.,50.0,4.0410576|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:24:41
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0243954,77.0069105,44.263,9:54:40 p.m.,50.0,4.054387|11.0243788,77.0067901,37.438,9:54:41 p.m.,50.0,4.0676913|11.0243622,77.006669,42.669,9:54:42 p.m.,50.0,4.080965|11.0243449,77.0065478,35.387,9:54:43 p.m.,50.0,4.094314|11.0243257,77.0064261,36.303,9:54:44 p.m.,50.0,4.107685|11.0243067,77.0063057,41.128,9:54:45 p.m.,50.0,4.121142|11.0242869,77.0061857,46.545,9:54:46 p.m.,50.0,4.134455|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:24:48
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0242609,77.0060652,41.604,9:54:47 p.m.,50.0,4.14774|11.0242348,77.0059447,33.13,9:54:48 p.m.,50.0,4.1612096|11.0242086,77.0058248,40.828,9:54:49 p.m.,50.0,4.1746817|11.0241761,77.005708,42.896,9:54:50 p.m.,50.0,4.188092|11.0241435,77.0055907,32.297,9:54:51 p.m.,50.0,4.2013464|11.024111,77.0054735,48.359,9:54:52 p.m.,50.0,4.214656|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:24:55
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0240415,77.005239,42.216,9:54:54 p.m.,50.0,4.227952|11.0240078,77.0051219,41.438,9:54:55 p.m.,50.0,4.254695|11.023983,77.005003,30.561,9:54:56 p.m.,50.0,4.2680173|11.0239332,77.0047651,32.279,9:54:58 p.m.,50.0,4.281288|11.0239092,77.004646,40.214,9:54:59 p.m.,50.0,4.3078446|11.0238854,77.0045269,33.746,9:55:00 p.m.,50.0,4.3211184|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:25:02
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0238617,77.0044083,38.735,9:55:01 p.m.,50.0,4.334388|11.0238197,77.0041652,44.899,9:55:03 p.m.,50.0,4.3476014|11.0238011,77.0040426,44.731,9:55:04 p.m.,50.0,4.3745494|11.023783,77.0039221,44.847,9:55:05 p.m.,50.0,4.388093|11.0237648,77.0038018,43.526,9:55:06 p.m.,50.0,4.4014015|11.0237516,77.0036806,34.737,9:55:07 p.m.,50.0,4.41469|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:25:09
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0237404,77.0035607,47.751,9:55:08 p.m.,50.0,4.4280033|11.0236961,77.0033243,42.863,9:55:10 p.m.,50.0,4.4411526|11.0236708,77.0032051,32.12,9:55:11 p.m.,50.0,4.4674273|11.0236554,77.0030844,45.144,9:55:12 p.m.,50.0,4.4807415|11.0236396,77.0029645,39.051,9:55:13 p.m.,50.0,4.4940295|11.0236166,77.0028442,44.057,9:55:14 p.m.,50.0,4.507237|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:25:16
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0235912,77.0027257,47.873,9:55:15 p.m.,50.0,4.5206175|11.0235584,77.0026094,46.918,9:55:16 p.m.,50.0,4.5338593|11.0235275,77.00249,46.783,9:55:17 p.m.,50.0,4.54707|11.0234885,77.0023735,38.816,9:55:18 p.m.,50.0,4.5605507|11.0234473,77.0022585,35.702,9:55:19 p.m.,50.0,4.573989|11.0234035,77.0021457,42.82,9:55:20 p.m.,50.0,4.587354|11.0233572,77.002033,45.318,9:55:21 p.m.,50.0,4.600598|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:25:23
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0233115,77.0019209,34.739,9:55:22 p.m.,50.0,4.613936|11.0232658,77.0018087,45.802,9:55:23 p.m.,50.0,4.627188|11.0232167,77.0016979,46.072,9:55:24 p.m.,50.0,4.6404505|11.0231656,77.0015871,32.497,9:55:25 p.m.,50.0,4.653723|11.0230624,77.0013663,49.906,9:55:27 p.m.,50.0,4.667088|11.0230095,77.0012566,37.748,9:55:28 p.m.,50.0,4.693787|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:25:30
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0229567,77.0011477,36.714,9:55:29 p.m.,50.0,4.707131|11.0229045,77.0010403,48.171,9:55:30 p.m.,50.0,4.7203913|11.0228511,77.0009301,43.368,9:55:31 p.m.,50.0,4.733475|11.0227974,77.0008195,40.808,9:55:32 p.m.,50.0,4.7468925|11.0227434,77.0007082,38.941,9:55:34 p.m.,50.0,4.7603636|11.0226929,77.0006023,43.798,9:55:34 p.m.,50.0,4.773918|11.0226407,77.0004915,36.39,9:55:35 p.m.,50.0,4.786772|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:25:37
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0225888,77.0003812,40.702,9:55:36 p.m.,50.0,4.8001895|11.022538,77.0002716,35.279,9:55:37 p.m.,50.0,4.813544|11.0224868,77.0001591,34.167,9:55:38 p.m.,50.0,4.8267765|11.022436,77.0000472,41.635,9:55:39 p.m.,50.0,4.840315|11.0223935,76.9999344,49.389,9:55:40 p.m.,50.0,4.853775|11.0223581,76.9998149,34.846,9:55:41 p.m.,50.0,4.866966|11.0223259,76.9996953,38.42,9:55:42 p.m.,50.0,4.8805933|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:25:44
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0223061,76.9995767,41.933,9:55:43 p.m.,50.0,4.8941326|11.0222851,76.9994564,47.283,9:55:44 p.m.,50.0,4.9072666|11.0222635,76.9993359,46.894,9:55:45 p.m.,50.0,4.9206066|11.0222489,76.9992161,35.934,9:55:46 p.m.,50.0,4.9339795|11.0222395,76.9990933,35.682,9:55:47 p.m.,50.0,4.947159|11.02223,76.9989697,45.311,9:55:48 p.m.,50.0,4.960606|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:25:51
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0222095,76.9987271,40.428,9:55:50 p.m.,50.0,4.9741416|11.0221982,76.9986052,32.182,9:55:52 p.m.,50.0,5.0007253|11.0221867,76.9984819,30.856,9:55:52 p.m.,50.0,5.014093|11.0221734,76.9983605,47.545,9:55:53 p.m.,50.0,5.0276146|11.0221587,76.9982382,39.459,9:55:54 p.m.,50.0,5.040951|11.0221513,76.9981166,41.214,9:55:55 p.m.,50.0,5.0544024|11.022144,76.9979954,37.182,9:55:56 p.m.,50.0,5.0677032|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:25:58
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0221326,76.9978743,47.769,9:55:57 p.m.,50.0,5.0809603|11.0221176,76.9977543,38.368,9:55:58 p.m.,50.0,5.094242|11.0220931,76.9975122,48.05,9:56:00 p.m.,50.0,5.107449|11.0220788,76.9973934,47.114,9:56:01 p.m.,50.0,5.1340203|11.0220619,76.9972711,40.752,9:56:02 p.m.,50.0,5.1470876|11.0220416,76.9971498,30.622,9:56:03 p.m.,50.0,5.160571|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:26:05
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0220212,76.9970272,46.126,9:56:04 p.m.,50.0,5.174005|11.0219988,76.9969076,34.999,9:56:05 p.m.,50.0,5.1875806|11.0219734,76.9967894,39.221,9:56:06 p.m.,50.0,5.2008734|11.0219482,76.9966715,34.549,9:56:07 p.m.,50.0,5.2140837|11.0219029,76.9964319,42.499,9:56:09 p.m.,50.0,5.227257|11.0218801,76.9963121,40.836,9:56:10 p.m.,50.0,5.2538958|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:26:12
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0218496,76.9961952,31.817,9:56:11 p.m.,50.0,5.2672186|11.0218195,76.9960764,32.544,9:56:12 p.m.,50.0,5.280424|11.0217909,76.9959581,44.83,9:56:13 p.m.,50.0,5.2938194|11.0217624,76.99584,30.579,9:56:14 p.m.,50.0,5.307121|11.0217247,76.9957242,45.739,9:56:15 p.m.,50.0,5.3203983|11.0216477,76.9954932,33.161,9:56:17 p.m.,50.0,5.333718|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:26:19
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.021609,76.9953769,46.757,9:56:18 p.m.,50.0,5.3603516|11.0215706,76.9952617,46.427,9:56:19 p.m.,50.0,5.3737583|11.0215328,76.9951485,33.892,9:56:20 p.m.,50.0,5.3870406|11.0214946,76.9950338,41.941,9:56:21 p.m.,50.0,5.400095|11.0214574,76.9949185,36.952,9:56:22 p.m.,50.0,5.4133186|11.0214206,76.9948024,33.814,9:56:23 p.m.,50.0,5.426569|11.0213837,76.994686,46.251,9:56:24 p.m.,50.0,5.4398885|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:26:26
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0213104,76.9944543,48.401,9:56:26 p.m.,50.0,5.453243|11.0212719,76.9943399,47.92,9:56:27 p.m.,50.0,5.47982|11.0212308,76.9942261,33.01,9:56:28 p.m.,50.0,5.493023|11.0211895,76.9941118,32.027,9:56:29 p.m.,50.0,5.5062613|11.0211478,76.9939976,48.143,9:56:30 p.m.,50.0,5.519559|11.021106,76.993886,45.526,9:56:31 p.m.,50.0,5.532861|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:26:33
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0210625,76.9937701,40.28,9:56:32 p.m.,50.0,5.5459023|11.0210133,76.993658,33.266,9:56:33 p.m.,50.0,5.559449|11.0209568,76.993548,35.518,9:56:34 p.m.,50.0,5.5728555|11.0209018,76.9934408,44.718,9:56:35 p.m.,50.0,5.5864096|11.0208465,76.9933334,42.591,9:56:36 p.m.,50.0,5.5996156|11.0207894,76.9932264,40.104,9:56:37 p.m.,50.0,5.6128564|11.0207248,76.9931245,41.348,9:56:38 p.m.,50.0,5.626153|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:26:40
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0206554,76.9930239,34.772,9:56:39 p.m.,50.0,5.6393967|11.0205865,76.9929242,38.588,9:56:40 p.m.,50.0,5.652821|11.020519,76.9928263,30.555,9:56:41 p.m.,50.0,5.666133|11.02045,76.9927264,37.109,9:56:42 p.m.,50.0,5.6791945|11.0203812,76.9926266,38.592,9:56:43 p.m.,50.0,5.6925306|11.0203122,76.9925267,45.539,9:56:44 p.m.,50.0,5.705845|11.0202417,76.992428,34.277,9:56:45 p.m.,50.0,5.719181|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:26:47
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0201686,76.9923289,35.427,9:56:46 p.m.,50.0,5.7325077|11.0200887,76.9922387,36.513,9:56:47 p.m.,50.0,5.7460413|11.019914,76.9920688,35.233,9:56:49 p.m.,50.0,5.759306|11.0198209,76.9919881,46.235,9:56:50 p.m.,50.0,5.786169|11.0197231,76.9919188,34.371,9:56:51 p.m.,50.0,5.799765|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:26:54
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0195228,76.9917852,48.362,9:56:54 p.m.,50.0,5.8130155|11.0194225,76.9917183,45.762,9:56:54 p.m.,50.0,5.839644|11.0193219,76.9916513,34.156,9:56:55 p.m.,50.0,5.852978|11.0192219,76.9915846,36.006,9:56:56 p.m.,50.0,5.8663464|11.0191209,76.9915173,33.142,9:56:57 p.m.,50.0,5.8796406|11.0190204,76.9914503,37.272,9:56:58 p.m.,50.0,5.893064|11.0189187,76.9913836,43.49,9:56:59 p.m.,50.0,5.906423|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:27:01
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0188157,76.9913177,34.155,9:57:00 p.m.,50.0,5.919876|11.0187163,76.9912541,41.471,9:57:01 p.m.,50.0,5.9334044|11.0186145,76.991189,31.161,9:57:02 p.m.,50.0,5.94646|11.0185121,76.9911236,40.065,9:57:03 p.m.,50.0,5.9598284|11.0184087,76.9910574,42.275,9:57:04 p.m.,50.0,5.973271|11.0182066,76.9909282,49.791,9:57:06 p.m.,50.0,5.986854|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:27:08
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0180043,76.9907994,43.834,9:57:08 p.m.,50.0,6.013392|11.0179018,76.9907345,42.984,9:57:09 p.m.,50.0,6.0399256|11.0178002,76.9906701,40.464,9:57:10 p.m.,50.0,6.0533485|11.0176957,76.9906058,43.78,9:57:11 p.m.,50.0,6.066658|11.0175929,76.9905423,38.505,9:57:12 p.m.,50.0,6.0802364|11.0174908,76.9904791,37.57,9:57:13 p.m.,50.0,6.093608|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:27:15
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0173885,76.9904157,43.505,9:57:15 p.m.,50.0,6.106896|11.0172849,76.9903516,42.505,9:57:16 p.m.,50.0,6.1202145|11.0171868,76.9902909,33.764,9:57:16 p.m.,50.0,6.133696|11.0170824,76.9902263,47.305,9:57:17 p.m.,50.0,6.146462|11.0169803,76.9901599,35.842,9:57:18 p.m.,50.0,6.160048|11.0168787,76.9900918,47.952,9:57:19 p.m.,50.0,6.1735206|11.0167787,76.9900246,42.118,9:57:21 p.m.,50.0,6.1870475|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:27:22
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9384417,79.8626902|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:27:28
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.01668,76.9899584,47.906,9:57:21 p.m.,50.0,6.2003717|11.01658,76.9898912,42.057,9:57:22 p.m.,50.0,6.2135153|11.0164795,76.9898238,38.852,9:57:23 p.m.,50.0,6.2268395|11.0163798,76.9897568,31.699,9:57:24 p.m.,50.0,6.2402225|11.0162807,76.9896878,44.37,9:57:25 p.m.,50.0,6.253507|11.0161863,76.9896161,32.188,9:57:26 p.m.,50.0,6.266858|11.0160902,76.9895433,48.181,9:57:27 p.m.,50.0,6.279955|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:27:29
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9384417,79.8626902|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:27:35
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0159959,76.9894688,39.238,9:57:28 p.m.,50.0,6.293275|11.0159048,76.9893889,42.396,9:57:29 p.m.,50.0,6.3065476|11.0158135,76.9893088,39.995,9:57:30 p.m.,50.0,6.319918|11.0157223,76.9892288,49.156,9:57:31 p.m.,50.0,6.3333197|11.0156305,76.9891482,48.665,9:57:32 p.m.,50.0,6.3467054|11.0155392,76.9890681,39.088,9:57:33 p.m.,50.0,6.3601847|11.0154517,76.9889826,47.591,9:57:34 p.m.,50.0,6.373586|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:27:36
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9384417,79.8626902|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:27:42
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0153621,76.9889026,39.617,9:57:36 p.m.,50.0,6.3870716|11.0152727,76.9888228,45.116,9:57:36 p.m.,50.0,6.4003234|11.0151823,76.988742,41.64,9:57:38 p.m.,50.0,6.4135437|11.0150966,76.9886566,46.844,9:57:38 p.m.,50.0,6.42692|11.0150108,76.9885708,30.019,9:57:39 p.m.,50.0,6.4402537|11.0149253,76.9884853,39.046,9:57:40 p.m.,50.0,6.453626|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:27:43
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9384417,79.8626902|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:27:49
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.014761,76.9883066,48.579,9:57:42 p.m.,50.0,6.466952|11.0146801,76.9882166,30.599,9:57:44 p.m.,50.0,6.493684|11.0146016,76.9881242,36.079,9:57:44 p.m.,50.0,6.5070076|11.0145234,76.9880324,49.914,9:57:46 p.m.,50.0,6.5203495|11.0144467,76.9879416,44.981,9:57:46 p.m.,50.0,6.53362|11.0143704,76.9878468,42.799,9:57:48 p.m.,50.0,6.5466986|11.0142989,76.9877486,39.277,9:57:48 p.m.,50.0,6.560083|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:27:50
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9384417,79.8626902|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:27:56
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0141511,76.9875543,35.598,9:57:51 p.m.,50.0,6.5734315|11.0140756,76.9874605,31.568,9:57:52 p.m.,50.0,6.600269|11.0139999,76.9873663,47.416,9:57:53 p.m.,50.0,6.6135125|11.0139241,76.9872721,49.455,9:57:53 p.m.,50.0,6.626804|11.0138476,76.9871773,43.889,9:57:54 p.m.,50.0,6.6401024|11.0137665,76.9870868,34.667,9:57:56 p.m.,50.0,6.653501|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:27:57
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9386708,79.8630134|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:28:03
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0136853,76.9869961,37.956,9:57:57 p.m.,50.0,6.66688|11.0136051,76.9869066,49.434,9:57:57 p.m.,50.0,6.6802826|11.0135229,76.9868148,49.184,9:57:58 p.m.,50.0,6.6935134|11.0133592,76.986632,30.447,9:58:01 p.m.,50.0,6.7070794|11.0132805,76.9865441,31.988,9:58:01 p.m.,50.0,6.7340946|11.0131998,76.9864522,42.345,9:58:02 p.m.,50.0,6.7470837|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:28:04
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9386589,79.8630569|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:28:10
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0131204,76.9863608,39.741,9:58:03 p.m.,50.0,6.760546|11.0130413,76.9862696,45.582,9:58:05 p.m.,50.0,6.773872|11.0129625,76.9861789,44.106,9:58:06 p.m.,50.0,6.787159|11.0128838,76.9860877,45.309,9:58:06 p.m.,50.0,6.800383|11.0130354,76.985954,39.003,9:58:09 p.m.,50.0,6.8136406|11.0131384,76.9858935,38.975,9:58:10 p.m.,50.0,6.835943|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:28:11
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9386589,79.8630569|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:28:17
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0133441,76.9857728,48.745,9:58:11 p.m.,50.0,6.8491673|11.0134473,76.9857122,35.694,9:58:13 p.m.,50.0,6.8755703|11.0135511,76.9856513,41.705,9:58:13 p.m.,50.0,6.888819|11.0136553,76.9855902,49.61,9:58:15 p.m.,50.0,6.902142|11.0137598,76.9855288,45.738,9:58:16 p.m.,50.0,6.9155145|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:28:18
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9386287,79.8630845|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:28:24
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.013963,76.9853987,37.691,9:58:17 p.m.,50.0,6.928932|11.0140639,76.9853288,33.192,9:58:18 p.m.,50.0,6.955626|11.0141647,76.9852581,48.32,9:58:20 p.m.,50.0,6.9691978|11.0142591,76.9851846,40.811,9:58:21 p.m.,50.0,6.9828095|11.01435,76.9851045,41.037,9:58:22 p.m.,50.0,6.9960246|11.0144346,76.9850185,34.484,9:58:23 p.m.,50.0,7.0093923|11.0145175,76.9849313,44.477,9:58:23 p.m.,50.0,7.022685|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:28:25
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9386287,79.8630845|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:28:31
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0145962,76.9848394,41.083,9:58:25 p.m.,50.0,7.0359387|11.0146783,76.9847517,31.518,9:58:26 p.m.,50.0,7.049254|11.0147627,76.9846673,44.637,9:58:27 p.m.,50.0,7.062485|11.0148402,76.9845747,44.407,9:58:28 p.m.,50.0,7.0756392|11.0149177,76.9844827,46.389,9:58:29 p.m.,50.0,7.088925|11.0149821,76.9843817,41.396,9:58:30 p.m.,50.0,7.102161|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:28:32
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9386184,79.8630818|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:28:39
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0149675,76.9841414,40.424,9:58:32 p.m.,50.0,7.11531|11.014928,76.9840249,41.93,9:58:33 p.m.,50.0,7.141596|11.0148788,76.9839114,49.727,9:58:34 p.m.,50.0,7.155052|11.0148235,76.9838011,45.33,9:58:35 p.m.,50.0,7.168598|11.0147149,76.9835852,33.89,9:58:37 p.m.,50.0,7.1821203|11.0146624,76.9834759,49.016,9:58:38 p.m.,50.0,7.2086067|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:28:39
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9386184,79.8630818|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:28:45
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0146177,76.9833629,44.271,9:58:39 p.m.,50.0,7.221892|11.0145753,76.9832484,39.524,9:58:40 p.m.,50.0,7.2351933|11.0145351,76.9831353,40.757,9:58:41 p.m.,50.0,7.248554|11.0144748,76.9828979,32.64,9:58:43 p.m.,50.0,7.261687|11.0144446,76.9827798,36.525,9:58:44 p.m.,50.0,7.2884593|11.0144145,76.9826615,40.122,9:58:45 p.m.,50.0,7.3017836|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:28:46
+
+
+Method driver_location_history
+{"driver_id":"11","trip_id":"","locations":"6.9386096,79.863103|","status":"F","travel_status":"","device_token":"3da14ef56f523a91","device_type":"1","above_min_km":"0","shift_id":"79"}
+Time is 2017-09-08 16:28:52
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0143846,76.9825436,43.519,9:58:46 p.m.,50.0,7.315126|11.0143548,76.9824264,48.073,9:58:47 p.m.,50.0,7.3284206|11.0143246,76.9823076,38.573,9:58:48 p.m.,50.0,7.3416386|11.0142928,76.9821881,30.794,9:58:49 p.m.,50.0,7.3550367|11.0142596,76.9820687,41.566,9:58:50 p.m.,50.0,7.3685546|11.0142272,76.9819521,43.512,9:58:51 p.m.,50.0,7.3821034|11.0141977,76.9818363,37.881,9:58:52 p.m.,50.0,7.395334|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:28:53
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0179101,76.9662818,1983.698,10:22:59 p.m.,0.0,8.711578|11.0179101,76.9662818,1991.206,10:23:04 p.m.,0.0,8.711578|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:53:05
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0179101,76.9662818,1998.787,10:23:09 p.m.,0.0,8.711578|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:53:12
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0179101,76.9662818,2006.218,10:23:14 p.m.,0.0,8.711578|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:53:19
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0179101,76.9662818,2013.82,10:23:19 p.m.,0.0,8.711578|11.0179101,76.9662818,2021.234,10:23:24 p.m.,0.0,8.711578|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:53:26
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0179101,76.9662818,2028.788,10:23:29 p.m.,0.0,8.711578|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:53:33
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"263","locations":"11.0179101,76.9662818,2036.315,10:23:34 p.m.,0.0,8.711578|11.0179101,76.9662818,2043.776,10:23:39 p.m.,0.0,8.711578|","status":"A","travel_status":"2","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"1","shift_id":"73"}
+Time is 2017-09-08 16:53:40
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0179101,76.9662818|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:58:07
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0179101,76.9662818|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:58:14
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0179101,76.9662818|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:58:21
+
+
+Method driver_location_history
+{"driver_id":"7","trip_id":"","locations":"11.0179101,76.9662818|","status":"F","travel_status":"","device_token":"75a0168ac642ca77","device_type":"1","above_min_km":"0","shift_id":"73"}
+Time is 2017-09-08 16:58:28
+
+

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2017 Ndot. All rights reserved. 
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:kohana:module:Payment_Config:etc/system_file.xsd">
+    <system>
+        <section id="payment_gateway_type">                       
+                              
+            <group id="Authorize" translate="label" type="select" value="2">				                             
+               
+                <field id="payment_gateway_username" translate="label" type="text" showInMode="T"  showInPosition="1" required="true">
+                    <label>Payment gateway MerchantID</label>    
+                    <span class="star">*</span>              
+                </field>
+                <field id="payment_gateway_password" translate="label" type="text" showInMode="T"  showInPosition="1" required="true">
+                    <label>Payment gateway API Key</label> 
+                    <span class="star">*</span>                 
+                </field>
+                
+            
+                <field id="live_payment_gateway_username" translate="label" type="text" showInMode="L" showInPosition="2" required="true">
+                    <label>Payment gateway MerchantID</label>   
+                    <span class="star">*</span>               
+                </field>
+                <field id="live_payment_gateway_password" translate="label" type="text"  showInMode="L" showInPosition="2" required="true">
+                    <label>Payment gateway API Key</label>  
+                    <span class="star">*</span>                
+                </field>
+                 
+             
+                <field id="payment_gateway_status" translate="Active" type="radio"  value="A" showInPosition="3">
+                    <label class="form_group">Payment gateway status</label> 
+                    <span class="star">*</span>                                     
+                </field>    
+                <field id="payment_gateway_status" translate="Inactive" type="radio"  value="I" showInPosition="3">                    
+                    <label id="end_form_group"></label>           
+                </field>        
+                <field id="check_default" translate="label" type="checkbox" showInPosition="3">                    
+                    <label>Default payment gateway</label>                  
+                </field>   
+                 <field id="Hint" translate="label" type="span" showInPosition="3">                    
+                    <label>Note:Made transaction below $1000 for Test account. 
+A pre-authorization (PA) can not be voided.If you do not do a pre-auth completion the funds will be held for approximately 7 business days by the card holders bank. The customer may contact their bank to have these funds released before this 7 business day period.</label>                  
+                </field>
+            </group>           
+          
+        </section>
+    </system>
+</config>

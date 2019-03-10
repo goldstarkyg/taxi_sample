@@ -1,0 +1,1180 @@
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:36:18
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:36:24
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:36:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:36:36
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:36:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:36:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:36:56
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:36:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:37:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:37:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:37:18
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:37:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:37:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:37:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:37:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:37:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:37:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:37:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:38:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:38:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:38:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:38:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:38:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:38:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:38:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:38:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:38:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:38:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:39:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:39:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:39:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:39:55
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:39:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:40:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:40:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:40:30
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:40:36
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:40:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:40:43
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:40:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:40:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:40:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:41:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:41:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:41:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:41:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:41:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:41:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:41:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:41:42
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:41:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:41:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:41:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:42:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:42:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:42:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:42:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:42:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:42:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:42:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:42:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:42:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:42:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:43:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:43:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:43:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:43:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:43:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:43:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:43:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:43:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:43:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:43:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:44:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:44:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:44:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:44:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:44:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:44:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:44:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:44:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:44:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:44:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:45:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:45:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:45:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:45:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:45:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:45:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:45:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:45:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:45:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:45:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:46:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:46:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:46:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:46:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:46:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:46:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:46:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:46:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:46:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:46:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:47:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:47:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:47:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:47:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:47:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:47:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:47:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:47:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:47:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:47:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:48:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:48:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:48:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:48:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:48:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:48:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:48:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:48:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:48:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:48:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:49:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:49:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:49:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:49:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:49:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:49:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:49:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:49:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:49:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:49:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:50:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:50:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:50:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:50:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:50:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:50:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:50:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:50:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:50:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:50:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:51:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:51:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:51:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:51:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:51:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:51:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:51:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:51:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:51:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:51:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:52:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:52:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:52:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:52:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:52:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:52:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:52:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:52:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:52:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:52:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:53:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:53:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:53:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:53:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:53:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:53:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:53:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:53:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:53:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:53:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:54:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:54:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:54:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:54:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:54:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:54:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:54:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:54:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:54:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:54:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:55:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:55:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:55:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:55:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:55:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:55:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:55:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:55:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:55:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:55:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:56:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:56:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:56:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:56:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:56:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:56:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:56:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:56:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:56:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:56:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:57:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:57:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:57:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:57:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:57:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:57:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:57:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:57:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:57:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:57:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:58:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:58:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:58:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:58:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:58:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:58:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:58:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:58:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:58:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:58:59
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:05
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:11
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:17
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:18
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:23
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:29
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:35
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018707|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:36
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:41
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:42
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:47
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:53
+
+
+Method driver_location_history
+{"driver_id":"9","status":"F","shift_id":54,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-07 13:59:59
+
+

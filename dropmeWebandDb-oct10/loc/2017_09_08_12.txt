@@ -1,0 +1,2640 @@
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386033,79.8631167|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:00:00
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386033,79.8631167|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:00:07
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386033,79.8631167|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:00:14
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386033,79.8631167|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:00:21
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386033,79.8631167|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:00:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386033,79.8631167|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:00:35
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938655,79.863085|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:00:42
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938625,79.863105|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:00:49
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938565,79.8630983|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:00:57
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93853,79.8630917|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:01:03
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385233,79.8629867|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:01:10
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385233,79.8629867|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:01:19
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385233,79.8629867|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:01:29
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384017,79.862995|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:01:31
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384017,79.862995|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:01:38
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384017,79.862995|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:01:46
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384017,79.862995|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:01:52
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938355,79.86294|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:01:59
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93829,79.8629733|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:02:12
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938295,79.8630067|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:02:13
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938295,79.8630067|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:02:20
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938295,79.8630067|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:02:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938295,79.8630067|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:02:35
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938295,79.8630067|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:02:42
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938295,79.8630067|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:02:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383867,79.862985|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:02:56
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384317,79.86297|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:03:05
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93845,79.862965|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:03:09
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93845,79.862965|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:03:16
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93845,79.862965|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:03:24
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93845,79.862965|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:03:30
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93845,79.862965|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:03:45
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93845,79.862965|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:03:45
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93845,79.862965|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:03:51
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938465,79.862935|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:03:59
+
+
+Method driver_location_history
+{"driver_id":"6","status":"B","shift_id":70,"device_token":"403325A1-5821-4F37-AC10-9B86F6C0C18C","locations":"11.0308392997934,77.0196813997598|11.0308392997934,77.0196813997598|11.0308392997934,77.0196813997598|11.0308392997934,77.0196813997598|11.0308392997934,77.0196813997598|11.0308392997934,77.0196813997598|11.0308392997934,77.0196813997598|","above_min_km":"0","device_type":"2","trip_id":"247"}
+Time is 2017-09-08 12:04:06
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938465,79.862935|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:04:06
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93852,79.8629783|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:04:12
+
+
+Method driver_location_history
+{"driver_id":"6","status":"B","shift_id":70,"device_token":"403325A1-5821-4F37-AC10-9B86F6C0C18C","locations":"11.0308392997934,77.0196813997598|11.0308392997934,77.0196813997598|11.0308392997934,77.0196813997598|11.0308392997934,77.0196813997598|11.0308400960742,77.019679052827|11.0308400960742,77.019679052827|","above_min_km":"0","device_type":"2","trip_id":"247"}
+Time is 2017-09-08 12:04:16
+
+
+Method driver_location_history
+{"driver_id":"6","status":"B","shift_id":70,"device_token":"403325A1-5821-4F37-AC10-9B86F6C0C18C","locations":"11.0308400960742,77.019679052827|11.0308400960742,77.019679052827|11.0308400960742,77.019679052827|11.0308400960742,77.019679052827|11.0308400960742,77.019679052827|11.0308400960742,77.019679052827|","above_min_km":"0","device_type":"2","trip_id":"247"}
+Time is 2017-09-08 12:04:18
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93852,79.8629783|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:04:19
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93852,79.8629783|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:04:26
+
+
+Method driver_location_history
+{"driver_id":"6","status":"A","shift_id":70,"device_token":"403325A1-5821-4F37-AC10-9B86F6C0C18C","locations":"11.0308400960742,77.019679052827|11.0308400960742,77.019679052827|11.0308400960742,77.019679052827|","above_min_km":"1","device_type":"2","trip_id":"247"}
+Time is 2017-09-08 12:04:27
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93852,79.8629783|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:04:35
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385967,79.8629417|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:04:40
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386017,79.86294|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:04:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386017,79.86294|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:04:54
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386017,79.86294|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:05:01
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386017,79.86294|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:05:08
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385467,79.8627417|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:05:16
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385467,79.8627417|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:05:22
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385467,79.8627417|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:05:29
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385467,79.8627417|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:05:38
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:05:43
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385404,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:05:50
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:05:57
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:06:04
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385933,79.8629033|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:06:11
+
+
+Method driver_location_history
+{"driver_id":"12","trip_id":"246","locations":"6.9385318,79.8630616|","status":"F","travel_status":"9","device_token":"d14cd5c0db8886c8","device_type":"1","above_min_km":"0","shift_id":"71"}
+Time is 2017-09-08 12:06:12
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385933,79.8629033|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:06:18
+
+
+Method driver_location_history
+{"driver_id":"12","trip_id":"246","locations":"6.9385217,79.8630678|","status":"F","travel_status":"9","device_token":"d14cd5c0db8886c8","device_type":"1","above_min_km":"0","shift_id":"71"}
+Time is 2017-09-08 12:06:20
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938545,79.862895|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:06:25
+
+
+Method driver_location_history
+{"driver_id":"12","trip_id":"246","locations":"6.9385168,79.8630709|","status":"F","travel_status":"9","device_token":"d14cd5c0db8886c8","device_type":"1","above_min_km":"0","shift_id":"71"}
+Time is 2017-09-08 12:06:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938545,79.862895|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:06:32
+
+
+Method driver_location_history
+{"driver_id":"12","trip_id":"246","locations":"6.9385126,79.8630823|","status":"F","travel_status":"9","device_token":"d14cd5c0db8886c8","device_type":"1","above_min_km":"0","shift_id":"71"}
+Time is 2017-09-08 12:06:35
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938545,79.862895|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:06:40
+
+
+Method driver_location_history
+{"driver_id":"12","trip_id":"246","locations":"6.9385118,79.8630866|","status":"F","travel_status":"9","device_token":"d14cd5c0db8886c8","device_type":"1","above_min_km":"0","shift_id":"71"}
+Time is 2017-09-08 12:06:40
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938545,79.862895|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:06:46
+
+
+Method driver_location_history
+{"driver_id":"12","trip_id":"246","locations":"6.9385112,79.8630896|","status":"F","travel_status":"9","device_token":"d14cd5c0db8886c8","device_type":"1","above_min_km":"0","shift_id":"71"}
+Time is 2017-09-08 12:06:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938545,79.862895|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:06:53
+
+
+Method driver_location_history
+{"driver_id":"12","trip_id":"246","locations":"6.9385108,79.8630916|","status":"F","travel_status":"9","device_token":"d14cd5c0db8886c8","device_type":"1","above_min_km":"0","shift_id":"71"}
+Time is 2017-09-08 12:06:56
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386417,79.8629467|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:07:00
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9387333,79.8630383|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:07:08
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386583,79.8630717|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:07:14
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93851,79.86301|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:07:23
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93851,79.8630133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:07:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93851,79.8630133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:07:35
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93851,79.8630133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:07:42
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384583,79.8628917|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:07:49
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384583,79.8628917|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:07:57
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384583,79.8628917|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:08:03
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384583,79.8628917|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:08:10
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384583,79.8628917|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:08:17
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383717,79.8629067|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:08:29
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938375,79.8628817|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:08:31
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938505,79.8627867|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:08:38
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938575,79.8628667|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:08:46
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93859,79.86287|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:08:53
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93859,79.86287|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:09:02
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93859,79.86287|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:09:06
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93859,79.86287|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:09:13
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385017,79.8629183|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:09:20
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385017,79.8629183|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:09:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385017,79.8629183|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:09:34
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385017,79.8629183|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:09:41
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385017,79.8629183|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:09:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385017,79.8629183|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:09:55
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385017,79.8629183|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:10:02
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384889,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:10:32
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9382717,79.8632267|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:10:40
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9382717,79.8632267|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:10:47
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384383,79.8628717|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:10:53
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385133,79.86276|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:11:00
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385517,79.86292|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:11:07
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385267,79.862935|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:11:15
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385217,79.8629533|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:11:20
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385217,79.8629567|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:11:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385217,79.8629567|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:11:34
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938485,79.862845|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:11:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384833,79.862805|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:11:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384917,79.86275|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:11:55
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385217,79.8628083|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:12:03
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938525,79.862715|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:12:10
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385367,79.8626833|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:12:17
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385367,79.8626833|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:12:24
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385367,79.8626833|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:12:31
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385367,79.8626833|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:12:38
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385367,79.8626833|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:12:45
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:12:52
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:12:59
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:13:07
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:13:13
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385193,79.8630646|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:13:19
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:13:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:13:33
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:13:41
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:13:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384885,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:13:56
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:14:02
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:14:09
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:14:21
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384889,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:14:22
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:14:30
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:14:36
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:14:43
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:14:51
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:14:59
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:15:06
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:15:12
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:15:21
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:15:26
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:15:34
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:15:39
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:15:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:15:55
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:16:02
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384885,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:16:09
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384885,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:16:17
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384678,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:16:22
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384885,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:16:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384885,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:16:37
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:16:43
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384885,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:16:51
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:16:59
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:17:04
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:17:11
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:17:18
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:17:25
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:17:32
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384678,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:17:39
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384673,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:17:46
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384682,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:17:53
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384885,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:18:00
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:18:07
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:18:14
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:18:21
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:18:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:18:35
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:18:44
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:18:49
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:18:56
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:19:03
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:19:10
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:19:17
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:19:24
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:19:30
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:19:39
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:19:44
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:19:51
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385193,79.8630646|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:20:04
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:20:06
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:20:13
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:20:21
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:20:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:20:36
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:20:41
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385303,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:20:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:20:55
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:21:02
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:21:09
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:21:16
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:21:23
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383933,79.863075|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:21:31
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383933,79.863075|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:21:37
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384133,79.8630183|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:21:44
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384133,79.8630183|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:21:52
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93844,79.863025|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:21:59
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93844,79.863025|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:22:04
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93844,79.863025|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:22:19
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93844,79.863025|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:22:19
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93844,79.863025|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:22:26
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383567,79.8629867|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:22:33
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938345,79.8629783|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:22:39
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938345,79.8629783|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:22:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93828,79.862855|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:22:54
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93825,79.86282|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:23:00
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938265,79.862785|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:23:07
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9382367,79.8627433|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:23:15
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9382367,79.8627283|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:23:21
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9382383,79.8627283|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:23:34
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9382683,79.862815|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:23:35
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93828,79.86283|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:23:43
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384883,79.8628017|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:23:49
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384883,79.8628017|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:23:56
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384883,79.8628017|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:24:03
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384883,79.8628017|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:24:10
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385317,79.8628567|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:24:17
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385317,79.8628567|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:24:26
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384867,79.862855|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:24:32
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93846,79.8628667|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:24:40
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384283,79.8628733|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:24:45
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384417,79.8629117|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:24:52
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938445,79.862935|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:25:01
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384567,79.8629533|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:25:06
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384433,79.8629533|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:25:20
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384433,79.8629533|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:25:20
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384433,79.8629533|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:25:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384433,79.8629533|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:25:36
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384433,79.8629533|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:25:42
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384433,79.8629533|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:25:50
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385717,79.862935|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:25:57
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93861,79.8629167|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:26:02
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385817,79.8629333|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:26:09
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385167,79.8630333|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:26:18
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384933,79.8630517|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:26:24
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93844,79.863135|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:26:31
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384533,79.8631317|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:26:40
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384517,79.8630733|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:26:45
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938455,79.8630333|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:26:53
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938455,79.8630333|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:27:00
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385933,79.8630717|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:27:06
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385717,79.8630617|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:27:14
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385717,79.8630617|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:27:21
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385033,79.8629933|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:27:27
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385033,79.8629933|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:27:39
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385033,79.8629933|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:27:41
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385033,79.8629933|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:27:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385033,79.8629933|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:27:57
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384283,79.86291|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:28:02
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938415,79.862915|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:28:09
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385783,79.8627483|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:28:16
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9387083,79.8626467|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:28:23
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938735,79.8626333|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:28:30
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938705,79.8626467|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:28:37
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938645,79.8626983|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:28:44
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938645,79.8626983|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:28:52
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93863,79.8628117|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:28:59
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386317,79.8628333|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:29:04
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386317,79.8628333|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:29:16
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386317,79.8628333|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:29:19
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386317,79.8628333|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:29:26
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385933,79.8629417|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:29:33
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385933,79.8629417|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:29:40
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385933,79.8629417|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:29:47
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384267,79.8631217|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:29:54
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384017,79.86314|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:30:01
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383283,79.86326|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:30:08
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383283,79.86326|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:30:15
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383283,79.86326|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:30:22
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383283,79.86326|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:30:29
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383283,79.86326|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:30:36
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:30:43
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:30:50
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:30:57
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:31:04
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:31:11
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384417,79.8629467|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:31:18
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384417,79.8629467|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:31:25
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384417,79.8629467|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:31:33
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:31:40
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:31:45
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384885,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:31:54
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:32:00
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:32:07
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:32:15
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:32:23
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:32:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385193,79.8630646|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:32:36
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:32:42
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93827,79.86321|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:32:49
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93827,79.86321|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:32:56
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938195,79.8632317|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:33:04
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938195,79.8632317|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:33:09
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:33:18
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:33:23
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385303,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:33:31
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385193,79.8630646|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:33:39
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385193,79.8630646|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:33:45
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385193,79.8630646|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:33:52
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385193,79.8630646|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:34:00
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:34:06
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:34:14
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:34:20
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:34:29
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:34:34
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:34:43
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:34:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:34:56
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:35:01
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:35:10
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385091,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:35:15
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384889,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:35:25
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:35:30
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938551,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:35:39
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:35:44
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385491,79.86301|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:35:51
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:35:58
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938499,79.8630865|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:36:05
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385303,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:36:12
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385567,79.8629517|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:36:20
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385817,79.8629667|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:36:26
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938645,79.8630133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:36:34
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386517,79.86302|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:36:42
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93863,79.8629883|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:36:48
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386117,79.8630083|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:36:54
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386117,79.8630083|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:37:01
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386117,79.8630083|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:37:08
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386117,79.8630083|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:37:15
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386117,79.8630083|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:37:22
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386117,79.8630083|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:37:29
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386117,79.8630083|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:37:36
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384981,79.8630428|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:37:43
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385491,79.86301|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:37:50
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385491,79.86301|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:37:57
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384981,79.8630428|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:38:04
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384981,79.8630428|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:38:11
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938488,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:38:18
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384885,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:38:25
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384875,79.8630318|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:38:32
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385712,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:38:39
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384678,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:38:46
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384678,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:38:53
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938455,79.8629133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:39:01
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938455,79.8629133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:39:07
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93847,79.863|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:39:15
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93847,79.863|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:39:22
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93847,79.863|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:39:28
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383933,79.8630317|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:39:35
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384117,79.86311|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:39:42
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384217,79.8631133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:39:49
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384333,79.8631233|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:39:58
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"B","locations":"6.9385096,79.8630975|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"9"}
+Time is 2017-09-08 12:40:13
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"B","locations":"6.938275,79.8631733|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"9"}
+Time is 2017-09-08 12:40:22
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"B","locations":"6.9385183,79.863085|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"9"}
+Time is 2017-09-08 12:40:37
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"B","locations":"6.9384983,79.863045|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"9"}
+Time is 2017-09-08 12:40:47
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,3.9,18:10:52,0.0,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:40:54
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,5.8,18:10:57,0.0,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:41:01
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,3.9,18:11:03,2.49,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:41:10
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,3.9,18:11:09,3.18,0.0|6.9384983,79.863045,3.9,18:11:14,3.17,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:41:16
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,3.9,18:11:20,2.94,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:41:23
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,4.1,18:11:26,3.73,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:41:30
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,3.9,18:11:32,2.79,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:41:36
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,3.9,18:11:38,2.55,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:41:45
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,3.9,18:11:44,2.52,0.0|6.9384983,79.863045,4.2,18:11:49,3.5,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:41:51
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,3.9,18:11:54,2.05,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:41:58
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,3.9,18:12:00,3.57,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:42:04
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,3.9,18:12:06,3.31,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:42:12
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,4.2,18:12:12,3.67,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:42:18
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,4.1,18:12:18,3.25,0.0|6.9384983,79.863045,4.3,18:12:23,0.0,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:42:25
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,4.1,18:12:30,3.29,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:42:33
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,3.9,18:12:36,0.0,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:42:40
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,4.1,18:12:42,3.57,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:42:46
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,3.9,18:12:48,3.17,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:42:53
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9384983,79.863045,4.3,18:12:54,4.68,0.0|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:43:01
+
+
+Method driver_location_history
+{"driver_id":"8","status":"F","shift_id":65,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"37.33450379,-122.03875937|37.33449629,-122.03908048|37.33448791,-122.03941089|37.33447622,-122.0397398|37.33447068,-122.04007348|37.33446519,-122.04041597|37.3344584,-122.04077831|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-08 12:43:01
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.93815,79.86229,4.8,18:13:00,5.67,0.0|6.93815,79.86229,4.0,18:13:06,2.86,0.09192301|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:43:07
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.93815,79.86229,4.5,18:13:11,3.88,0.09192301|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:43:15
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.93815,79.86229,4.7,18:13:17,4.84,0.09192301|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:43:21
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.93815,79.86229,4.5,18:13:23,4.63,0.09192301|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:43:28
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.93815,79.86229,4.8,18:13:29,4.89,0.09192301|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:43:35
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9382717,79.862705,5.0,18:13:35,5.23,0.09192301|6.9383333,79.8627733,5.4,18:13:41,6.6,0.13970152|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:43:43
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9383333,79.8627733,4.6,18:13:46,4.8,0.14989035|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:43:50
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9383617,79.8628917,4.7,18:13:52,5.38,0.14989035|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:43:57
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9383967,79.8629617,4.6,18:13:57,5.15,0.16333933|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:44:03
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9383967,79.8629617,3.9,18:14:03,2.92,0.17199321|6.9383967,79.8629617,3.9,18:14:09,2.21,0.17199321|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:44:10
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9383967,79.8629617,9.6,18:14:15,0.0,0.17199321|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:44:17
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9383967,79.8629617,7.2,18:14:20,0.0,0.17199321|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:44:25
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9383967,79.8629617,11.7,18:14:25,0.0,0.17199321|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:44:32
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9383967,79.8629617,17.2,18:14:32,0.0,0.17199321|6.9383967,79.8629617,3.9,18:14:37,0.0,0.17199321|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:44:38
+
+
+Method driver_location_history
+{"trip_id":"248","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9383967,79.8629617,3.9,18:14:43,0.0,0.17199321|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:44:46
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384333,79.8630667|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:45:04
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384733,79.86306|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:45:11
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384783,79.8630467|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:45:18
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384717,79.8630383|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:45:25
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384417,79.86304|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:45:32
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384383,79.86304|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:45:39
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385417,79.863095|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:45:46
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385533,79.863085|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:45:53
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"B","locations":"6.9385833,79.8628533|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"9"}
+Time is 2017-09-08 12:46:06
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9385833,79.8629367|6.9385833,79.8629367,33.91,18:16:08,0.0,0.17199321|6.9386717,79.8630383,7.8,18:16:12,11.86,0.17199321|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:46:13
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"1","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9388333,79.863085,7.1,18:16:17,10.82,0.18691018|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:46:20
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9389617,79.8630717,6.6,18:16:23,9.79,0.20560932|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:46:27
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,5.8,18:16:29,8.02,0.21996608|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:46:35
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,4.0,18:16:35,3.61,0.23297958|6.9390767,79.86305,3.9,18:16:40,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:46:41
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,8.3,18:16:45,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:46:48
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,16.4,18:16:52,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:46:55
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,20.0,18:16:57,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:47:02
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,20.4,18:17:01,0.0,0.23297958|6.9390767,79.86305,19.8,18:17:07,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:47:10
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,19.8,18:17:13,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:47:16
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,20.3,18:17:17,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:47:23
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,21.1,18:17:24,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:47:30
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,21.6,18:17:30,0.0,0.23297958|6.9390767,79.86305,22.9,18:17:36,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:47:38
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,22.9,18:17:42,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:47:44
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,23.4,18:17:48,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:47:51
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,24.2,18:17:53,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:47:58
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:17:59,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:48:05
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:18:05,0.0,0.23297958|6.9390767,79.86305,3.9,18:18:10,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:48:13
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:18:15,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:48:19
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:18:20,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:48:26
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:18:26,0.0,0.23297958|6.9390767,79.86305,3.9,18:18:32,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:48:33
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:18:38,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:48:40
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:18:44,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:48:47
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:18:50,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:48:55
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:18:56,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:49:01
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:19:01,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:49:09
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:19:07,0.0,0.23297958|6.9390767,79.86305,3.9,18:19:14,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:49:16
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:19:19,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:49:22
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:19:24,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:49:30
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:19:29,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:49:36
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:19:35,1.85,0.23297958|6.9390767,79.86305,3.9,18:19:41,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:49:43
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:19:47,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:49:50
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,3.9,18:19:54,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:49:57
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,4.8,18:19:59,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:50:04
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,4.7,18:20:06,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:50:11
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,5.6,18:20:11,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:50:19
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9390767,79.86305,7.4,18:20:18,0.0,0.23297958|6.9390767,79.86305,7.5,18:20:23,0.0,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:50:26
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9393667,79.8627683,3.9,18:20:28,5.23,0.23297958|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:50:32
+
+
+Method driver_location_history
+{"driver_id":"6","status":"F","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"37.33445283,-122.04113765|37.3344499,-122.04149924|37.39418919,-122.17640321|37.39418919,-122.17640321|37.39440066,-122.17665986|37.39462396,-122.17690042|37.39485119,-122.17713419|37.3950793,-122.17736604|37.39531442,-122.1776014|37.39555665,-122.17782746|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-08 12:50:37
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9393667,79.8627683,3.9,18:20:35,2.5,0.27778828|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:50:41
+
+
+Method driver_location_history
+{"driver_id":"6","status":"F","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-08 12:50:43
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9393667,79.8627683,3.9,18:20:41,2.63,0.27778828|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:50:47
+
+
+Method driver_location_history
+{"driver_id":"6","status":"F","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-08 12:50:49
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9393667,79.8627683,3.9,18:20:47,0.0,0.27778828|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:50:54
+
+
+Method driver_location_history
+{"driver_id":"6","status":"F","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-08 12:50:55
+
+
+Method driver_location_history
+{"driver_id":"6","status":"F","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-08 12:51:01
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9393667,79.8627683,4.0,18:20:53,4.19,0.27778828|6.9393667,79.8627683,3.9,18:20:59,1.71,0.27778828|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:51:01
+
+
+Method driver_location_history
+{"driver_id":"6","status":"F","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-08 12:51:07
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9391233,79.86292,5.7,18:21:05,8.01,0.27778828|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:51:08
+
+
+Method driver_location_history
+{"driver_id":"6","status":"F","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|11.032005,77.018708|","above_min_km":"0","device_type":"2","trip_id":""}
+Time is 2017-09-08 12:51:13
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9391233,79.86292,3.9,18:21:11,3.86,0.3096232|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:51:16
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9389517,79.86302,4.6,18:21:16,5.54,0.3096232|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:51:22
+
+
+Method driver_location_history
+{"driver_id":"6","status":"A","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"11.032005,77.018708|37.39555665,-122.17782746|11.032005,77.018708|11.032005,77.018708|37.39555665,-122.17782746|","above_min_km":"1","device_type":"2","trip_id":"252"}
+Time is 2017-09-08 12:51:24
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9389517,79.86302,4.0,18:21:22,3.74,0.33167315|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:51:29
+
+
+Method driver_location_history
+{"driver_id":"6","status":"A","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"37.39555665,-122.17782746|","above_min_km":"1","device_type":"2","trip_id":"252"}
+Time is 2017-09-08 12:51:29
+
+
+Method driver_location_history
+{"driver_id":"6","status":"A","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"37.39555665,-122.17782746|","above_min_km":"1","device_type":"2","trip_id":"252"}
+Time is 2017-09-08 12:51:35
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9389517,79.86302,4.0,18:21:28,3.82,0.33167315|6.9389517,79.86302,4.0,18:21:34,3.85,0.33167315|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:51:37
+
+
+Method driver_location_history
+{"driver_id":"6","status":"A","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"37.39555665,-122.17782746|","above_min_km":"1","device_type":"2","trip_id":"252"}
+Time is 2017-09-08 12:51:41
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9389517,79.86302,4.4,18:21:40,4.7,0.33167315|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:51:42
+
+
+Method driver_location_history
+{"driver_id":"6","status":"A","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"37.39555665,-122.17782746|","above_min_km":"1","device_type":"2","trip_id":"252"}
+Time is 2017-09-08 12:51:47
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9389517,79.86302,3.9,18:21:46,2.79,0.33167315|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"2"}
+Time is 2017-09-08 12:51:51
+
+
+Method driver_location_history
+{"driver_id":"6","status":"A","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"37.39555665,-122.17782746|","above_min_km":"1","device_type":"2","trip_id":"252"}
+Time is 2017-09-08 12:51:53
+
+
+Method driver_location_history
+{"trip_id":"249","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"A","locations":"6.9389517,79.86302,3.9,18:21:52,0.0,0.33167315|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":"5"}
+Time is 2017-09-08 12:51:56
+
+
+Method driver_location_history
+{"driver_id":"6","status":"A","shift_id":70,"device_token":"3ECD6FB0-30EF-44CA-93D2-C93FB972B3AD","locations":"37.39555665,-122.17782746|","above_min_km":"1","device_type":"2","trip_id":"252"}
+Time is 2017-09-08 12:51:59
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938488,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:52:27
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384885,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:52:35
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384885,79.8630756|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:52:41
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385087,79.8630537|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:52:49
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385395,79.8630428|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:52:55
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385217,79.8630133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:53:05
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385217,79.8630133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:53:09
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93849,79.8630867|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:53:16
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93842,79.863225|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:53:23
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383967,79.8633733|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:53:30
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383917,79.863425|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:53:37
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383833,79.86344|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:53:44
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383817,79.8634433|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:53:51
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383817,79.8634433|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:53:58
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383817,79.8634433|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:54:05
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384217,79.86339|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:54:12
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938415,79.8633783|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:54:19
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938415,79.8633783|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:54:26
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938415,79.8633783|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:54:33
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93842,79.8631933|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:54:40
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384367,79.863155|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:54:47
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384467,79.8631317|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:54:54
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384733,79.8631067|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:55:01
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384767,79.8630883|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:55:08
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384817,79.8631133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:55:15
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384917,79.8631067|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:55:22
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384883,79.8631417|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:55:29
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385767,79.86306|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:55:36
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385783,79.863055|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:55:45
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938555,79.86306|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:55:50
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384917,79.8630967|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:55:58
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384917,79.863085|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:56:04
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385233,79.8631733|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:56:11
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938525,79.8631767|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:56:19
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385767,79.8630933|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:56:25
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385967,79.8630917|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:56:33
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93865,79.8631283|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:56:39
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938715,79.863145|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:56:46
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93875,79.8632383|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:56:54
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386967,79.863355|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:57:00
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385667,79.863235|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:57:09
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386517,79.86306|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:57:14
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9387133,79.8630633|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:57:21
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385933,79.86316|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:57:30
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384167,79.8632233|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:57:35
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384,79.863195|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:57:42
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93839,79.8631617|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:57:49
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383817,79.8632133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:57:57
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384017,79.8632433|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:58:04
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93837,79.8632933|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:58:11
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383883,79.8632833|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:58:17
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383667,79.8633483|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:58:24
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938345,79.8633617|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:58:31
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93828,79.8633917|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:58:38
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9382733,79.8633983|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:58:45
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938275,79.8633933|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:58:52
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.938275,79.8633933|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:59:00
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383267,79.8633167|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:59:06
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9383267,79.8633167|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:59:15
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384517,79.8631367|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:59:20
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9384567,79.86313|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:59:27
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93848,79.8631133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:59:36
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.93848,79.8631133|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:59:41
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9385583,79.8631717|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:59:53
+
+
+Method driver_location_history
+{"trip_id":"","above_min_km":"0","device_token":"1740ba5c0c6dab11","status":"F","locations":"6.9386033,79.8631833|","device_type":"1","shift_id":"69","driver_id":"13","travel_status":""}
+Time is 2017-09-08 12:59:55
+
+
