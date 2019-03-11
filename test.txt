@@ -1,0 +1,21 @@
+-----note-----
+1.
+mobile_app\Pods\GoogleMaps\Frameworks\GoogleMaps.framework\GoogleMaps file 's size is large than 100M.
+so I was compressed GoogleMaps file to zip file because github can not use large file than 100M.
+after pull, Please extract GoogleMaps1.zip in this location to "GoogleMaps".
+
+2. 
+\mobile_app\Pods\GoogleMaps\Frameworks\GoogleMaps.framework\Versions\A\GoogleMaps file to 3 zip file because github can not use large file than 100M.
+after pull, Please extract GoogleMaps1.zip in this location to "GoogleMaps".
+
+3. mobile_app\Pods\GoogleMaps\Frameworks\GoogleMaps.framework\Versions\Current\GoogleMaps file to 3 zip file because github can not use large file than 100M.
+after pull, Please extract GoogleMaps1.zip in this location to "GoogleMaps".
+
+4. mobile_app\Pods\GoogleMaps\GoogleMapsSDKDemos\GoogleMaps.framework\GoogleMaps file to 3 zip file because github can not use large file than 100M.
+after pull, Please extract GoogleMaps1.zip in this location to "GoogleMaps".
+
+5. mobile_app\Pods\GoogleMaps\GoogleMapsSDKDemos\GoogleMaps.framework\Versions\A\GoogleMaps file to 3 zip file because github can not use large file than 100M.
+after pull, Please extract GoogleMaps1.zip in this location to "GoogleMaps".
+
+6.  mobile_app\Pods\GoogleMaps\GoogleMapsSDKDemos\GoogleMaps.framework\Versions\Current\GoogleMaps 3 file to zip file because github can not use large file than 100M.
+after pull, Please extract GoogleMaps1.zip in this location to "GoogleMaps".
