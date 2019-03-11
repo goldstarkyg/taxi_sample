@@ -1,0 +1,188 @@
+/* 
+  Localizable.strings
+  Taximobility Driver
+
+  Created by Mahesh on 2/23/16.
+  Copyright © 2016 Ndot. All rights reserved.
+*/
+
+"EMAIL VALIDATE" = "Введите действительный адрес электронной почты";
+"MOB VALIDATE" = "Введите действительный номер мобильного телефона";
+"PASS VALIDATE" = "Введите правильный пароль";
+"MANDATORY" = "Все поля обязательны для заполнения";
+"SIGN IN" = "ВОЙТИ В СИСТЕМУ";
+"APP TITLE" = "Сообщение";
+"APP NAME" = "Tqube taxi Driver";
+"YOUR CURRENT LOCATION"="Ваше текущее местоположение";
+"Language Settings"="Языковые настройки";
+"STATISTICS" = "Статистика";
+"Profile"="Профиль";
+"Total completed jobs" = "Всего выполненных заданий";
+"Cancelled" = "Отменено";
+"Rejected"="Отклонено";
+"Time Driven"="повременной";
+"Today Earning"="Сегодня доход";
+"Total earning" = "Общий доход";
+"Total trip" = "Общая поездка";
+"MY LOCATION" = "Мое местонахождение";
+"Current Location"="Текущее местоположение";
+"Taxi Details" = "Такси Подробнее";
+"Logout"="Выйти";
+"First Name"="Имя";
+"Last Name"="Фамилия";
+"Email"="Эл. адрес";
+"Confirm Password"="Подтвердите Пароль";
+"Bank"="Банка";
+"Bank A/C no"="Bank A / C нет";
+"Mobile Number"="Мобильный номер";
+"Password"="пароль";
+"ERROR"="ОШИБКА";
+"Take Photo"="Фотографировать";
+"Choose from Library"="Выбрать из библиотеки";
+"This device doesn't have a camera."="Это устройство не имеет камеры.";
+"This device doesn't support photo libraries."="Данное устройство не поддерживает библиотеки фотографий.";
+"CANCEL" = "Отмена";
+"PASSWORD VALIDATE" = "Пароль должен быть от 5 до 32 символов";
+"PASSWORD NOT MATCH" = "Пароль не подходит";
+"VALID FIRST NAME" = "Требуется действительный Имя";
+"VALID LAST NAME" = "Требуется действительный Фамилия";
+"Show" = "Показать";
+"Hide" = "Спрятать";
+"Are you sure you want to logout?" = "Вы действительно хотите выйти?";
+"YES" = "да";
+"No Data Found" = "Данные не найдены";
+"Trip History" = "История поездки";
+"Pending Bookings" = "В ожидании заказы";
+"Past Bookings" = "Прошедшие бронирование";
+"Passenger Name"="Имя пассажира";
+"PICKUP LOCATION" = "Выбрать место";
+"DROP LOCATION" = "Капля Расположение";
+"Driver Location" = "Драйвер Расположение";
+"Distance" = "Расстояние";
+"Pickup Date"="Подобрать дату";
+"Drop Time" = "Время падения";
+"Amount"="Количество";
+"Trip Id"="Trip Id";
+"Used Wallet" = "Б Кошелек";
+"PAYMENT" = "Оплата";
+"TRIP REQUEST" = "Маршрутный Запрос";
+"NAME" = "имя";
+"Landmark"="веха";
+"I'VE ARRIVED"="Я приехал";
+"START TRIP"="Start Trip";
+"END TRIP"="End Trip";
+"SECONDS LEFT TO ACCEPT"="Оставленными секундами ПРИНЯТЬ";
+"Min"="Min";
+"Sec"="Sec";
+"Pickup passenger"="Самовывоз Пассажир";
+"Trip in progress"="Поездка в Прогресс";
+"Waiting For Passenger"="Ожидание Пассажир";
+"UNREGISTERED CARD" = "NEZAREGISTRIROVANNAYA CARD";
+"CVV" = "CVV";
+"Card No" = "Нет карты";
+"3 Digit" = "3 Digit";
+"Done" = "Готово";
+"Enter valid credit card number" = "Введите действительный номер кредитной карты";
+"Enter valid expiry date" = "Введите действительную дату истечения срока действия";
+"Enter valid CVV number" = "Введите действительный номер CVV";
+"E-Receipt" = "E- Квитанция";
+"Payment Completed" = "Оплата Завершенный";
+"Trip Id : %@" = "Trip Id : %@";
+"Back To Home" = "Вернуться домой";
+"Fare Calculator" = "Плата за проезд Калькулятор";
+"Total Distance" = "Общее расстояние";
+"Trip Fare" = "Маршрутный Плата за проезд";
+"Waiting Time Cost" = "Время ожидания Стоимость";
+"Total" = "Всего";
+"Tax %@%@" = "налог %@%@";
+"Wallet Amount Used" = "Кошелек Сумма Б";
+"Amount to Pay" = "Сумма к оплате";
+"PAYMENT BY" = "Компенсация";
+"Discount" = "скидка";
+"Cash" = "наличные";
+"Wallet" = "Бумажник";
+"Credit Card" = "Кредитная карта";
+"New Card" = "Новая карта";
+"CALL PASSENGER" = "ВЫЗОВ ПАССАЖИРА";
+"Waiting Time" = "Время ожидания";
+"Are you sure you want to complete this trip?" = "Вы уверены, что хотите завершить эту поездку ?";
+"Trip cancel"="Trip Отменить";
+"Are you sure you want to cancel this trip?" = "Вы уверены, что хотите отменить эту поездку ?";
+"Enter your mobile number" = "Введите номер мобильного телефона";
+"Forgot Password" = "Забыли пароль";
+"Speed" = "скорость";
+"Total %@" = "Всего %@";
+"TURN ON"= "Пожалуйста, перейдите в настройки и включите Место службы для этого приложения .";
+"Enable Gps"="Включение GPS";
+"Request From Passenger" = "Запрос от пассажирских";
+
+//Missed Keys
+"Track My Trip" = "Трек My Trip";
+"My Jobs" = "Мои задания";
+"Select Language" = "Выберите язык";
+"Taxi Model" = "Такси Модель";
+"Taxi number" = "количество такси";
+"Taxi from date" = "Такси с даты";
+"Taxi to date" = "Такси до настоящего времени";
+"No changes has been made" = "Никаких изменений не было сделано";
+"Pickup Time" = "Время забирать";
+"ACCEPT" = "Accept";
+"DECLINE" = "снижение";
+"Expiry" = "истечение срока";
+"OK" = "ОК";
+"Enter CVV number" = "Введите номер CVV";
+"Trip Details" = "Trip Подробнее";
+"Trip Duration" = "Prodolzhitel'nost' poyezdki";
+
+//V5.0
+"Passenger Details" = "Пассажирские Подробнее";
+"Log Out" = "Выйти";
+"Save" = "Сохранить";
+"Invite Friends" = "Пригласить друзей";
+"Sign In" = "Войти в систему";
+"When a driver join with your code" = "Когда водитель присоединиться с вашим кодом";
+"you Earn" = "Вы зарабатываете";
+//Missed
+"Drop Location is not specified" = "Капля Место не указано";
+"Please wait till the location update gets completed" = "Пожалуйста, подождите , пока обновление местоположения будет завершена";
+"Wallet History" = "Кошелек История";
+"Skip" = "Пропускать";
+"Withdraw" = "Изымать";
+"Wallet History" = "Кошелек История";
+"Disapproved" = "Отклонено";
+"Pending" = "в ожидании";
+"Approved" = "утвержденный";
+"Requested Amount" = "Запрашиваемая сумма";
+"Requested Date" = "Запрошенный Дата";
+"Status" = "Положение дел";
+"Share Via" = "Отправить по";
+"Facebook" = "facebook";
+"Twitter" = "щебетать";
+"Email" = "Эл. адрес";
+"Whats App" = "Что App";
+"SMS" = "смс";
+"Your device has no WhatsApp installed." = "Устройство не имеет WhatsApp установлен.";
+"Your device doesn't support SMS!" = "Устройство не поддерживает SMS !";
+//Referral
+"Enter the referral Code" = "Введите код направления";
+//Validation
+"Please enter your first name" = "Пожалуйста, введите ваше имя";
+"Please enter your last name" = "Пожалуйста, введите свою фамилию";
+"Please enter the email" = "Пожалуйста, введите адрес электронной почты";
+"Please enter the mobile number" = "Пожалуйста, введите номер мобильного телефона";
+"Please enter the password" = "Пожалуйста, введите пароль";
+"Please enter the confirm password" = "Пожалуйста, введите пароль подтверждения";
+"Please enter valid email address" = "Пожалуйста, введите действующий адрес электронной почты";
+"Please enter valid mobile number" = "Пожалуйста, введите действительный номер мобильного телефона";
+"Password should be minimum 6 characters" = "Пароль должен быть не менее 6 символов";
+"Password does not match" = "Пароль и подтверждение пароля не совпадает";
+"First name must contain atleast 4 characters" = "Имя должно содержать по крайней мере 4-х символов";
+//Missed
+"Please enter your old password" = "Введите старый пароль";
+"Please enter your new password" = "Пожалуйста, введите новый пароль";
+//Wallet
+"Do you want to withdraw" = "Вы хотите снять";
+"Sorry,Your wallet balance is too low" = "К сожалению , Ваш кошелек баланс слишком низок";
+"Trip Completed" = "Trip Завершенный";
+"Call" = "Вызов";
+
