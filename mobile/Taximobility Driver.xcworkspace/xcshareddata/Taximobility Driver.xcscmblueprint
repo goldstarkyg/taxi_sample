@@ -1,0 +1,42 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5E4B1B953E8D85A12DF003C3A17AEF02A6743CC1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "910839c7-4093-4800-b347-70afedcc6c00++505" : {
+
+    },
+    "ed33b91b-c6c0-4ca7-ad1c-af96b24e58af++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "910839c7-4093-4800-b347-70afedcc6c00++505" : 0,
+    "5E4B1B953E8D85A12DF003C3A17AEF02A6743CC1" : 0,
+    "ed33b91b-c6c0-4ca7-ad1c-af96b24e58af++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "28311B1F-1A3F-494E-9D1F-1B41000DF304",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "910839c7-4093-4800-b347-70afedcc6c00++505" : "Tqube%20Taxi%20Driver\/",
+    "5E4B1B953E8D85A12DF003C3A17AEF02A6743CC1" : "Tqube_Driver\/",
+    "ed33b91b-c6c0-4ca7-ad1c-af96b24e58af++505" : "trunk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Taximobility Driver",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Taximobility Driver.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/devtesark\/ios-driver.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E4B1B953E8D85A12DF003C3A17AEF02A6743CC1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.243:9880\/Taximobility-Service-iOS-Driver-v5.0",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "910839c7-4093-4800-b347-70afedcc6c00++505"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.243:9880\/Taximobility_IOS_Driver",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ed33b91b-c6c0-4ca7-ad1c-af96b24e58af++505"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Hl-6I-VJs"; */
+"3Hl-6I-VJs.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5LG-WA-yYx"; */
+"5LG-WA-yYx.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "7s7-OX-hBi"; */
+"7s7-OX-hBi.placeholder" = "Mobile Number";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kqc-E1-kXK"; */
+"Kqc-E1-kXK.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "aJ9-aQ-Clt"; */
+"aJ9-aQ-Clt.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jgX-OQ-87O"; */
+"jgX-OQ-87O.normalTitle" = "Button";

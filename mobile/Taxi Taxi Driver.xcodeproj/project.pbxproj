@@ -1,0 +1,1047 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1848C3741D36CAD900A16C04 /* MarqueeLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1848C3731D36CAD900A16C04 /* MarqueeLabel.swift */; };
+		606CEB6862056D776D71863B /* Pods_Taximobility_Driver.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A754C7062CA051716AB5705 /* Pods_Taximobility_Driver.framework */; };
+		BD4A05431D65B7C000E74435 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4A05421D65B7C000E74435 /* LocationManager.swift */; };
+		DC0F6D3E1CE1F45200706496 /* WalletHistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0F6D3D1CE1F45200706496 /* WalletHistoryViewController.swift */; };
+		DC0F6D421CE1F72A00706496 /* DashBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0F6D411CE1F72A00706496 /* DashBoardViewController.swift */; };
+		DC3306631C76D0AE0051F2F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3306621C76D0AE0051F2F6 /* AppDelegate.swift */; };
+		DC3306681C76D0AE0051F2F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC3306661C76D0AE0051F2F6 /* Main.storyboard */; };
+		DC3306781C76D0AE0051F2F6 /* Taximobility_DriverTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3306771C76D0AE0051F2F6 /* Taximobility_DriverTests.swift */; };
+		DC3306831C76D0AE0051F2F6 /* Taximobility_DriverUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3306821C76D0AE0051F2F6 /* Taximobility_DriverUITests.swift */; };
+		DC3306941C76D2940051F2F6 /* AppColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3306931C76D2940051F2F6 /* AppColor.swift */; };
+		DC3306961C76D3080051F2F6 /* AppFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3306951C76D3080051F2F6 /* AppFont.swift */; };
+		DC3306981C76D3BA0051F2F6 /* Header.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC3306971C76D3BA0051F2F6 /* Header.swift */; };
+		DC33069E1C76DD3D0051F2F6 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC33069D1C76DD3D0051F2F6 /* BaseViewController.swift */; };
+		DC3306A01C76DD580051F2F6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC33069F1C76DD580051F2F6 /* UIKit.framework */; };
+		DC3306A21C76DD600051F2F6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC3306A11C76DD600051F2F6 /* Foundation.framework */; };
+		DC3306A41C76DD660051F2F6 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC3306A31C76DD660051F2F6 /* CoreLocation.framework */; };
+		DC3306A61C76DD7D0051F2F6 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC3306A51C76DD7D0051F2F6 /* MobileCoreServices.framework */; };
+		DC36371F1C7B55650057BD82 /* Localize_Swift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC36371E1C7B55650057BD82 /* Localize_Swift.framework */; };
+		DC48E51F1C89C8B80062A9BC /* PaymentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC48E51E1C89C8B80062A9BC /* PaymentViewController.swift */; };
+		DC4A940A1C7DBB450051B429 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC4A94091C7DBB450051B429 /* ProfileViewController.swift */; };
+		DC4B8BAF1C85A0FB006D3E93 /* AcceptViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC4B8BAE1C85A0FB006D3E93 /* AcceptViewController.swift */; };
+		DC4D50A41C902F600071B967 /* HandleBackgroundRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC4D50A31C902F600071B967 /* HandleBackgroundRequest.swift */; };
+		DC4E69801C771B9000E00F20 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC4E697F1C771B9000E00F20 /* Extensions.swift */; };
+		DC4E69821C77220C00E00F20 /* DroidSans.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC4E69811C7721F900E00F20 /* DroidSans.ttf */; };
+		DC4E69861C77338000E00F20 /* APIDownload.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC4E69851C77338000E00F20 /* APIDownload.swift */; };
+		DC56C63B1C8B09F2007291C9 /* PaymentCompleteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC56C63A1C8B09F2007291C9 /* PaymentCompleteViewController.swift */; };
+		DC66291B1C9FC74900897E92 /* NEUROPOL.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC66291A1C9FC72E00897E92 /* NEUROPOL.ttf */; };
+		DC70CF7F1D964644006F035B /* OpenSans-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC70CF7E1D964619006F035B /* OpenSans-Semibold.ttf */; };
+		DC70CF821D9647F2006F035B /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC70CF811D9647E1006F035B /* OpenSans-Regular.ttf */; };
+		DC88E3D31CD0A2C000F2558C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC88E3D21CD0A2C000F2558C /* Assets.xcassets */; };
+		DC8CBE1A1C86CF4100F5963E /* TripInProgressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8CBE191C86CF4100F5963E /* TripInProgressViewController.swift */; };
+		DC9491021C8E969C00614912 /* GKAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC9491011C8E969C00614912 /* GKAlert.swift */; };
+		DC9574CF1C83FF5200197043 /* TripHistoryDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC9574CE1C83FF5200197043 /* TripHistoryDetailsViewController.swift */; };
+		DC963C5F1D9560E000C4768F /* Fabric.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC963C5D1D9560E000C4768F /* Fabric.framework */; };
+		DC963C601D9560E000C4768F /* Crashlytics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC963C5E1D9560E000C4768F /* Crashlytics.framework */; };
+		DC963C651D95710200C4768F /* Harpy.bundle in Resources */ = {isa = PBXBuildFile; fileRef = DC963C621D95710200C4768F /* Harpy.bundle */; };
+		DC963C661D95710200C4768F /* Harpy.m in Sources */ = {isa = PBXBuildFile; fileRef = DC963C641D95710200C4768F /* Harpy.m */; };
+		DC976DC41C7C333600B7822D /* Validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC976DC31C7C333600B7822D /* Validation.swift */; };
+		DC976DC91C7C3CEE00B7822D /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = DC976DCB1C7C3CEE00B7822D /* Localizable.strings */; };
+		DC976DD41C7C469D00B7822D /* SSKeychain.m in Sources */ = {isa = PBXBuildFile; fileRef = DC976DD11C7C469D00B7822D /* SSKeychain.m */; };
+		DC976DD51C7C469D00B7822D /* SSKeychainQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = DC976DD31C7C469D00B7822D /* SSKeychainQuery.m */; };
+		DC99405C1C7EB2B800ADFE7F /* MyLocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC99405B1C7EB2B800ADFE7F /* MyLocationViewController.swift */; };
+		DC9F675D1C8D323300D4E242 /* UnRegisteredCardPaymentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC9F675C1C8D323300D4E242 /* UnRegisteredCardPaymentViewController.swift */; };
+		DCA007AF1CD8556800FA1932 /* InviteFriendViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA007AE1CD8556800FA1932 /* InviteFriendViewController.swift */; };
+		DCA007B61CD8B96500FA1932 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DCA007B51CD8B96500FA1932 /* Social.framework */; };
+		DCA007B81CD8B96D00FA1932 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DCA007B71CD8B96D00FA1932 /* MessageUI.framework */; };
+		DCA772CC1C80519700F47699 /* TripHistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA772CB1C80519700F47699 /* TripHistoryViewController.swift */; };
+		DCA791CE1D8EA78E005BA9B6 /* AppInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA791CD1D8EA78E005BA9B6 /* AppInfo.swift */; };
+		DCA8872F1C85499C00C0F12A /* TrackLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA8872E1C85499C00C0F12A /* TrackLocation.swift */; };
+		DCAC3D441C900B9900C85DBF /* Alert.m4a in Resources */ = {isa = PBXBuildFile; fileRef = DCAC3D401C900B9900C85DBF /* Alert.m4a */; };
+		DCAC3D451C900B9900C85DBF /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DCAC3D411C900B9900C85DBF /* Info.plist */; };
+		DCAC3D461C900B9900C85DBF /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCAC3D431C900B9900C85DBF /* Reachability.swift */; };
+		DCFCBF731C7F11380098F3ED /* ImageCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCFCBF721C7F11380098F3ED /* ImageCache.swift */; };
+		DCFCBF761C7F20D70098F3ED /* EDStarRating.m in Sources */ = {isa = PBXBuildFile; fileRef = DCFCBF751C7F20D70098F3ED /* EDStarRating.m */; };
+		DCFF77E91D9B92D0005BB22B /* CommonDetails.plist in Resources */ = {isa = PBXBuildFile; fileRef = DCFF77E81D9B92D0005BB22B /* CommonDetails.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		DC3306741C76D0AE0051F2F6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DC3306571C76D0AE0051F2F6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DC33065E1C76D0AE0051F2F6;
+			remoteInfo = "Taximobility Driver";
+		};
+		DC33067F1C76D0AE0051F2F6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DC3306571C76D0AE0051F2F6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DC33065E1C76D0AE0051F2F6;
+			remoteInfo = "Taximobility Driver";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1848C3731D36CAD900A16C04 /* MarqueeLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MarqueeLabel.swift; sourceTree = "<group>"; };
+		5B5EDC74A6A86BCB51D26081 /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A754C7062CA051716AB5705 /* Pods_Taximobility_Driver.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Taximobility_Driver.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B6087A8B27667ED0D01E69FD /* Pods-Taximobility Driver.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Taximobility Driver.release.xcconfig"; path = "Pods/Target Support Files/Pods-Taximobility Driver/Pods-Taximobility Driver.release.xcconfig"; sourceTree = "<group>"; };
+		BD4A05421D65B7C000E74435 /* LocationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		C8955322DDD7791D9CB47F85 /* Pods-Taximobility Driver.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Taximobility Driver.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Taximobility Driver/Pods-Taximobility Driver.debug.xcconfig"; sourceTree = "<group>"; };
+		DC0F6D3D1CE1F45200706496 /* WalletHistoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WalletHistoryViewController.swift; sourceTree = "<group>"; };
+		DC0F6D411CE1F72A00706496 /* DashBoardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DashBoardViewController.swift; sourceTree = "<group>"; };
+		DC33065F1C76D0AE0051F2F6 /* Taxi Taxi Driver.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Taxi Taxi Driver.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC3306621C76D0AE0051F2F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DC3306671C76D0AE0051F2F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DC33066E1C76D0AE0051F2F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC3306731C76D0AE0051F2F6 /* Taxi Taxi Driver.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Taxi Taxi Driver.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC3306771C76D0AE0051F2F6 /* Taximobility_DriverTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Taximobility_DriverTests.swift; sourceTree = "<group>"; };
+		DC3306791C76D0AE0051F2F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC33067E1C76D0AE0051F2F6 /* Taxi Taxi Driver.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Taxi Taxi Driver.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC3306821C76D0AE0051F2F6 /* Taximobility_DriverUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Taximobility_DriverUITests.swift; sourceTree = "<group>"; };
+		DC3306841C76D0AE0051F2F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC3306931C76D2940051F2F6 /* AppColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppColor.swift; path = ../AppColor.swift; sourceTree = "<group>"; };
+		DC3306951C76D3080051F2F6 /* AppFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppFont.swift; path = ../AppFont.swift; sourceTree = "<group>"; };
+		DC3306971C76D3BA0051F2F6 /* Header.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Header.swift; sourceTree = "<group>"; };
+		DC33069D1C76DD3D0051F2F6 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		DC33069F1C76DD580051F2F6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		DC3306A11C76DD600051F2F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		DC3306A31C76DD660051F2F6 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		DC3306A51C76DD7D0051F2F6 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		DC36371E1C7B55650057BD82 /* Localize_Swift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Localize_Swift.framework; path = "Pods/../build/Debug-iphoneos/Localize_Swift.framework"; sourceTree = "<group>"; };
+		DC48E51E1C89C8B80062A9BC /* PaymentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaymentViewController.swift; sourceTree = "<group>"; };
+		DC4A94091C7DBB450051B429 /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		DC4B8BAE1C85A0FB006D3E93 /* AcceptViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AcceptViewController.swift; sourceTree = "<group>"; };
+		DC4D50A31C902F600071B967 /* HandleBackgroundRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HandleBackgroundRequest.swift; sourceTree = "<group>"; };
+		DC4E697F1C771B9000E00F20 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Extensions.swift; path = ../Extensions.swift; sourceTree = "<group>"; };
+		DC4E69811C7721F900E00F20 /* DroidSans.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = DroidSans.ttf; sourceTree = "<group>"; };
+		DC4E69851C77338000E00F20 /* APIDownload.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIDownload.swift; sourceTree = "<group>"; };
+		DC56C63A1C8B09F2007291C9 /* PaymentCompleteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PaymentCompleteViewController.swift; sourceTree = "<group>"; };
+		DC58FE871D8EB92900D736F3 /* ta */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ta; path = ta.lproj/Main.strings; sourceTree = "<group>"; };
+		DC58FE881D8EB92A00D736F3 /* ta */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ta; path = ta.lproj/Localizable.strings; sourceTree = "<group>"; };
+		DC66291A1C9FC72E00897E92 /* NEUROPOL.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = NEUROPOL.ttf; sourceTree = "<group>"; };
+		DC70CF7E1D964619006F035B /* OpenSans-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Semibold.ttf"; sourceTree = "<group>"; };
+		DC70CF811D9647E1006F035B /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		DC88E3D21CD0A2C000F2558C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DC8CBE191C86CF4100F5963E /* TripInProgressViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TripInProgressViewController.swift; sourceTree = "<group>"; };
+		DC9491011C8E969C00614912 /* GKAlert.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GKAlert.swift; sourceTree = "<group>"; };
+		DC9574CE1C83FF5200197043 /* TripHistoryDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TripHistoryDetailsViewController.swift; sourceTree = "<group>"; };
+		DC963C5D1D9560E000C4768F /* Fabric.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Fabric.framework; sourceTree = "<group>"; };
+		DC963C5E1D9560E000C4768F /* Crashlytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Crashlytics.framework; sourceTree = "<group>"; };
+		DC963C621D95710200C4768F /* Harpy.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Harpy.bundle; sourceTree = "<group>"; };
+		DC963C631D95710200C4768F /* Harpy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Harpy.h; sourceTree = "<group>"; };
+		DC963C641D95710200C4768F /* Harpy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Harpy.m; sourceTree = "<group>"; };
+		DC976DC31C7C333600B7822D /* Validation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Validation.swift; sourceTree = "<group>"; };
+		DC976DCA1C7C3CEE00B7822D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		DC976DCF1C7C469C00B7822D /* Taximobility Driver-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Taximobility Driver-Bridging-Header.h"; sourceTree = "<group>"; };
+		DC976DD01C7C469D00B7822D /* SSKeychain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSKeychain.h; sourceTree = "<group>"; };
+		DC976DD11C7C469D00B7822D /* SSKeychain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSKeychain.m; sourceTree = "<group>"; };
+		DC976DD21C7C469D00B7822D /* SSKeychainQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSKeychainQuery.h; sourceTree = "<group>"; };
+		DC976DD31C7C469D00B7822D /* SSKeychainQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSKeychainQuery.m; sourceTree = "<group>"; };
+		DC99405B1C7EB2B800ADFE7F /* MyLocationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyLocationViewController.swift; sourceTree = "<group>"; };
+		DC9A24311C9283CF00BD45FD /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
+		DC9A24331C9283CF00BD45FD /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		DC9A24341C9283FF00BD45FD /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main.strings; sourceTree = "<group>"; };
+		DC9A24361C9283FF00BD45FD /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		DC9A24371C92840900BD45FD /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
+		DC9A24391C92840900BD45FD /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		DC9A243A1C92847300BD45FD /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Main.strings; sourceTree = "<group>"; };
+		DC9A243C1C92847300BD45FD /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		DC9F675C1C8D323300D4E242 /* UnRegisteredCardPaymentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnRegisteredCardPaymentViewController.swift; sourceTree = "<group>"; };
+		DCA007AE1CD8556800FA1932 /* InviteFriendViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InviteFriendViewController.swift; sourceTree = "<group>"; };
+		DCA007B51CD8B96500FA1932 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
+		DCA007B71CD8B96D00FA1932 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		DCA748821C913D2D002CE473 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Main.strings; sourceTree = "<group>"; };
+		DCA748841C913D2D002CE473 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
+		DCA772CB1C80519700F47699 /* TripHistoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TripHistoryViewController.swift; path = ../TripHistoryViewController.swift; sourceTree = "<group>"; };
+		DCA791CD1D8EA78E005BA9B6 /* AppInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppInfo.swift; sourceTree = "<group>"; };
+		DCA8872E1C85499C00C0F12A /* TrackLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrackLocation.swift; sourceTree = "<group>"; };
+		DCAC3D401C900B9900C85DBF /* Alert.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Alert.m4a; sourceTree = "<group>"; };
+		DCAC3D411C900B9900C85DBF /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCAC3D421C900B9900C85DBF /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		DCAC3D431C900B9900C85DBF /* Reachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
+		DCFCBF721C7F11380098F3ED /* ImageCache.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ImageCache.swift; path = ../ImageCache.swift; sourceTree = "<group>"; };
+		DCFCBF741C7F20D70098F3ED /* EDStarRating.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EDStarRating.h; sourceTree = "<group>"; };
+		DCFCBF751C7F20D70098F3ED /* EDStarRating.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EDStarRating.m; sourceTree = "<group>"; };
+		DCFF77E81D9B92D0005BB22B /* CommonDetails.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CommonDetails.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DC33065C1C76D0AE0051F2F6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DCA007B81CD8B96D00FA1932 /* MessageUI.framework in Frameworks */,
+				DCA007B61CD8B96500FA1932 /* Social.framework in Frameworks */,
+				DC36371F1C7B55650057BD82 /* Localize_Swift.framework in Frameworks */,
+				DC3306A61C76DD7D0051F2F6 /* MobileCoreServices.framework in Frameworks */,
+				DC3306A41C76DD660051F2F6 /* CoreLocation.framework in Frameworks */,
+				DC963C5F1D9560E000C4768F /* Fabric.framework in Frameworks */,
+				DC963C601D9560E000C4768F /* Crashlytics.framework in Frameworks */,
+				DC3306A21C76DD600051F2F6 /* Foundation.framework in Frameworks */,
+				DC3306A01C76DD580051F2F6 /* UIKit.framework in Frameworks */,
+				606CEB6862056D776D71863B /* Pods_Taximobility_Driver.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DC3306701C76D0AE0051F2F6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DC33067B1C76D0AE0051F2F6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		559F897DDBA7C9F3140DE520 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				C8955322DDD7791D9CB47F85 /* Pods-Taximobility Driver.debug.xcconfig */,
+				B6087A8B27667ED0D01E69FD /* Pods-Taximobility Driver.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		D7C56817BD41040494282A2D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DC963C5D1D9560E000C4768F /* Fabric.framework */,
+				DC963C5E1D9560E000C4768F /* Crashlytics.framework */,
+				DCA007B71CD8B96D00FA1932 /* MessageUI.framework */,
+				DCA007B51CD8B96500FA1932 /* Social.framework */,
+				DC36371E1C7B55650057BD82 /* Localize_Swift.framework */,
+				5B5EDC74A6A86BCB51D26081 /* Pods.framework */,
+				6A754C7062CA051716AB5705 /* Pods_Taximobility_Driver.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DC0F6D401CE1F46D00706496 /* WallletHistory */ = {
+			isa = PBXGroup;
+			children = (
+				DC0F6D3D1CE1F45200706496 /* WalletHistoryViewController.swift */,
+			);
+			name = WallletHistory;
+			sourceTree = "<group>";
+		};
+		DC3306561C76D0AE0051F2F6 = {
+			isa = PBXGroup;
+			children = (
+				DC3306971C76D3BA0051F2F6 /* Header.swift */,
+				DC3306611C76D0AE0051F2F6 /* Taximobility Driver */,
+				DC3306761C76D0AE0051F2F6 /* Taximobility DriverTests */,
+				DC3306811C76D0AE0051F2F6 /* Taximobility DriverUITests */,
+				DC3306601C76D0AE0051F2F6 /* Products */,
+				D7C56817BD41040494282A2D /* Frameworks */,
+				559F897DDBA7C9F3140DE520 /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		DC3306601C76D0AE0051F2F6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DC33065F1C76D0AE0051F2F6 /* Taxi Taxi Driver.app */,
+				DC3306731C76D0AE0051F2F6 /* Taxi Taxi Driver.xctest */,
+				DC33067E1C76D0AE0051F2F6 /* Taxi Taxi Driver.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DC3306611C76D0AE0051F2F6 /* Taximobility Driver */ = {
+			isa = PBXGroup;
+			children = (
+				DC70CF801D9647CE006F035B /* Font */,
+				DC963C671D9574BE00C4768F /* AppInfo */,
+				DC0F6D401CE1F46D00706496 /* WallletHistory */,
+				DCA007B01CD8557000FA1932 /* InviteFriends */,
+				DC9491031C8E96A400614912 /* GKAlert */,
+				DC48E5201C89C8BC0062A9BC /* Payment */,
+				DC8CBE1B1C86CF4E00F5963E /* TripInProgres */,
+				DC4B8BA51C85A012006D3E93 /* Accept */,
+				DCA887301C854A0E00C0F12A /* TrackLocation */,
+				DCA772CD1C8051AC00F47699 /* TripHistory */,
+				DC99405A1C7EB23200ADFE7F /* My Location */,
+				DC9940591C7EB22800ADFE7F /* Profile */,
+				DC3306AC1C76DEDC0051F2F6 /* Fundamentals */,
+				DC3306AB1C76DEA30051F2F6 /* AppDelegate */,
+				DC3306AA1C76DE9D0051F2F6 /* BaseViewController */,
+				DC3306A91C76DE9B0051F2F6 /* Dashboard */,
+				DC3306A71C76DE560051F2F6 /* Frameworks */,
+				DC88E3D21CD0A2C000F2558C /* Assets.xcassets */,
+				DC3306661C76D0AE0051F2F6 /* Main.storyboard */,
+				DC33066E1C76D0AE0051F2F6 /* Info.plist */,
+			);
+			path = "Taximobility Driver";
+			sourceTree = "<group>";
+		};
+		DC3306761C76D0AE0051F2F6 /* Taximobility DriverTests */ = {
+			isa = PBXGroup;
+			children = (
+				DC3306771C76D0AE0051F2F6 /* Taximobility_DriverTests.swift */,
+				DC3306791C76D0AE0051F2F6 /* Info.plist */,
+			);
+			path = "Taximobility DriverTests";
+			sourceTree = "<group>";
+		};
+		DC3306811C76D0AE0051F2F6 /* Taximobility DriverUITests */ = {
+			isa = PBXGroup;
+			children = (
+				DC3306821C76D0AE0051F2F6 /* Taximobility_DriverUITests.swift */,
+				DC3306841C76D0AE0051F2F6 /* Info.plist */,
+			);
+			path = "Taximobility DriverUITests";
+			sourceTree = "<group>";
+		};
+		DC3306A71C76DE560051F2F6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DC3306A51C76DD7D0051F2F6 /* MobileCoreServices.framework */,
+				DC3306A31C76DD660051F2F6 /* CoreLocation.framework */,
+				DC3306A11C76DD600051F2F6 /* Foundation.framework */,
+				DC33069F1C76DD580051F2F6 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DC3306A91C76DE9B0051F2F6 /* Dashboard */ = {
+			isa = PBXGroup;
+			children = (
+				DC0F6D411CE1F72A00706496 /* DashBoardViewController.swift */,
+				DC4E69851C77338000E00F20 /* APIDownload.swift */,
+			);
+			name = Dashboard;
+			sourceTree = "<group>";
+		};
+		DC3306AA1C76DE9D0051F2F6 /* BaseViewController */ = {
+			isa = PBXGroup;
+			children = (
+				DC33069D1C76DD3D0051F2F6 /* BaseViewController.swift */,
+			);
+			name = BaseViewController;
+			sourceTree = "<group>";
+		};
+		DC3306AB1C76DEA30051F2F6 /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				DC3306621C76D0AE0051F2F6 /* AppDelegate.swift */,
+			);
+			name = AppDelegate;
+			sourceTree = "<group>";
+		};
+		DC3306AC1C76DEDC0051F2F6 /* Fundamentals */ = {
+			isa = PBXGroup;
+			children = (
+				DC963C611D9570F200C4768F /* Harpy */,
+				BD4A05421D65B7C000E74435 /* LocationManager.swift */,
+				DC3306931C76D2940051F2F6 /* AppColor.swift */,
+				1848C3731D36CAD900A16C04 /* MarqueeLabel.swift */,
+				DC976DD01C7C469D00B7822D /* SSKeychain.h */,
+				DC976DD11C7C469D00B7822D /* SSKeychain.m */,
+				DC976DD21C7C469D00B7822D /* SSKeychainQuery.h */,
+				DC976DD31C7C469D00B7822D /* SSKeychainQuery.m */,
+				DCFCBF741C7F20D70098F3ED /* EDStarRating.h */,
+				DCFCBF751C7F20D70098F3ED /* EDStarRating.m */,
+				DC976DCF1C7C469C00B7822D /* Taximobility Driver-Bridging-Header.h */,
+				DCAC3D3F1C900B9900C85DBF /* Reachability */,
+				DC3306951C76D3080051F2F6 /* AppFont.swift */,
+				DC4E697F1C771B9000E00F20 /* Extensions.swift */,
+				DC976DC31C7C333600B7822D /* Validation.swift */,
+				DC976DCB1C7C3CEE00B7822D /* Localizable.strings */,
+			);
+			name = Fundamentals;
+			sourceTree = "<group>";
+		};
+		DC48E5201C89C8BC0062A9BC /* Payment */ = {
+			isa = PBXGroup;
+			children = (
+				DC9F675C1C8D323300D4E242 /* UnRegisteredCardPaymentViewController.swift */,
+				DC48E51E1C89C8B80062A9BC /* PaymentViewController.swift */,
+				DC56C63A1C8B09F2007291C9 /* PaymentCompleteViewController.swift */,
+			);
+			name = Payment;
+			sourceTree = "<group>";
+		};
+		DC4B8BA51C85A012006D3E93 /* Accept */ = {
+			isa = PBXGroup;
+			children = (
+				DC4B8BAE1C85A0FB006D3E93 /* AcceptViewController.swift */,
+			);
+			name = Accept;
+			sourceTree = "<group>";
+		};
+		DC70CF801D9647CE006F035B /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				DC4E69811C7721F900E00F20 /* DroidSans.ttf */,
+				DC66291A1C9FC72E00897E92 /* NEUROPOL.ttf */,
+				DC70CF811D9647E1006F035B /* OpenSans-Regular.ttf */,
+				DC70CF7E1D964619006F035B /* OpenSans-Semibold.ttf */,
+			);
+			name = Font;
+			sourceTree = "<group>";
+		};
+		DC8CBE1B1C86CF4E00F5963E /* TripInProgres */ = {
+			isa = PBXGroup;
+			children = (
+				DC8CBE191C86CF4100F5963E /* TripInProgressViewController.swift */,
+			);
+			name = TripInProgres;
+			sourceTree = "<group>";
+		};
+		DC9491031C8E96A400614912 /* GKAlert */ = {
+			isa = PBXGroup;
+			children = (
+				DC9491011C8E969C00614912 /* GKAlert.swift */,
+			);
+			name = GKAlert;
+			sourceTree = "<group>";
+		};
+		DC963C611D9570F200C4768F /* Harpy */ = {
+			isa = PBXGroup;
+			children = (
+				DC963C621D95710200C4768F /* Harpy.bundle */,
+				DC963C631D95710200C4768F /* Harpy.h */,
+				DC963C641D95710200C4768F /* Harpy.m */,
+			);
+			name = Harpy;
+			sourceTree = "<group>";
+		};
+		DC963C671D9574BE00C4768F /* AppInfo */ = {
+			isa = PBXGroup;
+			children = (
+				DCA791CD1D8EA78E005BA9B6 /* AppInfo.swift */,
+				DCFF77E81D9B92D0005BB22B /* CommonDetails.plist */,
+			);
+			name = AppInfo;
+			sourceTree = "<group>";
+		};
+		DC9940591C7EB22800ADFE7F /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				DC4A94091C7DBB450051B429 /* ProfileViewController.swift */,
+				DCFCBF721C7F11380098F3ED /* ImageCache.swift */,
+			);
+			name = Profile;
+			sourceTree = "<group>";
+		};
+		DC99405A1C7EB23200ADFE7F /* My Location */ = {
+			isa = PBXGroup;
+			children = (
+				DC99405B1C7EB2B800ADFE7F /* MyLocationViewController.swift */,
+			);
+			name = "My Location";
+			sourceTree = "<group>";
+		};
+		DCA007B01CD8557000FA1932 /* InviteFriends */ = {
+			isa = PBXGroup;
+			children = (
+				DCA007AE1CD8556800FA1932 /* InviteFriendViewController.swift */,
+			);
+			name = InviteFriends;
+			sourceTree = "<group>";
+		};
+		DCA772CD1C8051AC00F47699 /* TripHistory */ = {
+			isa = PBXGroup;
+			children = (
+				DCA772CB1C80519700F47699 /* TripHistoryViewController.swift */,
+				DC9574CE1C83FF5200197043 /* TripHistoryDetailsViewController.swift */,
+			);
+			name = TripHistory;
+			sourceTree = "<group>";
+		};
+		DCA887301C854A0E00C0F12A /* TrackLocation */ = {
+			isa = PBXGroup;
+			children = (
+				DCA8872E1C85499C00C0F12A /* TrackLocation.swift */,
+				DC4D50A31C902F600071B967 /* HandleBackgroundRequest.swift */,
+			);
+			name = TrackLocation;
+			sourceTree = "<group>";
+		};
+		DCAC3D3F1C900B9900C85DBF /* Reachability */ = {
+			isa = PBXGroup;
+			children = (
+				DCAC3D401C900B9900C85DBF /* Alert.m4a */,
+				DCAC3D411C900B9900C85DBF /* Info.plist */,
+				DCAC3D421C900B9900C85DBF /* Reachability.h */,
+				DCAC3D431C900B9900C85DBF /* Reachability.swift */,
+			);
+			path = Reachability;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DC33065E1C76D0AE0051F2F6 /* Taxi Taxi Driver */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DC3306871C76D0AE0051F2F6 /* Build configuration list for PBXNativeTarget "Taxi Taxi Driver" */;
+			buildPhases = (
+				318FC4E48CDB484F7D507367 /* 📦 Check Pods Manifest.lock */,
+				DC33065B1C76D0AE0051F2F6 /* Sources */,
+				DC33065C1C76D0AE0051F2F6 /* Frameworks */,
+				DC33065D1C76D0AE0051F2F6 /* Resources */,
+				FF198579819E9AA200DC1FD6 /* 📦 Embed Pods Frameworks */,
+				D27CC139AE78E0EB31ACA0C6 /* 📦 Copy Pods Resources */,
+				DC58FE891D8EB9EB00D736F3 /* ShellScript */,
+				DC963C5C1D9560C200C4768F /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Taxi Taxi Driver";
+			productName = "Taximobility Driver";
+			productReference = DC33065F1C76D0AE0051F2F6 /* Taxi Taxi Driver.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DC3306721C76D0AE0051F2F6 /* Taxi Taxi DriverTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DC33068A1C76D0AE0051F2F6 /* Build configuration list for PBXNativeTarget "Taxi Taxi DriverTests" */;
+			buildPhases = (
+				DC33066F1C76D0AE0051F2F6 /* Sources */,
+				DC3306701C76D0AE0051F2F6 /* Frameworks */,
+				DC3306711C76D0AE0051F2F6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DC3306751C76D0AE0051F2F6 /* PBXTargetDependency */,
+			);
+			name = "Taxi Taxi DriverTests";
+			productName = "Taximobility DriverTests";
+			productReference = DC3306731C76D0AE0051F2F6 /* Taxi Taxi Driver.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		DC33067D1C76D0AE0051F2F6 /* Taxi Taxi DriverUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DC33068D1C76D0AE0051F2F6 /* Build configuration list for PBXNativeTarget "Taxi Taxi DriverUITests" */;
+			buildPhases = (
+				DC33067A1C76D0AE0051F2F6 /* Sources */,
+				DC33067B1C76D0AE0051F2F6 /* Frameworks */,
+				DC33067C1C76D0AE0051F2F6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DC3306801C76D0AE0051F2F6 /* PBXTargetDependency */,
+			);
+			name = "Taxi Taxi DriverUITests";
+			productName = "Taximobility DriverUITests";
+			productReference = DC33067E1C76D0AE0051F2F6 /* Taxi Taxi Driver.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DC3306571C76D0AE0051F2F6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = Ndot;
+				TargetAttributes = {
+					DC33065E1C76D0AE0051F2F6 = {
+						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = 798SE99488;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
+					};
+					DC3306721C76D0AE0051F2F6 = {
+						CreatedOnToolsVersion = 7.2;
+						TestTargetID = DC33065E1C76D0AE0051F2F6;
+					};
+					DC33067D1C76D0AE0051F2F6 = {
+						CreatedOnToolsVersion = 7.2;
+						TestTargetID = DC33065E1C76D0AE0051F2F6;
+					};
+				};
+			};
+			buildConfigurationList = DC33065A1C76D0AE0051F2F6 /* Build configuration list for PBXProject "Taxi Taxi Driver" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				ar,
+				fr,
+				de,
+				ru,
+				tr,
+				ta,
+			);
+			mainGroup = DC3306561C76D0AE0051F2F6;
+			productRefGroup = DC3306601C76D0AE0051F2F6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DC33065E1C76D0AE0051F2F6 /* Taxi Taxi Driver */,
+				DC3306721C76D0AE0051F2F6 /* Taxi Taxi DriverTests */,
+				DC33067D1C76D0AE0051F2F6 /* Taxi Taxi DriverUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DC33065D1C76D0AE0051F2F6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC70CF821D9647F2006F035B /* OpenSans-Regular.ttf in Resources */,
+				DC70CF7F1D964644006F035B /* OpenSans-Semibold.ttf in Resources */,
+				DC66291B1C9FC74900897E92 /* NEUROPOL.ttf in Resources */,
+				DC4E69821C77220C00E00F20 /* DroidSans.ttf in Resources */,
+				DCFF77E91D9B92D0005BB22B /* CommonDetails.plist in Resources */,
+				DC976DC91C7C3CEE00B7822D /* Localizable.strings in Resources */,
+				DCAC3D441C900B9900C85DBF /* Alert.m4a in Resources */,
+				DC963C651D95710200C4768F /* Harpy.bundle in Resources */,
+				DC88E3D31CD0A2C000F2558C /* Assets.xcassets in Resources */,
+				DC3306681C76D0AE0051F2F6 /* Main.storyboard in Resources */,
+				DCAC3D451C900B9900C85DBF /* Info.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DC3306711C76D0AE0051F2F6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DC33067C1C76D0AE0051F2F6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		318FC4E48CDB484F7D507367 /* 📦 Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D27CC139AE78E0EB31ACA0C6 /* 📦 Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Taximobility Driver/Pods-Taximobility Driver-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DC58FE891D8EB9EB00D736F3 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "KEYWORDS=\"TODO:|FIXME:|\\?\\?\\?:|\\!\\!\\!:\"\nfind \"${SRCROOT}\" \\( -name \"*.h\" -or -name \"*.m\" \\) -print0 | xargs -0 egrep --with-filename --line-number --only-matching \"($KEYWORDS).*\\$\" | perl -p -e \"s/($KEYWORDS)/ warning: \\$1/\"";
+		};
+		DC963C5C1D9560C200C4768F /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "./Fabric.framework/run 5dc2b766657be45a7195ef6848523cad5a5f1698 45c142b2960cbdc34303f971bf7193911415293c1492f1acbb1b491d2856fe4c";
+		};
+		FF198579819E9AA200DC1FD6 /* 📦 Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "📦 Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Taximobility Driver/Pods-Taximobility Driver-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DC33065B1C76D0AE0051F2F6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC9491021C8E969C00614912 /* GKAlert.swift in Sources */,
+				DCA772CC1C80519700F47699 /* TripHistoryViewController.swift in Sources */,
+				DCA791CE1D8EA78E005BA9B6 /* AppInfo.swift in Sources */,
+				BD4A05431D65B7C000E74435 /* LocationManager.swift in Sources */,
+				DCFCBF731C7F11380098F3ED /* ImageCache.swift in Sources */,
+				DC4D50A41C902F600071B967 /* HandleBackgroundRequest.swift in Sources */,
+				DC963C661D95710200C4768F /* Harpy.m in Sources */,
+				DCFCBF761C7F20D70098F3ED /* EDStarRating.m in Sources */,
+				DC3306981C76D3BA0051F2F6 /* Header.swift in Sources */,
+				DCA007AF1CD8556800FA1932 /* InviteFriendViewController.swift in Sources */,
+				DC4E69801C771B9000E00F20 /* Extensions.swift in Sources */,
+				DC56C63B1C8B09F2007291C9 /* PaymentCompleteViewController.swift in Sources */,
+				DC3306961C76D3080051F2F6 /* AppFont.swift in Sources */,
+				DC976DD51C7C469D00B7822D /* SSKeychainQuery.m in Sources */,
+				1848C3741D36CAD900A16C04 /* MarqueeLabel.swift in Sources */,
+				DC8CBE1A1C86CF4100F5963E /* TripInProgressViewController.swift in Sources */,
+				DC33069E1C76DD3D0051F2F6 /* BaseViewController.swift in Sources */,
+				DC3306631C76D0AE0051F2F6 /* AppDelegate.swift in Sources */,
+				DCA8872F1C85499C00C0F12A /* TrackLocation.swift in Sources */,
+				DC4B8BAF1C85A0FB006D3E93 /* AcceptViewController.swift in Sources */,
+				DC9574CF1C83FF5200197043 /* TripHistoryDetailsViewController.swift in Sources */,
+				DC0F6D3E1CE1F45200706496 /* WalletHistoryViewController.swift in Sources */,
+				DC4E69861C77338000E00F20 /* APIDownload.swift in Sources */,
+				DC99405C1C7EB2B800ADFE7F /* MyLocationViewController.swift in Sources */,
+				DC48E51F1C89C8B80062A9BC /* PaymentViewController.swift in Sources */,
+				DC976DD41C7C469D00B7822D /* SSKeychain.m in Sources */,
+				DC4A940A1C7DBB450051B429 /* ProfileViewController.swift in Sources */,
+				DC976DC41C7C333600B7822D /* Validation.swift in Sources */,
+				DC9F675D1C8D323300D4E242 /* UnRegisteredCardPaymentViewController.swift in Sources */,
+				DCAC3D461C900B9900C85DBF /* Reachability.swift in Sources */,
+				DC0F6D421CE1F72A00706496 /* DashBoardViewController.swift in Sources */,
+				DC3306941C76D2940051F2F6 /* AppColor.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DC33066F1C76D0AE0051F2F6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC3306781C76D0AE0051F2F6 /* Taximobility_DriverTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DC33067A1C76D0AE0051F2F6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC3306831C76D0AE0051F2F6 /* Taximobility_DriverUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DC3306751C76D0AE0051F2F6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DC33065E1C76D0AE0051F2F6 /* Taxi Taxi Driver */;
+			targetProxy = DC3306741C76D0AE0051F2F6 /* PBXContainerItemProxy */;
+		};
+		DC3306801C76D0AE0051F2F6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DC33065E1C76D0AE0051F2F6 /* Taxi Taxi Driver */;
+			targetProxy = DC33067F1C76D0AE0051F2F6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		DC3306661C76D0AE0051F2F6 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DC3306671C76D0AE0051F2F6 /* Base */,
+				DCA748821C913D2D002CE473 /* ar */,
+				DC9A24311C9283CF00BD45FD /* fr */,
+				DC9A24341C9283FF00BD45FD /* de */,
+				DC9A24371C92840900BD45FD /* ru */,
+				DC9A243A1C92847300BD45FD /* tr */,
+				DC58FE871D8EB92900D736F3 /* ta */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DC976DCB1C7C3CEE00B7822D /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DC976DCA1C7C3CEE00B7822D /* en */,
+				DCA748841C913D2D002CE473 /* ar */,
+				DC9A24331C9283CF00BD45FD /* fr */,
+				DC9A24361C9283FF00BD45FD /* de */,
+				DC9A24391C92840900BD45FD /* ru */,
+				DC9A243C1C92847300BD45FD /* tr */,
+				DC58FE881D8EB92A00D736F3 /* ta */,
+			);
+			name = Localizable.strings;
+			path = ..;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DC3306851C76D0AE0051F2F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		DC3306861C76D0AE0051F2F6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DC3306881C76D0AE0051F2F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C8955322DDD7791D9CB47F85 /* Pods-Taximobility Driver.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Anand Palanisami (798SE99488)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Anand Palanisami (798SE99488)";
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/build/Debug-iphoneos",
+					"$(PROJECT_DIR)/Taximobility",
+					Driver,
+					"$(PROJECT_DIR)/Taximobility",
+					Driver,
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = "Taximobility Driver/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.taxitaxi.driver;
+				PRODUCT_NAME = "Taxi Taxi Driver";
+				PROVISIONING_PROFILE = "8ef7116c-7a4f-4115-8229-b72894450e7d";
+				SWIFT_OBJC_BRIDGING_HEADER = "Taximobility Driver/Taximobility Driver-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		DC3306891C76D0AE0051F2F6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B6087A8B27667ED0D01E69FD /* Pods-Taximobility Driver.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Anand Palanisami (798SE99488)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Anand Palanisami (798SE99488)";
+				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/build/Debug-iphoneos",
+					"$(PROJECT_DIR)/Taximobility",
+					Driver,
+					"$(PROJECT_DIR)/Taximobility",
+					Driver,
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = "Taximobility Driver/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.taxitaxi.driver;
+				PRODUCT_NAME = "Taxi Taxi Driver";
+				PROVISIONING_PROFILE = "8ef7116c-7a4f-4115-8229-b72894450e7d";
+				SWIFT_OBJC_BRIDGING_HEADER = "Taximobility Driver/Taximobility Driver-Bridging-Header.h";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		DC33068B1C76D0AE0051F2F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Taximobility DriverTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ndot.Taximobility-DriverTests";
+				PRODUCT_NAME = "Taxi Taxi Driver";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Taxi Taxi Driver.app/Taxi Taxi Driver";
+			};
+			name = Debug;
+		};
+		DC33068C1C76D0AE0051F2F6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "Taximobility DriverTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ndot.Taximobility-DriverTests";
+				PRODUCT_NAME = "Taxi Taxi Driver";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Taxi Taxi Driver.app/Taxi Taxi Driver";
+			};
+			name = Release;
+		};
+		DC33068E1C76D0AE0051F2F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Taximobility DriverUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ndot.Taximobility-DriverUITests";
+				PRODUCT_NAME = "Taxi Taxi Driver";
+				PROVISIONING_PROFILE = "07ffcf1f-bd8e-457a-a050-562ffb225942";
+				TEST_TARGET_NAME = "Taxi Taxi Driver";
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		DC33068F1C76D0AE0051F2F6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Taximobility DriverUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ndot.Taximobility-DriverUITests";
+				PRODUCT_NAME = "Taxi Taxi Driver";
+				PROVISIONING_PROFILE = "07ffcf1f-bd8e-457a-a050-562ffb225942";
+				TEST_TARGET_NAME = "Taxi Taxi Driver";
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DC33065A1C76D0AE0051F2F6 /* Build configuration list for PBXProject "Taxi Taxi Driver" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DC3306851C76D0AE0051F2F6 /* Debug */,
+				DC3306861C76D0AE0051F2F6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DC3306871C76D0AE0051F2F6 /* Build configuration list for PBXNativeTarget "Taxi Taxi Driver" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DC3306881C76D0AE0051F2F6 /* Debug */,
+				DC3306891C76D0AE0051F2F6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DC33068A1C76D0AE0051F2F6 /* Build configuration list for PBXNativeTarget "Taxi Taxi DriverTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DC33068B1C76D0AE0051F2F6 /* Debug */,
+				DC33068C1C76D0AE0051F2F6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DC33068D1C76D0AE0051F2F6 /* Build configuration list for PBXNativeTarget "Taxi Taxi DriverUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DC33068E1C76D0AE0051F2F6 /* Debug */,
+				DC33068F1C76D0AE0051F2F6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DC3306571C76D0AE0051F2F6 /* Project object */;
+}

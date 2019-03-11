@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2xs-Ps-3iV"; */
+"2xs-Ps-3iV.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Trip Id : 2053"; ObjectID = "3Hl-6I-VJs"; */
+"3Hl-6I-VJs.text" = "Trip Id : 2053";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6Ox-WT-31Y"; */
+"6Ox-WT-31Y.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "7s7-OX-hBi"; */
+"7s7-OX-hBi.placeholder" = "Mobile Number";
+
+/* Class = "UILabel"; text = "$ 15.00"; ObjectID = "Kqc-E1-kXK"; */
+"Kqc-E1-kXK.text" = "$ 15.00";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Y3q-kk-K4g"; */
+"Y3q-kk-K4g.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "aJ9-aQ-Clt"; */
+"aJ9-aQ-Clt.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jgX-OQ-87O"; */
+"jgX-OQ-87O.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "mcx-Cd-OJh"; */
+"mcx-Cd-OJh.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "nwr-oN-F4M"; */
+"nwr-oN-F4M.normalTitle" = "Logout";

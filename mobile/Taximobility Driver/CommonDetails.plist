@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App Languages</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>English</string>
+			<key>key</key>
+			<string>en</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>தமிழ்</string>
+			<key>key</key>
+			<string>ta</string>
+		</dict>
+	</array>
+	<key>Car Models</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>default Car</string>
+			<key>icon</key>
+			<string>NoCarTopView</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mini</string>
+			<key>icon</key>
+			<string>MiniTopView</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SEDAN</string>
+			<key>icon</key>
+			<string>sedanTopView</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Suv</string>
+			<key>icon</key>
+			<string>suvTopView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
